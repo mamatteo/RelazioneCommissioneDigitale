@@ -1,8 +1,5 @@
 *****
-La digitalizzazione nella pubblica amministrazione italiana
-*****
-analisi degli errori e valutazione delle priorità, dall’efficacia degli strumenti all’importanza del capitale umano
-########
+La digitalizzazione nella pubblica amministrazione italiana: analisi degli errori e valutazione delle priorità, dall’efficacia degli strumenti all’importanza del capitale umano
 
 RELAZIONE SULL'ATTIVITÀ SVOLTA
 ***********
