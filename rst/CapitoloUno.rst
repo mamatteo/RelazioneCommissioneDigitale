@@ -19,8 +19,8 @@ di audizioni e di ospiti presenti, le indicazioni sulla conservazione
 dei documenti attraverso la modalità 'digital first' e l'articolazione
 della presente relazione.
 
-    ***1.1. Le finalità dell’inchiesta***
-
+1.1 Le finalità dell'inchiesta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Da anni l’Italia si trova in coda alla classifica del Digital Economy
 and Society Index (DESI), l’indice che analizza la connettività, il
 capitale umano, l’uso di Internet, l’integrazione degli strumenti
@@ -91,17 +91,17 @@ in un anno.
 Ai sensi  dell’articolo , comma 2 della delibera istitutiva è compito
 della Commissione, in particolare:
 
-    a) verificare le risorse finanziarie stanziate ed il loro utilizzo,
+- verificare le risorse finanziarie stanziate ed il loro utilizzo,
     nonché la quantità, la tipologia e l'efficacia degli investimenti
     effettuati nel corso degli anni nel settore delle ICT da parte delle
     pubbliche amministrazioni statali regionali e locali, anche al fine
     di individuare i possibili sprechi ed investimenti errati;
 
-    b) effettuare una comparazione tra la spesa pubblica nel settore
+- effettuare una comparazione tra la spesa pubblica nel settore
     delle ICT nei maggiori Paesi europei e l'Italia, nonché un'analisi
     sulle tendenze in atto;
 
-    c) esaminare, anche verificando i titoli di studio e il livello di
+- esaminare, anche verificando i titoli di studio e il livello di
     competenza dei diversi responsabili del settore delle ICT nelle
     pubbliche amministrazioni, lo stato di informatizzazione attuale e
     il livello di dotazione tecnologica raggiunto dalle pubbliche
@@ -113,10 +113,10 @@ della Commissione, in particolare:
     livello di sicurezza e allo stato di attuazione del disaster
     recovery e al livello di accettazione di pagamenti elettronici;
 
-    d) monitorare il livello di digitalizzazione e di investimento nelle
+- monitorare il livello di digitalizzazione e di investimento nelle
     singole realtà regionali;
 
-    e) esaminare l'esistenza di possibili interventi di
+- esaminare l'esistenza di possibili interventi di
     razionalizzazione della spesa nel settore delle ICT.
 
 Alla luce dei compiti istitutivi, l’obiettivo della Commissione
@@ -136,9 +136,8 @@ dei responsabili della trasformazione digitale e del difensore civico
 digitale previsti dall’articolo 17 del Codice dell’Amministrazione
 Digitale, approvato con il decreto legislativo n. 82 del 7 marzo 2005.
   
-
-    ***1.2. Gli strumenti dell’inchiesta***
-
+1.2 Gli strumenti dell'inchiesta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 La presente relazione è stata elaborata a conclusione delle attività
 della Commissione parlamentare d'inchiesta sul livello di
 digitalizzazione e innovazione delle pubbliche amministrazioni e sugli
@@ -151,7 +150,8 @@ un’economia intelligente, sostenibile e solidale dell’Europa,
 finalizzato a conseguire elevati livelli di occupazione, produttività e
 coesione sociale, sia strettamente legato alla sua crescita digitale.
 
-***1.2.1. Le audizioni e i sopralluoghi***
+1.2.1 Le audizioni e i soprallughi
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le audizioni svoltesi nel corso delle sedute plenarie sono state
 finalizzate ad abbracciare l’intero arco dei temi posti ad oggetto
@@ -165,7 +165,8 @@ Commissione ha svolto finora 66 audizioni, alle quali hanno partecipato
 125 invitati. Inoltre, la Commissione ha effettuato un solo sopralluogo,
 presso il centro di elaborazione dati di Sogei a Roma.
 
-***1.2.2. Le acquisizioni di documenti***
+1.2.2 Le acquisizioni di documenti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La Commissione ha acquisito una grande mole di documentazione durante le
 audizioni e mediante richieste dirette a enti pubblici e privati, e, fin
@@ -189,8 +190,8 @@ dichiarati liberi sono stati pubblicati sul sito della Camera.
 L’attività della Commissione rappresenta la prima esperienza
 completamente paperless nella storia dell’amministrazione della Camera.
 
-***1.2.3. La relazione ***
-
+1.2.3 La relazione
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 La relazione, elaborata ai sensi dell’articolo 2, comma 5 della delibera
 istitutiva, è articolata in più parti:
 
