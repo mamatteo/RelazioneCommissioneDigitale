@@ -1,5 +1,7 @@
-**CAPITOLO 1
-Introduzione all’attività della Commissione Parlamentare d’Inchiesta**
+CAPITOLO 1
+==================================================
+Introduzione all’attività della Commissione Parlamentare d’Inchiesta
+==================================================
 
 .. Important::
 Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
