@@ -6,6 +6,6 @@ Il Capitolo introduce alcuni dei concetti che sono alla base del passaggio dalla
 Per dare un quadro giuridico di riferimento al lavoro della Commissione, il capitolo prosegue, quindi, con un'analisi del contesto normativo europeo sulla materia delle tecnologie dell'informazione e delle comunicazioni, con particolare attenzione agli obiettivi dell'Agenda Digitale di Europa2020. Allo stesso modo è stato descritto il contesto normativo nazionale e gli obiettivi dell'Agenda Digitale Italiana e dell'Agenzia per l'Italia Digitale, di cui la Commissione ha ricostruito la genesi e le tappe salienti dei progetti di digitalizzazione della pubblica amministrazione. Il capitolo si conclude fotografando il posizionamento non positivo dell'Italia nella classifica digitale, stilata dalla relazione sui progressi del settore digitale in Europa, nel quale si prendono in esame alcune delle più significative statistiche del nostro Paese sulla penetrazione di Internet e sull'uso dei servizi ad esso connessi. 
 
 
-.. figure:: imgrel/fig1.ai
+.. figure:: imgrel/fig1.png
    :alt: Architettura dell'informazione
    :align: center
