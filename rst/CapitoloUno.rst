@@ -3,7 +3,7 @@ Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchies
 =============================================================================
 
 .. note:: 
-ABSTRACT | Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
+   ABSTRACT | Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
 prendendo in considerazione gli indicatori del DESI relativo al nostro
 Paese, in particolare nel rapporto contraddittorio tra l'uso delle
 tecnologie degli italiani, molto utilizzate nelle comunicazioni ma
@@ -15,6 +15,8 @@ spese e i risultati degli investimenti effettuati. Si illustra il numero
 di audizioni e di ospiti presenti, le indicazioni sulla conservazione
 dei documenti attraverso la modalità 'digital first' e l'articolazione
 della presente relazione.
+
+.. admonition:: And, by the way...
 
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
