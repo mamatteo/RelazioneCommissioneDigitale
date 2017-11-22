@@ -1,4 +1,3 @@
-CAPITOLO 1
 ==================================================
 Introduzione all’attività della Commissione Parlamentare d’Inchiesta
 ==================================================
