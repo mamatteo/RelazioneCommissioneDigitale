@@ -13,4 +13,7 @@ RELAZIONE SULL'ATTIVITÀ SVOLTA
    
    CapitoloUno.rst
    CapitoloDue.rst
-   Capitolo3.rst
+   CapitoloTre.rst
+   CapitoloQuattro.rst
+   CapitoloCinque.rst
+   CapitoloSei.rst
