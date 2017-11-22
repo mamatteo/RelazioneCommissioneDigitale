@@ -21,7 +21,7 @@ della presente relazione.
 
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Da anni l’Italia si trova in coda alla classifica del Digital Economy
+.. note::  Da anni l’Italia si trova in coda alla classifica del Digital Economy
 and Society Index (DESI), l’indice che analizza la connettività, il
 capitale umano, l’uso di Internet, l’integrazione degli strumenti
 digitali in ambito aziendale e la digitalizzazione della pubblica
