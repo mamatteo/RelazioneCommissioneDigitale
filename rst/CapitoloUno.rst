@@ -1,32 +1,33 @@
-==================================================
+=============================================================================
 Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchiesta
-==================================================
+=============================================================================
 
-**ABSTRACT | Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
+ABSTRACT | Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
 prendendo in considerazione gli indicatori del DESI relativo al nostro
 Paese, in particolare nel rapporto contraddittorio tra l'uso delle
 tecnologie degli italiani, molto utilizzate nelle comunicazioni ma
-scarsamente sfruttate per fini diversi, dall'\ *e-government*
-all'\ *e-commerce*. Da qui il confronto con gli altri Paesi europei e
+scarsamente sfruttate per fini diversi, dall'e-government
+all'e-commerce. Da qui il confronto con gli altri Paesi europei e
 gli obiettivi della Commissione di inchiesta per analizzare il livello
 di digitalizzazione nella Pubblica amministrazione, nonché le relative
 spese e i risultati degli investimenti effettuati. Si illustra il numero
 di audizioni e di ospiti presenti, le indicazioni sulla conservazione
 dei documenti attraverso la modalità 'digital first' e l'articolazione
-della presente relazione.**
+della presente relazione.
 
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Da anni l’Italia si trova in coda alla classifica del Digital Economy
-and Society Index (DESI), l’indice che analizza la connettività, il
+Da anni l’Italia si trova in coda alla classifica del *Digital Economy
+and Society Index (DESI)*, l’indice che analizza la connettività, il
 capitale umano, l’uso di Internet, l’integrazione degli strumenti
 digitali in ambito aziendale e la digitalizzazione della pubblica
-amministrazione. L’ultima rilevazione posiziona il nostro Paese al 25°
-posto. Sul DESI dovrebbero basarsi le politiche di tutti gli Stati
+amministrazione. **L’ultima rilevazione posiziona il nostro Paese al 25°
+posto.** Sul DESI dovrebbero basarsi le politiche di tutti gli Stati
 membri in materia di digitalizzazione e connessione, con la creazione di
 agende comunitarie e locali per lo sviluppo coerente di sistemi di
 connessione e connettività che possano competere con il resto del mondo.
-Come evidenziato nel Rapporto sull’\ *e-government* 2017, una migliore
+Come evidenziato nel `Rapporto sull’\ e-government 2017 <https://www.bemresearch.it/report/e-government/>`_
+, una migliore
 diffusione dell’\ *e-gov* in linea con quella media dell’area euro
 permetterebbe di aumentare la crescita reale del PIL italiano, a parità
 di spesa pubblica nominale, di mezzo punto percentuale.
