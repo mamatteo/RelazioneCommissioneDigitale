@@ -9,7 +9,8 @@ RELAZIONE SULL'ATTIVITÀ SVOLTA
 (composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti, Segretario,Boccadutri, Bonaccorsi, Bruno Bossio, D’Agostino, D’Alia, Dell’Aringa, De Lorenzis, D’Incà,* Vicepresidente, *Fitzgerald Nissoli, Fragomeli, Segretario, Incerti, Mucci,* Vicepresidente, *Paglia, Palmieri, Rizzetto, Simonetti*)
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :caption: Indice dei contenuti
    
    CapitoloUno.rst
    CapitoloDue.rst
