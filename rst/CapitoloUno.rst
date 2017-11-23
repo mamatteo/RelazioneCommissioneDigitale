@@ -2,9 +2,10 @@
 Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchiesta
 =============================================================================
 
-.. note:: 
+.. note:: titolo
+   :title: Titolaccio
    ABSTRACT | Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
-prendendo in considerazione gli indicatori del DESI relativo al nostro
+   prendendo in considerazione gli indicatori del DESI relativo al nostro
 Paese, in particolare nel rapporto contraddittorio tra l'uso delle
 tecnologie degli italiani, molto utilizzate nelle comunicazioni ma
 scarsamente sfruttate per fini diversi, dall'e-government
@@ -15,11 +16,6 @@ spese e i risultati degli investimenti effettuati. Si illustra il numero
 di audizioni e di ospiti presenti, le indicazioni sulla conservazione
 dei documenti attraverso la modalità 'digital first' e l'articolazione
 della presente relazione.
-
-.. note:: titolo
-   :title: Titolaccio
-   
-   Ole ole ole ole
    
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
