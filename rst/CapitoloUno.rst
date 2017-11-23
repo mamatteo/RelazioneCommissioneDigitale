@@ -192,11 +192,13 @@ istitutiva, è articolata in più parti:
 
  - nel presente capitolo si spiegano i presupposti e le finalità sui
    quali si è sviluppato il lavoro della Commissione d’inchiesta;
- - nel secondo capitolo si forniscono informazioni riguardo al contesto
+ - nel `secondo capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloDue.html>`_
+   si forniscono informazioni riguardo al contesto
    normativo europeo e nazionale, con particolare attenzione agli
    obiettivi dell’agenda digitale europea e italiana ed i recenti
    interventi legislativi in materia;
- - il terzo capitolo tratta dell’analisi della spesa per l’informatica
+ - il `terzo capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloTre.html>`_
+   tratta dell’analisi della spesa per l’informatica
    nella pubblica amministrazione, mostra e spiega i grafici relativi
    alle gare d’appalto per l’ICT e prende in esame il caso della
    convenzione di telefonia Mobile 6;
