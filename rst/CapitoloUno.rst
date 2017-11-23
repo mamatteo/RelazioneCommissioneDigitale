@@ -2,7 +2,7 @@
 Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchiesta
 =============================================================================
 
-.. note:: titolo
+.. note:: 
    :title: Titolaccio
    ABSTRACT | Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
    prendendo in considerazione gli indicatori del DESI relativo al nostro
