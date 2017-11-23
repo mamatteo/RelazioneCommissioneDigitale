@@ -21,12 +21,9 @@ Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchies
    
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Da anni l’Italia si trova in coda alla classifica del `*Digital Economy
-and Society Index (DESI)* https://ec.europa.eu/digital-single-market/en/desi`_,
-l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti
-digitali in ambito aziendale e la digitalizzazione della pubblica
-amministrazione. **L’ultima rilevazione posiziona il nostro Paese al 25°
-posto.** Sul DESI dovrebbero basarsi le politiche di tutti gli Stati
+Da anni l’Italia si trova in coda alla classifica del `Digital Economy and Society Index (DESI) <https://ec.europa.eu/digital-single-market/en/desi>`_
+, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al 25° posto.**
+Sul DESI dovrebbero basarsi le politiche di tutti gli Stati
 membri in materia di digitalizzazione e connessione, con la creazione di
 agende comunitarie e locali per lo sviluppo coerente di sistemi di
 connessione e connettività che possano competere con il resto del mondo.
