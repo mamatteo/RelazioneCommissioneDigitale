@@ -90,11 +90,15 @@ punto di vista economico.
 Ai sensi  dell’articolo , comma 2 della delibera istitutiva è compito
 della Commissione, in particolare:
 
--   verificare le risorse finanziarie stanziate ed il loro utilizzo,
-    nonché la quantità, la tipologia e l'efficacia degli investimenti
-    effettuati nel corso degli anni nel settore delle ICT da parte delle
-    pubbliche amministrazioni statali regionali e locali, anche al fine
-    di individuare i possibili sprechi ed investimenti errati;
+ - si deve (devi)
+ - si può (puoi)
+ - si dovrebbe (dovresti)
+ - best practice
+ - verificare le risorse finanziarie stanziate ed il loro utilizzo,
+   nonché la quantità, la tipologia e l'efficacia degli investimenti
+   effettuati nel corso degli anni nel settore delle ICT da parte delle
+   pubbliche amministrazioni statali regionali e locali, anche al fine
+   di individuare i possibili sprechi ed investimenti errati;
 
 -   effettuare una comparazione tra la spesa pubblica nel settore
     delle ICT nei maggiori Paesi europei e l'Italia, nonché un'analisi
