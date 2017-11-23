@@ -40,9 +40,9 @@ Paese si riscontra un’altissima diffusione di dispositivi mobili, tant’è
 che sono attivi poco meno di 1,3 abbonamenti per abitante. Gli italiani
 sembrano quindi essere particolarmente attenti alla tecnologia e al suo
 utilizzo per rimanere in contatto con il mondo esterno, grazie
-all’utilizzo dei social network. Quando però si passa a considerare
+all’utilizzo dei social network. **Quando però si passa a considerare
 l’uso del digitale per svolgere funzioni diverse dalla pura
-comunicazione lo scenario cambia drasticamente. I soggetti che
+comunicazione lo scenario cambia drasticamente.** I soggetti che
 acquistano beni e servizi tramite il web sono pari ad appena il 26 per
 cento, contro una media europea del 53 per cento. Il valore
 dell’\ *e-commerce* tra imprese e consumatori in Italia, stimato nel
@@ -51,9 +51,9 @@ mercato europeo, contro una quota dei consumi delle famiglie italiane,
 effettuati attraverso tutti i canali di acquisto possibili, pari al 12
 per cento.
 
-Insoddisfacente soprattutto la modalità di interazione a distanza che i
+**Insoddisfacente soprattutto la modalità di interazione a distanza che i
 residenti in Italia hanno con la pubblica amministrazione: solo il 24
-per cento ha usato i servizi di *e-gov*. Tra gli altri grandi paesi
+per cento ha usato i servizi di *e-gov*.** Tra gli altri grandi paesi
 europei la Francia si attesta al 66 per cento, Germania e Regno Unito al
 55 per cento e la Spagna al 50 per cento. La media dell’intera area euro
 è invece pari al 52 per cento, in aumento di due punti percentuali
@@ -74,7 +74,8 @@ della media UE). Lo scarso utilizzo dei servizi di *e-gov* ci penalizza
 sia in termini di efficienza della pubblica amministrazione, che dal
 punto di vista economico.
 
-Anche in ragione di questi motivi la Camera dei deputati ha ritenuto
+.. note::
+   Anche in ragione di questi motivi la Camera dei deputati ha ritenuto
 opportuna l’istituzione di una Commissione parlamentare monocamerale di
 inchiesta, sul livello di digitalizzazione e innovazione delle pubbliche
 amministrazioni e sugli investimenti complessivi riguardanti il settore
