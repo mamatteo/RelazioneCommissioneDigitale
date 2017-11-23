@@ -75,16 +75,17 @@ sia in termini di efficienza della pubblica amministrazione, che dal
 punto di vista economico.
 
 .. note::
+
    Anche in ragione di questi motivi la Camera dei deputati ha ritenuto
-opportuna l’istituzione di una Commissione parlamentare monocamerale di
-inchiesta, sul livello di digitalizzazione e innovazione delle pubbliche
-amministrazioni e sugli investimenti complessivi riguardanti il settore
-delle tecnologie dell’informazione e della comunicazione. L’istituzione
-è avvenuta nel corso della XVII Legislatura con deliberazione del 14
-giugno 2016. La Commissione si è costituita il 4 novembre 2016 e ha
-continuato i propri lavori fino ad ottobre 2017, in conformità con
-l’art. 1, comma 1 della delibera istitutiva, che ne ha fissato la durata
-in un anno.
+   opportuna l’istituzione di una Commissione parlamentare monocamerale di
+   inchiesta, sul livello di digitalizzazione e innovazione delle pubbliche
+   amministrazioni e sugli investimenti complessivi riguardanti il settore
+   delle tecnologie dell’informazione e della comunicazione. L’istituzione
+   è avvenuta nel corso della XVII Legislatura con deliberazione del 14
+   giugno 2016. La Commissione si è costituita il 4 novembre 2016 e ha
+   continuato i propri lavori fino ad ottobre 2017, in conformità con
+   l’art. 1, comma 1 della delibera istitutiva, che ne ha fissato la durata
+   in un anno.
 
 Ai sensi  dell’articolo , comma 2 della delibera istitutiva è compito
 della Commissione, in particolare:
