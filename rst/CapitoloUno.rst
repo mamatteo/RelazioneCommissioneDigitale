@@ -202,7 +202,8 @@ istitutiva, è articolata in più parti:
    nella pubblica amministrazione, mostra e spiega i grafici relativi
    alle gare d’appalto per l’ICT e prende in esame il caso della
    convenzione di telefonia Mobile 6;
- - nel quarto capitolo si sono affrontati alcuni temi che presentano
+ - nel `quarto capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloQuattro.html>`_
+   si sono affrontati alcuni temi che presentano
    particolari criticità: quello relativo al rispetto del Codice
    dell’Amministrazione digitale da parte delle pubbliche
    amministrazioni, lo stato di avanzamento del progetto sull’Anagrafe
@@ -216,7 +217,8 @@ istitutiva, è articolata in più parti:
    fra monopoli e libero mercato e alla difficoltà nel controllare e
    verificare la qualità dei progetti e l’efficacia dei risultati
    ottenuti; 
- - nel quinto capitolo si è presentata una raccolta di alcune *best
+ - nel `quinto capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloCinque.html>`_
+   si è presentata una raccolta di alcune *best
    practice* esistenti, emerse in particolare nei casi della Provincia
    di Trento, del sistema di *vendor rating* dell’Inail e dell’Agenzia
    veneta dei pagamenti in agricoltura (AVEPA), che hanno messo in luce
