@@ -16,8 +16,10 @@ di audizioni e di ospiti presenti, le indicazioni sulla conservazione
 dei documenti attraverso la modalità 'digital first' e l'articolazione
 della presente relazione.
 
-.. admonition:: titolo di prova
-   testo di blocco
+.. note:: titolo
+   :title: Titolaccio
+   
+   Ole ole ole ole
    
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
