@@ -53,7 +53,7 @@ per cento.
 
 **Insoddisfacente soprattutto la modalità di interazione a distanza che i
 residenti in Italia hanno con la pubblica amministrazione: solo il 24
-per cento ha usato i servizi di *e-gov*.** Tra gli altri grandi paesi
+per cento ha usato i servizi di e-gov.** Tra gli altri grandi paesi
 europei la Francia si attesta al 66 per cento, Germania e Regno Unito al
 55 per cento e la Spagna al 50 per cento. La media dell’intera area euro
 è invece pari al 52 per cento, in aumento di due punti percentuali
@@ -190,46 +190,46 @@ completamente paperless nella storia dell’amministrazione della Camera.
 La relazione, elaborata ai sensi dell’articolo 2, comma 5 della delibera
 istitutiva, è articolata in più parti:
 
--  nel presente capitolo si spiegano i presupposti e le finalità sui
-   quali si è sviluppato il lavoro della Commissione d’inchiesta;
+- nel presente capitolo si spiegano i presupposti e le finalità sui
+  quali si è sviluppato il lavoro della Commissione d’inchiesta;
 
--  nel secondo capitolo si forniscono informazioni riguardo al contesto
-   normativo europeo e nazionale, con particolare attenzione agli
-   obiettivi dell’agenda digitale europea e italiana ed i recenti
-   interventi legislativi in materia;
+- nel secondo capitolo si forniscono informazioni riguardo al contesto
+  normativo europeo e nazionale, con particolare attenzione agli
+  obiettivi dell’agenda digitale europea e italiana ed i recenti
+  interventi legislativi in materia;
 
--  il terzo capitolo tratta dell’analisi della spesa per l’informatica
-   nella pubblica amministrazione, mostra e spiega i grafici relativi
-   alle gare d’appalto per l’ICT e prende in esame il caso della
-   convenzione di telefonia Mobile 6;
+- il terzo capitolo tratta dell’analisi della spesa per l’informatica
+  nella pubblica amministrazione, mostra e spiega i grafici relativi
+  alle gare d’appalto per l’ICT e prende in esame il caso della
+  convenzione di telefonia Mobile 6;
 
--  nel quarto capitolo si sono affrontati alcuni temi che presentano
-   particolari criticità: quello relativo al rispetto del Codice
-   dell’Amministrazione digitale da parte delle pubbliche
-   amministrazioni, lo stato di avanzamento del progetto sull’Anagrafe
-   Nazionale della Popolazione Residente (ANPR), il Sistema Informativo
-   Agricolo Nazionale (SIAN), la gestione informatica della mobilità dei
-   docenti (MIUR) e il sistema informativo dei profughi. Le audizioni su
-   queste questioni hanno messo in evidenza alcune delle criticità della
-   digitalizzazione, in relazione alla carenza di competenze nei ruoli
-   apicali delle pubbliche amministrazioni, all’eccessivo peso degli
-   intermediari nella risoluzione dei problemi, al difficile rapporto
-   fra monopoli e libero mercato e alla difficoltà nel controllare e
-   verificare la qualità dei progetti e l’efficacia dei risultati
-   ottenuti;
+- nel quarto capitolo si sono affrontati alcuni temi che presentano
+  particolari criticità: quello relativo al rispetto del Codice
+  dell’Amministrazione digitale da parte delle pubbliche
+  amministrazioni, lo stato di avanzamento del progetto sull’Anagrafe
+  Nazionale della Popolazione Residente (ANPR), il Sistema Informativo
+  Agricolo Nazionale (SIAN), la gestione informatica della mobilità dei
+  docenti (MIUR) e il sistema informativo dei profughi. Le audizioni su
+  queste questioni hanno messo in evidenza alcune delle criticità della
+  digitalizzazione, in relazione alla carenza di competenze nei ruoli
+  apicali delle pubbliche amministrazioni, all’eccessivo peso degli
+  intermediari nella risoluzione dei problemi, al difficile rapporto
+  fra monopoli e libero mercato e alla difficoltà nel controllare e
+  verificare la qualità dei progetti e l’efficacia dei risultati
+  ottenuti;
 
--  nel quinto capitolo si è presentata una raccolta di alcune *best
-   practice* esistenti, emerse in particolare nei casi della Provincia
-   di Trento, del sistema di *vendor rating* dell’Inail e dell’Agenzia
-   veneta dei pagamenti in agricoltura (AVEPA), che hanno messo in luce
-   come la digitalizzazione migliori dove esistono adeguate
-   professionalità, oltre a indicatori e misurazioni che facilitano il
-   controllo dei risultati;
+- nel quinto capitolo si è presentata una raccolta di alcune *best
+  practice* esistenti, emerse in particolare nei casi della Provincia
+  di Trento, del sistema di *vendor rating* dell’Inail e dell’Agenzia
+  veneta dei pagamenti in agricoltura (AVEPA), che hanno messo in luce
+  come la digitalizzazione migliori dove esistono adeguate
+  professionalità, oltre a indicatori e misurazioni che facilitano il
+  controllo dei risultati;
 
--  il sesto capitolo è dedicato alle conclusioni del lavoro della
-   Commissione e ai suggerimenti scaturiti dalle riflessioni dei
-   commissari, sulla base delle informazioni raccolte;
+- il sesto capitolo è dedicato alle conclusioni del lavoro della
+  Commissione e ai suggerimenti scaturiti dalle riflessioni dei
+  commissari, sulla base delle informazioni raccolte;
 
--  Il settimo capitolo è composto da alcuni documenti allegati e
-   richiamati nella relazione, oltre che dall’elenco delle 67 audizioni
-   e dei 127 invitati ascoltati dalla commissione.
+- Il settimo capitolo è composto da alcuni documenti allegati e
+  richiamati nella relazione, oltre che dall’elenco delle 67 audizioni
+  e dei 127 invitati ascoltati dalla commissione.
