@@ -198,18 +198,18 @@ istitutiva, è articolata in più parti:
    obiettivi dell’agenda digitale europea e italiana ed i recenti
    interventi legislativi in materia;
  - il `terzo capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloTre.html>`_
-   tratta dell’analisi della spesa per l’informatica
-   nella pubblica amministrazione, mostra e spiega i grafici relativi
+   tratta dell’**analisi della spesa per l’informatica
+   nella pubblica amministrazione**, mostra e spiega i grafici relativi
    alle gare d’appalto per l’ICT e prende in esame il caso della
    convenzione di telefonia Mobile 6;
  - nel `quarto capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloQuattro.html>`_
    si sono affrontati alcuni temi che presentano
-   particolari criticità: quello relativo al rispetto del Codice
-   dell’Amministrazione digitale da parte delle pubbliche
-   amministrazioni, lo stato di avanzamento del progetto sull’Anagrafe
-   Nazionale della Popolazione Residente (ANPR), il Sistema Informativo
-   Agricolo Nazionale (SIAN), la gestione informatica della mobilità dei
-   docenti (MIUR) e il sistema informativo dei profughi. Le audizioni su
+   particolari criticità: quello relativo al rispetto del **Codice
+   dell’Amministrazione digitale** da parte delle pubbliche
+   amministrazioni, lo stato di avanzamento del progetto sull’**Anagrafe
+   Nazionale della Popolazione Residente (ANPR)**, il **Sistema Informativo
+   Agricolo Nazionale (SIAN)**, **la gestione informatica della mobilità dei
+   docenti (MIUR)** e il **sistema informativo dei profughi**. Le audizioni su
    queste questioni hanno messo in evidenza alcune delle criticità della
    digitalizzazione, in relazione alla carenza di competenze nei ruoli
    apicali delle pubbliche amministrazioni, all’eccessivo peso degli
@@ -218,15 +218,15 @@ istitutiva, è articolata in più parti:
    verificare la qualità dei progetti e l’efficacia dei risultati
    ottenuti; 
  - nel `quinto capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloCinque.html>`_
-   si è presentata una raccolta di alcune *best
-   practice* esistenti, emerse in particolare nei casi della Provincia
-   di Trento, del sistema di *vendor rating* dell’Inail e dell’Agenzia
-   veneta dei pagamenti in agricoltura (AVEPA), che hanno messo in luce
+   si è presentata una raccolta di alcune **best
+   practice esistenti**, emerse in particolare nei casi della **Provincia
+   di Trento**, del **sistema di vendor rating dell’Inail** e dell’**Agenzia
+   veneta dei pagamenti in agricoltura (AVEPA)**, che hanno messo in luce
    come la digitalizzazione migliori dove esistono adeguate
    professionalità, oltre a indicatori e misurazioni che facilitano il
    controllo dei risultati;
- - il sesto capitolo è dedicato alle conclusioni del lavoro della
-   Commissione e ai suggerimenti scaturiti dalle riflessioni dei
+ - il sesto capitolo è dedicato alle **conclusioni del lavoro della
+   Commissione** e ai suggerimenti scaturiti dalle riflessioni dei
    commissari, sulla base delle informazioni raccolte;
  - Il settimo capitolo è composto da alcuni documenti allegati e
    richiamati nella relazione, oltre che dall’elenco delle 67 audizioni
