@@ -16,8 +16,9 @@ di audizioni e di ospiti presenti, le indicazioni sulla conservazione
 dei documenti attraverso la modalità 'digital first' e l'articolazione
 della presente relazione.
 
-.. admonition:: And, by the way...
-
+.. admonition:: my title goes here
+   testi di blocc
+   
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Da anni l’Italia si trova in coda alla classifica del *Digital Economy
