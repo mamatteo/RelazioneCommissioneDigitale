@@ -95,11 +95,9 @@ della Commissione, in particolare:
    effettuati nel corso degli anni nel settore delle ICT da parte delle
    pubbliche amministrazioni statali regionali e locali, anche al fine
    di individuare i possibili sprechi ed investimenti errati;
-
  - effettuare una comparazione tra la spesa pubblica nel settore
    delle ICT nei maggiori Paesi europei e l'Italia, nonché un'analisi
    sulle tendenze in atto;
-
  - esaminare, anche verificando i titoli di studio e il livello di
    competenza dei diversi responsabili del settore delle ICT nelle
    pubbliche amministrazioni, lo stato di informatizzazione attuale e
@@ -111,10 +109,8 @@ della Commissione, in particolare:
    all'interoperabilità e all'interconnessione delle banche di dati, al
    livello di sicurezza e allo stato di attuazione del disaster
    recovery e al livello di accettazione di pagamenti elettronici;
-
 -  monitorare il livello di digitalizzazione e di investimento nelle
    singole realtà regionali;
-
 -  esaminare l'esistenza di possibili interventi di
    razionalizzazione della spesa nel settore delle ICT.
 
