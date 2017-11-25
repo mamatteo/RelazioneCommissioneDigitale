@@ -64,7 +64,7 @@ nei confronti degli altri paesi. Sui 28 paesi dell’Unione, 22 hanno
 registrato una crescita nell’uso dell’\ *e-government*, mentre soltanto
 Estonia, Slovacchia e Romania hanno marcato una flessione. L’Italia, in
 compagnia di Slovenia e Danimarca (Con la differenza che la Danimarca sfiora un’incidenza del 90 per cento e la Slovenia ha un valore in linea con la media dell’Unione Europea.), è invece rimasta ferma in termini di diffusione dell’\ *e-gov*, nonostante fra gli obiettivi del `piano
-*e-gov* 2012 <http://leg16.camera.it/temiap/temi16/Piano%20egovernment%202012_report%20aggiornamento%20attivita.pdf>`_ ci fosse proprio la massimizzazione del numero di servizi *online* per la pubblica amministrazione. La questione riguarda, in
+e-gov 2012 <http://leg16.camera.it/temiap/temi16/Piano%20egovernment%202012_report%20aggiornamento%20attivita.pdf>`_ ci fosse proprio la massimizzazione del numero di servizi *online* per la pubblica amministrazione. La questione riguarda, in
 particolare, la qualità e l’uso dei servizi messi a disposizione degli
 utenti, dalla navigazione sui siti web della pubblica amministrazione
 (19 per cento, contro la media europea del 42 per cento) e il *download*
