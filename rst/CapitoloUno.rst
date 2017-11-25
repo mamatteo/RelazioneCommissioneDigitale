@@ -236,4 +236,5 @@ istitutiva, è articolata in più parti:
    
    ------------
    NOTE
+   
    .. [1] ec.europa.eu/newsroom/document.cfm?doc_id=43021
