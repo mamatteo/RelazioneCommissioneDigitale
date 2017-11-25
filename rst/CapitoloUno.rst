@@ -22,8 +22,8 @@ Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchies
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Da anni l’Italia si trova in coda alla classifica del `Digital Economy and Society Index (DESI) <https://ec.europa.eu/digital-single-market/en/desi>`_
-, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al `25° posto. <ec.europa.eu/newsroom/document.cfm?doc_id=43021>`_
-**
+, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al** `25° posto. <www.ec.europa.eu/newsroom/document.cfm?doc_id=43021>`_
+
 Sul DESI dovrebbero basarsi le politiche di tutti gli Stati
 membri in materia di digitalizzazione e connessione, con la creazione di
 agende comunitarie e locali per lo sviluppo coerente di sistemi di
@@ -64,9 +64,7 @@ nei confronti degli altri paesi. Sui 28 paesi dell’Unione, 22 hanno
 registrato una crescita nell’uso dell’\ *e-government*, mentre soltanto
 Estonia, Slovacchia e Romania hanno marcato una flessione. L’Italia, in
 compagnia di Slovenia e Danimarca (Con la differenza che la Danimarca sfiora un’incidenza del 90 per cento e la Slovenia ha un valore in linea con la media dell’Unione Europea.), è invece rimasta ferma in termini di diffusione dell’\ *e-gov*, nonostante fra gli obiettivi del `piano
-*e-gov* 2012 <http://leg16.camera.it/temiap/temi16/Piano%20egovernment%202012_report%20aggiornamento%20attivita.pdf>`_
- ci fosse proprio la massimizzazione del numero di servizi
-*online* per la pubblica amministrazione. La questione riguarda, in
+*e-gov* 2012 <http://leg16.camera.it/temiap/temi16/Piano%20egovernment%202012_report%20aggiornamento%20attivita.pdf>`_ ci fosse proprio la massimizzazione del numero di servizi *online* per la pubblica amministrazione. La questione riguarda, in
 particolare, la qualità e l’uso dei servizi messi a disposizione degli
 utenti, dalla navigazione sui siti web della pubblica amministrazione
 (19 per cento, contro la media europea del 42 per cento) e il *download*
