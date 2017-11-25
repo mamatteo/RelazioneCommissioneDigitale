@@ -32,8 +32,8 @@ diffusione dell’\ *e-gov* in linea con quella media dell’area euro
 permetterebbe di aumentare la crescita reale del PIL italiano, a parità
 di spesa pubblica nominale, di mezzo punto percentuale.
 
-.. [#] This is the first one. 
-.. [#] This is the second one. 
+.. [#] ec.europa.eu/newsroom/document.cfm?doc_id=43021
+.. [#] Rapporto sull'E-government 2017, Bem Research s.r.l.
 
 L’Italia, in questo quadro, vive in un grande paradosso. Se la
 popolazione sembra essere attratta dal mondo digitale e dalle modalità
