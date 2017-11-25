@@ -22,18 +22,16 @@ Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchies
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Da anni l’Italia si trova in coda alla classifica del `Digital Economy and Society Index (DESI) <https://ec.europa.eu/digital-single-market/en/desi>`_
-, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al 25° posto.** [#]_
+, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al `25° posto. <ec.europa.eu/newsroom/document.cfm?doc_id=43021>`_
+**
 Sul DESI dovrebbero basarsi le politiche di tutti gli Stati
 membri in materia di digitalizzazione e connessione, con la creazione di
 agende comunitarie e locali per lo sviluppo coerente di sistemi di
 connessione e connettività che possano competere con il resto del mondo.
-Come evidenziato nel `Rapporto sull’\ e-government 2017 <https://www.bemresearch.it/report/e-government/>`_, [#]_ una migliore
+Come evidenziato nel `Rapporto sull’\ e-government 2017 <https://www.bemresearch.it/report/e-government/>`_, una migliore
 diffusione dell’\ *e-gov* in linea con quella media dell’area euro
 permetterebbe di aumentare la crescita reale del PIL italiano, a parità
 di spesa pubblica nominale, di mezzo punto percentuale.
-
-.. [#] ec.europa.eu/newsroom/document.cfm?doc_id=43021
-.. [#] Rapporto sull'E-government 2017, Bem Research s.r.l.
 
 L’Italia, in questo quadro, vive in un grande paradosso. Se la
 popolazione sembra essere attratta dal mondo digitale e dalle modalità
@@ -65,9 +63,9 @@ nel contesto europeo, poiché nel 2016 ha continuato a perdere terreno
 nei confronti degli altri paesi. Sui 28 paesi dell’Unione, 22 hanno
 registrato una crescita nell’uso dell’\ *e-government*, mentre soltanto
 Estonia, Slovacchia e Romania hanno marcato una flessione. L’Italia, in
-compagnia di Slovenia e Danimarca, è invece rimasta ferma in termini di
-diffusione dell’\ *e-gov*, nonostante fra gli obiettivi del piano
-*e-gov* 2012 ci fosse proprio la massimizzazione del numero di servizi
+compagnia di Slovenia e Danimarca (Con la differenza che la Danimarca sfiora un’incidenza del 90 per cento e la Slovenia ha un valore in linea con la media dell’Unione Europea.), è invece rimasta ferma in termini di diffusione dell’\ *e-gov*, nonostante fra gli obiettivi del `piano
+*e-gov* 2012 <http://leg16.camera.it/temiap/temi16/Piano%20egovernment%202012_report%20aggiornamento%20attivita.pdf>`_
+ ci fosse proprio la massimizzazione del numero di servizi
 *online* per la pubblica amministrazione. La questione riguarda, in
 particolare, la qualità e l’uso dei servizi messi a disposizione degli
 utenti, dalla navigazione sui siti web della pubblica amministrazione
@@ -83,7 +81,7 @@ punto di vista economico.
    opportuna l’istituzione di una Commissione parlamentare monocamerale di
    inchiesta, sul livello di digitalizzazione e innovazione delle pubbliche
    amministrazioni e sugli investimenti complessivi riguardanti il settore
-   delle tecnologie dell’informazione e della comunicazione. L’istituzione
+   delle tecnologie dell’informazione e della comunicazione (Nella XVI Legislatura la I Commissione permanente della Camera dei deputati aveva svolto un’indagine conoscitiva sulla informatizzazione delle pubbliche amministrazioni DOC. XVII, n. 6). L’istituzione
    è avvenuta nel corso della XVII Legislatura con deliberazione del 14
    giugno 2016. La Commissione si è costituita il 4 novembre 2016 e ha
    continuato i propri lavori fino ad ottobre 2017, in conformità con
@@ -117,19 +115,19 @@ della Commissione, in particolare:
  - esaminare l'esistenza di possibili interventi di
    razionalizzazione della spesa nel settore delle ICT.
 
-Alla luce dei compiti istitutivi, l’obiettivo della Commissione
+Alla luce dei compiti istitutivi, **l’obiettivo della Commissione
 Parlamentare d’inchiesta è stato quello di indagare l’effettivo livello
 di digitalizzazione e innovazione del settore pubblico del nostro Paese,
 verificando se le risorse stanziate fossero sufficienti, quali fossero
 le ragioni del divario fra l’Italia e gli altri Paesi europei e
-soprattutto quali risultati avessero ottenuto gli investimenti. Dalle
+soprattutto quali risultati avessero ottenuto gli investimenti.** Dalle
 audizioni e dallo studio della mole documentale è emerso un quadro
-complesso, nel quale è stato difficoltoso persino stimare precisamente i
+complesso, nel quale **è stato difficoltoso persino stimare precisamente i
 costi della spesa per le tecnologie dell’informazione e della
-comunicazione. In sede di premessa appare tuttavia opportuno evidenziare
-come, a fronte di un’abbondante produzione legislativa in materia,
+comunicazione.** In sede di premessa appare tuttavia opportuno evidenziare
+come, **a fronte di un’abbondante produzione legislativa in materia,
 spesso le pubbliche amministrazioni si siano dimostrate pervicacemente
-inadempienti, come riscontrato, ad esempio, riguardo alle mancate nomine
+inadempienti**, come riscontrato, ad esempio, riguardo alle mancate nomine
 dei responsabili della trasformazione digitale e del difensore civico
 digitale previsti dall’articolo 17 del Codice dell’Amministrazione
 Digitale, approvato con il decreto legislativo n. 82 del 7 marzo 2005.
@@ -185,8 +183,11 @@ documentazione necessaria per le audizioni, distribuita usando le
 applicazioni GeoCamera e Filr, sono stati messi a disposizione con il
 supporto del Servizio Informatica della Camera dei deputati. I documenti
 dichiarati liberi sono stati pubblicati sul sito della Camera.
-L’attività della Commissione rappresenta la prima esperienza
-completamente paperless nella storia dell’amministrazione della Camera.
+
+.. note::
+
+   L’attività della Commissione rappresenta la prima esperienza
+   completamente *paperless* nella storia dell’amministrazione della Camera.
 
 1.2.3 La relazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
