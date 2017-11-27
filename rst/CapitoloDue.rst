@@ -95,33 +95,40 @@ NOTE paragafo 2.2
 .. [27] Direttiva 95/46/CE.
 .. [28] GU L 281 del 23.11.1995, p. 31.
 .. [29] GU L 77 del 27.3.1996, p. 20.
-.. [30] GU L 77 del 27.3.1996, p. 20.
+.. [30] GU L 201 del 31.7.2002, p. 37.
 .. [31] GU L 376 del 27.12.2006, p. 36.
 .. [32] GU L 337 del 18.12.2009, p. 1.
 .. [33] GU L 95 del 15.4.2010, p. 1.
 .. [34] GU C 236 E del 12.8.2011, pag. 24.
 .. [35] GU C 236 E del 12.8.2011, pag. 33.
 .. [36] GU C 50 E del 21.2.2012, pag. 1.
-.. [37] Direttiva 2011/83/UE del Parlamento europeo e del Consiglio del 25 ottobre 2011. 44 Direttiva 93/13/CEE del Consiglio.
-.. [38] Direttiva 1999/44/CE del Parlamento europeo e del Consiglio. 46 GU L 304 del 22.11.2011, p. 64.
-.. [39] GU C 258 E del 7.9.2013, p. 64.
-.. [40] GU C 332 E del 15.11.2013, p. 22.
-.. [41] GU C 434 del 23.12.2015, p. 2. Testi approvati,P7_TA(2013)0327. 50 Testi approvati, P7_TA(2013)0239.
-.. [42] Testi approvati, P7_TA(2013)0377.
-.. [43] Testi approvati, P7_TA(2013)0436.
-.. [44] Testi approvati, P7_TA(2013)0454. 54 Testi approvati, P7_TA(2013)0535. 55 Direttiva 2003/98/CE.
-.. [45] GU L 175 del 27.6.2013, p. 1.
-.. [46] GU L 165 del 18.6.2013, p. 1. 58 GU L 257 del 28.8.2014, p. 73. 59 Direttiva 1999/93/CE.
-.. [47] GU L 86 del 21.3.2014, p. 14.
-.. [48] Testi approvati, P7_TA(2014)0032. 
-.. [49] Testi approvati, P7_TA(2014)0179. 
-.. [50] Testi approvati, P8_TA(2014)0071. 
-.. [51] Testi approvati, P8_TA(2015)0051. 
-.. [52] Testi approvati, P8_TA(2015)0273. 
-.. [53] (COM(2012)0721).
-.. [54] (COM(2012)0789).
-.. [55] (COM(2015)0192).
-.. [56] GU L 318 del 4.12.2015, p. 1.
+.. [37] Direttiva 2011/83/UE del Parlamento europeo e del Consiglio del 25 ottobre 2011.
+.. [38] Direttiva 93/13/CEE del Consiglio.
+.. [39] Direttiva 1999/44/CE del Parlamento europeo e del Consiglio.
+.. [40] GU L 304 del 22.11.2011, p. 64.
+.. [41] GU C 258 E del 7.9.2013, p. 64.
+.. [42] GU C 332 E del 15.11.2013, p. 22.
+.. [43] GU C 434 del 23.12.2015, p. 2. Testi approvati,P7_TA(2013)0327. 
+.. [44] Testi approvati, P7_TA(2013)0239.
+.. [45] Testi approvati, P7_TA(2013)0377.
+.. [46] Testi approvati, P7_TA(2013)0436.
+.. [47] Testi approvati, P7_TA(2013)0454. 
+.. [48] Testi approvati, P7_TA(2013)0535. 
+.. [49] Direttiva 2003/98/CE.
+.. [50] GU L 175 del 27.6.2013, p. 1.
+.. [51] GU L 165 del 18.6.2013, p. 1. 
+.. [52] GU L 257 del 28.8.2014, p. 73. 
+.. [53] 59 Direttiva 1999/93/CE.
+.. [54] GU L 86 del 21.3.2014, p. 14.
+.. [55] Testi approvati, P7_TA(2014)0032. 
+.. [56] Testi approvati, P7_TA(2014)0179. 
+.. [57] Testi approvati, P8_TA(2014)0071. 
+.. [58] Testi approvati, P8_TA(2015)0051. 
+.. [59] Testi approvati, P8_TA(2015)0273. 
+.. [60] (COM(2012)0721).
+.. [61] (COM(2012)0789).
+.. [62] (COM(2015)0192).
+.. [63] GU L 318 del 4.12.2015, p. 1.
 
 ------------
 
