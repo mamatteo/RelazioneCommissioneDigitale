@@ -154,7 +154,6 @@ Metà delle gare riportate nel dataset sono state aggiudicate allo stesso import
 
 .. figure:: imgrel/fig6.png
    :alt: Figura 6
-   :caption: Figura 6
    :align: center
    
 Mentre il numero di Pubbliche Amministrazioni presenti all’interno del *dataset* è esatto, il numero di fornitori, risultati poi aggiudicatari, risulta una stima, dovuta al fatto che in diversi casi lo stesso codice fiscale è stato associato ad aziende differenti, anche questo segno di un errore nei dati.
@@ -163,6 +162,7 @@ Mentre il numero di Pubbliche Amministrazioni presenti all’interno del *datase
 3.2.3 Analisi sulle tipologie di scelta del contraente
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Segue l’analisi sulle tipologie di scelta del contraente, per numero di gare e per totale dell’importo aggiudicato.
+
 .. figure:: imgrel/fig7a.png
    :alt: Figura 7a
    :align: center
