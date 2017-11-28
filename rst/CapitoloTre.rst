@@ -124,4 +124,8 @@ Il dataset consegnato alla Commissione è stato fornito sotto forma di tabella a
    
 Le analisi svolte su questi dati sono state suddivise in una serie di macro categorie, che hanno posto l’attenzione su diversi aspetti di una gara d’appalto. Di seguito (Figura 3), l’elenco delle macro categorie analizzate.
 
+.. figure:: imgrel/fig3.png
+   :alt: Figura 3
+   :align: center
+
 
