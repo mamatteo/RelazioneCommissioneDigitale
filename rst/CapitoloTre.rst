@@ -4,7 +4,7 @@ Cap. 3 | L’analisi della spesa per l’informatica nella pubblica amministrazi
 
 .. admonition:: Abstract
 
-   *Il capitolo si apre con l'analisi dei dati di contesto dei costi della spesa per l'informatica nella pubblica
+    *Il capitolo si apre con l'analisi dei dati di contesto dei costi della spesa per l'informatica nella pubblica
     amministrazione, stimata per l'Italia in 5,7 miliardi di euro. La cifra è il risultato di una stima, poiché la
     complessità e la frammentazione rendono particolarmente difficile il calcolo di una spesa esatta. Di tale
     spesa, Consip ha una capacità di penetrazione limitata al 24 per cento, dovuta all'esistenza nella
@@ -64,7 +64,7 @@ NOTE paragafo 3.1
 ..[8] Ibidem, p. 9.
 ..[9] Ibidem, pag. 18. 
 ..[10] Ibidem, pag. 12.
-..[11] Roberto Gatti, amministratore delegato di Nolan, Norton Italia, KPMG Advisory, Resoconto stenografico dell’audizione del 14 dicembre 2016.
+..[11] Roberto Gatti, amministratore delegato di Nolan, Norton Italia, KPMG Advisory, Resoconto stenografico dell’audizione del 14   dicembre 2016.
 ..[12] Ibidem, p. 6.
 ..[13] Ibidem, p. 7.
 ..[14] Resoconto stenografico dell'audizione del 20 dicembre 2016, p. 6.
@@ -84,7 +84,7 @@ NOTE paragafo 3.1
 Nell’intento di supportare con delle misure i principali filoni di indagine della Commissione, è stata effettuata una serie di analisi, allo scopo di misurare con precisione alcuni fenomeni inerenti all’ambito IT della Pubblica Amministrazione italiana. Le analisi condotte hanno avuto da subito un duplice scopo: se da un lato hanno fornito un’evidenza quantitativa rispetto ad alcune questioni, dall’altro sono servite a stimolare un proficuo confronto sui risultati, che più volte ha delineato nuove linee d’azione. Un lungo periodo è stato dedicato all’acquisizione dei dati necessari alle analisi previste. I dati che la Commissione ha raccolto durante il suo periodo di lavoro riguardano esclusivamente l’ambito informatico, in accordo con gli obiettivi per cui la Commissione è nata, ma la metodologia può essere applicata anche a tutti gli altri ambiti della spesa pubblica.
 
 .. admonition:: Si dovrebbe
-   Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centrale Acquisti della Pubblica Amministrazione Italiana              (Consip) e con l’Autorità Nazionale Anticorruzione (ANAC), si è proceduto a definire il dominio di dati su cui operare attraverso un   percorso di confronto costante sulle analisi in atto, volto ad interpretare correttamente i risultati via via ottenuti.
+   Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centrale Acquisti della Pubblica Amministrazione Italiana               (Consip) e con l’Autorità Nazionale Anticorruzione (ANAC), si è proceduto a definire il dominio di dati su cui operare attraverso un    percorso di confronto costante sulle analisi in atto, volto ad interpretare correttamente i risultati via via ottenuti.
 
 
 3.2.1 Il dominio dei dati
