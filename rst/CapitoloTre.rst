@@ -54,28 +54,28 @@ Per comprendere se gli obiettivi siano stati raggiunti o meno, diventa quindi fo
    
 NOTE paragafo 3.1
 
-..[1] https://pianotriennale-ict.italia.it/
-..[2] Resoconto stenografico dell'audizione del 24 novembre 2016, p. 4
-..[3] CPV (Common Procurement Vocabulary): si tratta di un sistema di classificazione merceologico che varia a seconda del codice e della tipologia di fornitura
-..[4] Ibidem, p. 4.
-..[5] Ibidem, p. 6.
-..[6] Ibidem, p. 7.
-..[7] Ibidem, p. 7.
-..[8] Ibidem, p. 9.
-..[9] Ibidem, pag. 18. 
-..[10] Ibidem, pag. 12.
-..[11] Roberto Gatti, amministratore delegato di Nolan, Norton Italia, KPMG Advisory, Resoconto stenografico dell’audizione del 14   dicembre 2016.
-..[12] Ibidem, p. 6.
-..[13] Ibidem, p. 7.
-..[14] Resoconto stenografico dell'audizione del 20 dicembre 2016, p. 6.
-..[15] Ibidem, p. 6.
-..[16] Nel Regno Unito, in due anni si è registrato un risparmio di 4,4 miliardi, trasferendo i CED sul cloud e posizionandoli in rete.
-..[17] Roberto Gatti, Resoconto stenografico dell'audizione del 14 dicembre 2016, , p. 7-8 
-..[18] Chief information officer, responsabile dei sistemi informativi.
-..[19] Ibidem, p. 10.
-..[20] Ibidem, p. 9-10.
-..[21] Ibidem, p. 11. 
-..[22] Ibidem, p. 11.
+.. [1] https://pianotriennale-ict.italia.it/
+.. [2] Resoconto stenografico dell'audizione del 24 novembre 2016, p. 4
+.. [3] CPV (Common Procurement Vocabulary): si tratta di un sistema di classificazione merceologico che varia a seconda del codice e della tipologia di fornitura
+.. [4] Ibidem, p. 4.
+.. [5] Ibidem, p. 6.
+.. [6] Ibidem, p. 7.
+.. [7] Ibidem, p. 7.
+.. [8] Ibidem, p. 9.
+.. [9] Ibidem, pag. 18. 
+.. [10] Ibidem, pag. 12.
+.. [11] Roberto Gatti, amministratore delegato di Nolan, Norton Italia, KPMG Advisory, Resoconto stenografico dell’audizione del 14   dicembre 2016.
+.. [12] Ibidem, p. 6.
+.. [13] Ibidem, p. 7.
+.. [14] Resoconto stenografico dell'audizione del 20 dicembre 2016, p. 6.
+.. [15] Ibidem, p. 6.
+.. [16] Nel Regno Unito, in due anni si è registrato un risparmio di 4,4 miliardi, trasferendo i CED sul cloud e posizionandoli in rete.
+.. [17] Roberto Gatti, Resoconto stenografico dell'audizione del 14 dicembre 2016, , p. 7-8 
+.. [18] Chief information officer, responsabile dei sistemi informativi.
+.. [19] Ibidem, p. 10.
+.. [20] Ibidem, p. 9-10.
+.. [21] Ibidem, p. 11. 
+.. [22] Ibidem, p. 11.
 
 ------------
 
