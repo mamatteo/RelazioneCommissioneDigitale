@@ -233,6 +233,10 @@ Alla luce dei risultati delle analisi relative alle tipologie di scelta del cont
 Le diverse tipologie di scelta del contraente presenti all’interno del dataset sono 20.
 
 
+3.2.4 Analisi dei tempi delle gare
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Per quanto riguarda l’analisi sui tempi delle gare, la Commissione si è concentrata nello studio di quanto tempo, in media, sia necessario per aggiudicare una gara.
+In Figura 14 è possibile visualizzare i risultati.
    
    
    
