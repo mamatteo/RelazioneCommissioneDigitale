@@ -4,7 +4,7 @@ Cap. 3 | L’analisi della spesa per l’informatica nella pubblica amministrazi
 
 .. admonition:: Abstract
 
-   *Il capitolo si apre con l'analisi dei dati di contesto dei costi della spesa per l'informatica nella pubblica
+*Il capitolo si apre con l'analisi dei dati di contesto dei costi della spesa per l'informatica nella pubblica
 amministrazione, stimata per l'Italia in 5,7 miliardi di euro. La cifra è il risultato di una stima, poiché la
 complessità e la frammentazione rendono particolarmente difficile il calcolo di una spesa esatta. Di tale
 spesa, Consip ha una capacità di penetrazione limitata al 24 per cento, dovuta all'esistenza nella
