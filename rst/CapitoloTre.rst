@@ -127,5 +127,10 @@ Le analisi svolte su questi dati sono state suddivise in una serie di macro cate
 .. figure:: imgrel/fig3.png
    :alt: Figura 3
    :align: center
+   
+
+3.2.2 Analisi introduttive sui dati
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Come introduzione alle analisi è stata raccolta una serie di informazioni di carattere generale che descrivono il dataset in esame (Figura 4). È importante far notare che già da questa analisi sommaria la differenza tra importi aggiudicati e importi messi a bando è un chiaro indice del fatto che la qualità del dataset è estremamente bassa.
 
 
