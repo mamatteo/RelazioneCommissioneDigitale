@@ -5,20 +5,20 @@ Cap. 3 | L’analisi della spesa per l’informatica nella pubblica amministrazi
 .. admonition:: Abstract
 
    *Il capitolo si apre con l'analisi dei dati di contesto dei costi della spesa per l'informatica nella pubblica
-amministrazione, stimata per l'Italia in 5,7 miliardi di euro. La cifra è il risultato di una stima, poiché la
-complessità e la frammentazione rendono particolarmente difficile il calcolo di una spesa esatta. Di tale
-spesa, Consip ha una capacità di penetrazione limitata al 24 per cento, dovuta all'esistenza nella
-normativa di facoltà e obblighi molto diversificati e complessi da seguire. Il capitolo mette poi in
-evidenza una serie di criticità relative agli appalti, emerse nelle audizioni di numerose società di
-consulenza, dalle quali si è potuto evincere una carenza cronica di competenze nel personale delle
-pubbliche amministrazioni ed uno scarso controllo sui risultati attesi dai piani triennali. Il capitolo,
-inoltre, analizza in maniera approfondita le gare d'appalto, attraverso l'elaborazione di dati e slide che
-spiegano nel dettaglio i diversi tipi e i tempi di aggiudicazione delle gare, le caratteristiche degli
-aggiudicatari, le tipologie di scelta del contraente e le relazioni tra fornitori e stazioni appaltanti. Il
-capitolo, inoltre, riporta le analisi sul progetto dell'Anagrafe Nazionale della Popolazione Residente, a
-partire dai questionari sottoposti ai comuni da parte del Ministero e dedica un paragrafo al tema degli
-sprechi, con l’esempio dei servizi aggiuntivi a pagamento nella telefonia mobile della PA, dal quale è
-emerso uno sperpero di oltre otto milioni di euro a partire dal 2012 ai primi mesi del 2017.*
+    amministrazione, stimata per l'Italia in 5,7 miliardi di euro. La cifra è il risultato di una stima, poiché la
+    complessità e la frammentazione rendono particolarmente difficile il calcolo di una spesa esatta. Di tale
+    spesa, Consip ha una capacità di penetrazione limitata al 24 per cento, dovuta all'esistenza nella
+    normativa di facoltà e obblighi molto diversificati e complessi da seguire. Il capitolo mette poi in
+    evidenza una serie di criticità relative agli appalti, emerse nelle audizioni di numerose società di
+    consulenza, dalle quali si è potuto evincere una carenza cronica di competenze nel personale delle
+    pubbliche amministrazioni ed uno scarso controllo sui risultati attesi dai piani triennali. Il capitolo,
+    inoltre, analizza in maniera approfondita le gare d'appalto, attraverso l'elaborazione di dati e slide che
+    spiegano nel dettaglio i diversi tipi e i tempi di aggiudicazione delle gare, le caratteristiche degli
+    aggiudicatari, le tipologie di scelta del contraente e le relazioni tra fornitori e stazioni appaltanti. Il
+    capitolo, inoltre, riporta le analisi sul progetto dell'Anagrafe Nazionale della Popolazione Residente, a
+    partire dai questionari sottoposti ai comuni da parte del Ministero e dedica un paragrafo al tema degli
+    sprechi, con l’esempio dei servizi aggiuntivi a pagamento nella telefonia mobile della PA, dal quale è
+    emerso uno sperpero di oltre otto milioni di euro a partire dal 2012 ai primi mesi del 2017.*
 
 ------------
 
@@ -61,6 +61,21 @@ NOTE paragafo 3.1
 ..[5] Ibidem, p. 6.
 ..[6] Ibidem, p. 7.
 ..[7] Ibidem, p. 7.
+..[8] Ibidem, p. 9.
+..[9] Ibidem, pag. 18. 
+..[10] Ibidem, pag. 12.
+..[11] Roberto Gatti, amministratore delegato di Nolan, Norton Italia, KPMG Advisory, Resoconto stenografico dell’audizione del 14 dicembre 2016.
+..[12] Ibidem, p. 6.
+..[13] Ibidem, p. 7.
+..[14] Resoconto stenografico dell'audizione del 20 dicembre 2016, p. 6.
+..[15] Ibidem, p. 6.
+..[16] Nel Regno Unito, in due anni si è registrato un risparmio di 4,4 miliardi, trasferendo i CED sul cloud e posizionandoli in rete.
+..[17] Roberto Gatti, Resoconto stenografico dell'audizione del 14 dicembre 2016, , p. 7-8 
+..[18] Chief information officer, responsabile dei sistemi informativi.
+..[19] Ibidem, p. 10.
+..[20] Ibidem, p. 9-10.
+..[21] Ibidem, p. 11. 
+..[22] Ibidem, p. 11.
 
 ------------
 
@@ -68,7 +83,8 @@ NOTE paragafo 3.1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nell’intento di supportare con delle misure i principali filoni di indagine della Commissione, è stata effettuata una serie di analisi, allo scopo di misurare con precisione alcuni fenomeni inerenti all’ambito IT della Pubblica Amministrazione italiana. Le analisi condotte hanno avuto da subito un duplice scopo: se da un lato hanno fornito un’evidenza quantitativa rispetto ad alcune questioni, dall’altro sono servite a stimolare un proficuo confronto sui risultati, che più volte ha delineato nuove linee d’azione. Un lungo periodo è stato dedicato all’acquisizione dei dati necessari alle analisi previste. I dati che la Commissione ha raccolto durante il suo periodo di lavoro riguardano esclusivamente l’ambito informatico, in accordo con gli obiettivi per cui la Commissione è nata, ma la metodologia può essere applicata anche a tutti gli altri ambiti della spesa pubblica.
 
-Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centrale Acquisti della Pubblica Amministrazione Italiana (Consip) e con l’Autorità Nazionale Anticorruzione (ANAC), si è proceduto a definire il dominio di dati su cui operare attraverso un percorso di confronto costante sulle analisi in atto, volto ad interpretare correttamente i risultati via via ottenuti.
+.. admonition:: Si dovrebbe
+   Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centrale Acquisti della Pubblica Amministrazione Italiana              (Consip) e con l’Autorità Nazionale Anticorruzione (ANAC), si è proceduto a definire il dominio di dati su cui operare attraverso un   percorso di confronto costante sulle analisi in atto, volto ad interpretare correttamente i risultati via via ottenuti.
 
 
 3.2.1 Il dominio dei dati
