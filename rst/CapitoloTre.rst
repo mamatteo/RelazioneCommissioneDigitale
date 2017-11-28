@@ -133,4 +133,29 @@ Le analisi svolte su questi dati sono state suddivise in una serie di macro cate
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Come introduzione alle analisi è stata raccolta una serie di informazioni di carattere generale che descrivono il dataset in esame (Figura 4). È importante far notare che già da questa analisi sommaria la differenza tra importi aggiudicati e importi messi a bando è un chiaro indice del fatto che la qualità del dataset è estremamente bassa.
 
+.. figure:: imgrel/fig4.png
+   :alt: Figura 4
+   :align: center
+   
+Per quanto riguarda le 3.853 gare messe a bando e aggiudicate lo stesso giorno, la tipologia di scelta del contraente che risulta maggiore in numero è, in ordine decrescente, *l’Affidamento diretto in adesione ad accordo quadro/convenzione*, seguito dalla *Procedura negoziata senza previa pubblicazione* e dell’*Affidamento in economia/Affidamento diretto*.
+
+Delle 109 gare in cui l’importo di aggiudicazione risulta superiore all’importo della base d’asta, ve ne sono 17 in cui l’incremento della base d’asta supera il milione di euro. Di queste 17 gare, 4 risultano aggiudicate ad un importo di almeno un miliardo di euro maggiore rispetto alla base d’asta. È ragionevole pensare che anche in questi casi i dati siano viziati da errori, tuttavia è opportuno segnalare come queste gare non siano state segnalate da ANAC tra quelle contenenti dati non corretti.
+
+In tutti e 4 i casi, la tipologia di scelta del contraente utilizzata è stata quella dell’affidamento diretto: in economia per la prima gara riportata in tabella, in adesione ad accordo quadro - convenzione per le altre tre righe.
+
+.. figure:: imgrel/fig5.png
+   :alt: Figura 5
+   :caption: Figura 5
+   :align: center
+   
+La Figura 5 evidenzia ulteriori anomalie sui dati. 
+All’interno del dataset sono presenti 21.212 gare (85 per cento del totale) in cui ha partecipato un solo fornitore che è poi naturalmente risultato l’aggiudicatario. Vi sono poi 52 gare prive di partecipanti, che su indicazione di ANAC sono state analizzate trattandole al pari delle gare con un solo partecipante, nonostante nel campo *“numero partecipanti”* compaia il valore 0.
+
+Metà delle gare riportate nel dataset sono state aggiudicate allo stesso importo con cui erano state bandite. Un’ulteriore analisi di carattere generale che è stata fatta ha riguardato le pubbliche amministrazioni e i fornitori presenti nel dataset. I risultati sono riassunti in Figura 6.
+
+.. figure:: imgrel/fig6.png
+   :alt: Figura 6
+   :caption: Figura 6
+   :align: center
+
 
