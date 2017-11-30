@@ -85,7 +85,7 @@ Nell’intento di supportare con delle misure i principali filoni di indagine de
 
 .. admonition:: SI DOVREBBE
 
-   Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centrale Acquisti della Pubblica Amministrazione Italiana                  (Consip) e con l’Autorità Nazionale Anticorruzione (ANAC), si è proceduto a definire il dominio di dati su cui operare attraverso un    percorso di confronto costante sulle analisi in atto, volto ad interpretare correttamente i risultati via via ottenuti.
+	Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centrale Acquisti della Pubblica Amministrazione Italiana   	(Consip) e con l’Autorità Nazionale Anticorruzione (ANAC), si è proceduto a definire il dominio di dati su cui operare attraverso un 		percorso di confronto costante sulle analisi in atto, volto ad interpretare correttamente i risultati via via ottenuti.
 
 
 3.2.1 Il dominio dei dati
