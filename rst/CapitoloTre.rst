@@ -249,13 +249,15 @@ Nei grafici che seguono sono stati messi in evidenza gli andamenti di alcune spe
    :alt: Figura 8
    :align: center
    
-|  
+|
+|
 
 .. figure:: imgrel/fig9.png
    :alt: Figura 9
    :align: center
    
-|     
+|
+|
  
 .. figure:: imgrel/fig10.png
    :alt: Figura 10
@@ -274,7 +276,8 @@ Le analisi inerenti alle tipologie di gare sono proseguite con una suddivisione 
    :alt: Figura 11
    :align: center
    
-|      
+| 
+|
 
 .. figure:: imgrel/fig12.png
    :alt: Figura 12
@@ -310,7 +313,35 @@ Le diverse tipologie di scelta del contraente presenti all’interno del dataset
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Per quanto riguarda l’analisi sui tempi delle gare, la Commissione si è concentrata nello studio di quanto tempo, in media, sia necessario per aggiudicare una gara.
 In Figura 14 è possibile visualizzare i risultati.
-   
+ 
+|
+|
+
+.. figure:: imgrel/fig14.png
+   :alt: Figura 14
+   :align: center
+|
+|
+|   
+
+La tipologia di scelta del contraente, che in media fa trascorrere più tempo tra la data di pubblicazione del bando e la data di aggiudicazione, è la *Procedura ristretta derivante da avvisi con cui si indice una gara* (224 giorni). A seguire troviamo la *Procedura ai sensi dei regolamenti degli organi costituzionali* (192 giorni) e la *Procedura aperta* (180 giorni). La tipologia di scelta del contraente più rapida risulta *l’Affidamento diretto in adesione ad accordo quadro/convenzione.*
+
+Un problema riscontrato nel calcolo di questa media è rappresentato dal fatto che 301 gare risultano aggiudicate prima della data in cui sono state messe a bando, tuttavia queste gare non sono state conteggiate nei risultati esposti in Figura 14. A titolo di esempio, si possono citare il caso della gara bandita con procedura aperta dal Comune di Lecce per l’affidamento dei servizi previsti per la gestione di un centro interculturale che secondo il database è stata aggiudicata circa sette anni prima del bando, oppure la proroga del contratto di gestione della sicurezza affidata, sempre secondo il database, dall’Ente Regionale per la protezione dell’ambiente della Lombardia con tre anni d’anticipo rispetto al bando e con un importo superiore di più di sei volte la base d’asta.
+
+|
+|
+
+.. figure:: imgrel/fig15.png
+   :alt: Figura 15
+   :align: center
+|
+|
+|
+
+All’interno del *dataset* risulta che il 15 per cento delle gare sono state pubblicate e aggiudicate lo stesso giorno, come si può evincere dalla figura 15. Tra le maggiori tipologie di scelta del contraente spiccano gli affidamenti diretti. La quasi totalità di queste gare ha visto coinvolto un solo partecipante, anche se risultano una ventina di gare in cui il numero dei partecipanti è stato superiore a 1.
+
+.. WARNING::
+   Nelle 10 gare bandite e aggiudicate lo stesso giorno, in cui si è verificato, secondo i dati, un significativo rialzo nell’importo di    aggiudicazione rispetto alla base d’asta si riscontrano rialzi che vanno dal 6 per cento fino ad oltre il 24.500 per cento .
    
    
    
