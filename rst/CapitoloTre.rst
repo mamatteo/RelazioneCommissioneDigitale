@@ -111,7 +111,6 @@ Tale normativa, ha reso la pubblicazione dei dati sugli appalti più corposa e p
 
 |
 |
-|
 
 .. figure:: imgrel/fig1.png
    :alt: Figura 1
@@ -131,7 +130,6 @@ Il dataset consegnato alla Commissione è stato fornito sotto forma di tabella a
 
 |
 |
-|
 
 .. figure:: imgrel/fig2.png
    :alt: Figura 2
@@ -142,7 +140,6 @@ Il dataset consegnato alla Commissione è stato fornito sotto forma di tabella a
 
 Le analisi svolte su questi dati sono state suddivise in una serie di macro categorie, che hanno posto l’attenzione su diversi aspetti di una gara d’appalto. Di seguito (Figura 3), l’elenco delle macro categorie analizzate.
 
-|
 |
 |
 
@@ -158,7 +155,6 @@ Le analisi svolte su questi dati sono state suddivise in una serie di macro cate
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Come introduzione alle analisi è stata raccolta una serie di informazioni di carattere generale che descrivono il dataset in esame (Figura 4). È importante far notare che già da questa analisi sommaria la differenza tra importi aggiudicati e importi messi a bando è un chiaro indice del fatto che la qualità del dataset è estremamente bassa.
 
-|
 |
 |
 
@@ -178,7 +174,6 @@ In tutti e 4 i casi, la tipologia di scelta del contraente utilizzata è stata q
 
 |
 |
-|
 
 .. figure:: imgrel/fig5.png
    :alt: Figura 5
@@ -192,7 +187,6 @@ All’interno del dataset sono presenti 21.212 gare (85 per cento del totale) in
 
 Metà delle gare riportate nel dataset sono state aggiudicate allo stesso importo con cui erano state bandite. Un’ulteriore analisi di carattere generale che è stata fatta ha riguardato le pubbliche amministrazioni e i fornitori presenti nel dataset. I risultati sono riassunti in Figura 6.
 
-|
 |
 |
 
@@ -213,12 +207,11 @@ Segue l’analisi sulle tipologie di scelta del contraente, per numero di gare e
 
 |
 |
-|
 
 .. figure:: imgrel/fig7a.png
    :alt: Figura 7a
    :align: center
-   
+|  
 .. figure:: imgrel/fig7b.png
    :alt: Figura 7b
    :align: center
@@ -251,16 +244,19 @@ Nei grafici che seguono sono stati messi in evidenza gli andamenti di alcune spe
 
 |
 |
-|
 
 .. figure:: imgrel/fig8.png
    :alt: Figura 8
    :align: center
    
+|  
+
 .. figure:: imgrel/fig9.png
    :alt: Figura 9
    :align: center
-      
+   
+|     
+ 
 .. figure:: imgrel/fig10.png
    :alt: Figura 10
    :align: center
@@ -273,12 +269,13 @@ Le analisi inerenti alle tipologie di gare sono proseguite con una suddivisione 
 
 |
 |
-|
 
 .. figure:: imgrel/fig11.png
    :alt: Figura 11
    :align: center
-      
+   
+|      
+
 .. figure:: imgrel/fig12.png
    :alt: Figura 12
    :align: center
@@ -288,7 +285,6 @@ Le analisi inerenti alle tipologie di gare sono proseguite con una suddivisione 
 
 In Figura 12 è riportato l’andamento delle tipologie di scelta di contraente, per numero e per importo aggiudicato, nel biennio 2013-2014. La procedura aperta che risulta una fetta con poche gare nella prima torta, raggiunge il primo posto nella seconda torta, rivelandosi la tipologia di scelta del contraente con un totale degli importi di aggiudicazione (903.724.167,74 €) maggiore rispetto a tutte le altre tipologie.
 
-|
 |
 |
 
