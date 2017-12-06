@@ -881,7 +881,6 @@ La Commissione ha rilevato come le Regioni con maggiori residui siano la Sicilia
 NOTE paragafo 3.6
 
 .. [29] Legge n. 662/1996, art. 2, comma 203, lettera c).
-.. [30] Numerazione per servizi specifici a numerazione breve, per servizi a sovrapprezzo e per servizi armonizzati europei a valenza 
 
 ------------
 
