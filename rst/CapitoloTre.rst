@@ -132,6 +132,7 @@ Il dataset consegnato alla Commissione è stato fornito sotto forma di tabella a
 |
 |
 |
+
 .. figure:: imgrel/fig2.png
    :alt: Figura 2
    :align: center
@@ -144,6 +145,7 @@ Le analisi svolte su questi dati sono state suddivise in una serie di macro cate
 |
 |
 |
+
 .. figure:: imgrel/fig3.png
    :alt: Figura 3
    :align: center
@@ -159,6 +161,7 @@ Come introduzione alle analisi è stata raccolta una serie di informazioni di ca
 |
 |
 |
+
 .. figure:: imgrel/fig4.png
    :alt: Figura 4
    :align: center
@@ -176,6 +179,7 @@ In tutti e 4 i casi, la tipologia di scelta del contraente utilizzata è stata q
 |
 |
 |
+
 .. figure:: imgrel/fig5.png
    :alt: Figura 5
    :align: center
@@ -191,6 +195,7 @@ Metà delle gare riportate nel dataset sono state aggiudicate allo stesso import
 |
 |
 |
+
 .. figure:: imgrel/fig6.png
    :alt: Figura 6
    :align: center
@@ -205,9 +210,11 @@ Mentre il numero di Pubbliche Amministrazioni presenti all’interno del *datase
 3.2.3 Analisi sulle tipologie di scelta del contraente
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Segue l’analisi sulle tipologie di scelta del contraente, per numero di gare e per totale dell’importo aggiudicato.
+
 |
 |
 |
+
 .. figure:: imgrel/fig7a.png
    :alt: Figura 7a
    :align: center
@@ -218,6 +225,7 @@ Segue l’analisi sulle tipologie di scelta del contraente, per numero di gare e
 |
 |
 |  
+
 Nei due grafici a torta riportati in Figura 7, si è voluto confrontare le diverse tipologie di scelta del contraente, per numero di gare effettuate con ciascuna tipologia e per importo di aggiudicazione totale. Quello che emerge dal primo grafico è che le maggiori tipologie di scelta del contraente, utilizzate nelle gare d’appalto nel periodo compreso tra il 2011 e il 2017 sono:
 1. **Procedura negoziata senza previa pubblicazione**, con 7198 gare, pari al 29 per cento del totale 
 2. **Affidamento in economia - cottimo fiduciario**, con 4397 gare, pari al 18 per cento del totale 
@@ -240,9 +248,11 @@ L’*Affidamento diretto in adesione ad accordo quadro/convenzione*, che è sest
 Un dato particolarmente interessante è rappresentato dalla *Procedura negoziata previa pubblicazione*, che si classifica quinta per il totale degli importi aggiudicati, ma non compare in maniera significativa come numero di gare svolte. Nello specifico, tale tipologia di scelta del contraente è stata utilizzata per solo 184 gare (meno dell’1 per cento del totale), per un totale aggiudicato di 1.520.664.032,00€.
 
 Nei grafici che seguono sono stati messi in evidenza gli andamenti di alcune specifiche tipologie di scelta contraente, allo scopo di visualizzare le variazioni annue nell’intervallo di tempo considerato. La colonna grigia indica la mancanza di informazioni complete riferite all’anno 2017, non essendo ancora terminate al momento della pubblicazione di questa relazione.
+
 |
 |
 |
+
 .. figure:: imgrel/fig8.png
    :alt: Figura 8
    :align: center
@@ -254,13 +264,17 @@ Nei grafici che seguono sono stati messi in evidenza gli andamenti di alcune spe
 .. figure:: imgrel/fig10.png
    :alt: Figura 10
    :align: center
+   
 |
 |
-|   
+|  
+
 Le analisi inerenti alle tipologie di gare sono proseguite con una suddivisione del dataset in tre partizioni, rappresentanti i bienni 2011-2012, 2013-2014 e 2015-2016. L’anno 2017 non è stato considerato in questo specifico caso, poiché non ancora terminato al momento della pubblicazione di questa relazione. In Figura 11 sono evidenziate, tramite i due grafici a torta, le gare aggiudicate negli anni 2011 e 2012. La prima torta rappresenta le diverse tipologie di scelta del contraente per numero di gare effettuate, mentre la seconda torta, per ciascuna tipologia di contraente evidenziata, ne riporta il totale dell’importo aggiudicato.
+
 |
 |
 |
+
 .. figure:: imgrel/fig11.png
    :alt: Figura 11
    :align: center
@@ -271,16 +285,20 @@ Le analisi inerenti alle tipologie di gare sono proseguite con una suddivisione 
 |
 |
 |  
+
 In Figura 12 è riportato l’andamento delle tipologie di scelta di contraente, per numero e per importo aggiudicato, nel biennio 2013-2014. La procedura aperta che risulta una fetta con poche gare nella prima torta, raggiunge il primo posto nella seconda torta, rivelandosi la tipologia di scelta del contraente con un totale degli importi di aggiudicazione (903.724.167,74 €) maggiore rispetto a tutte le altre tipologie.
+
 |
 |
 |
+
 .. figure:: imgrel/fig13.png
    :alt: Figura 13
    :align: center
 |
 |
-|  
+| 
+
 Alla luce dei risultati delle analisi relative alle tipologie di scelta del contraente, emerge come le gare d’appalto si concentrino solo su alcune delle svariate tipologie di scelta del contraente disponibili. In particolare, le tipologie che ricorrono da un biennio all’altro sono:
 
 1. Procedura negoziata senza previa pubblicazione
