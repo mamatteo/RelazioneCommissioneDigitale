@@ -116,6 +116,10 @@ Tale normativa, ha reso la pubblicazione dei dati sugli appalti più corposa e p
 .. figure:: imgrel/fig1.png
    :alt: Figura 1
    :align: center
+   
+|
+|
+|
       
 Il dataset inviato alla Commissione da parte di ANAC contava 34.183 gare totali, corrispondenti ai servizi ICT erogati verso la Pubblica Amministrazione a partire dal primo gennaio 2011. Il dataset in esame è aggiornato a settembre 2017.  Di queste 34.183 gare, 3.116 sono state evidenziate da Anac come “gare contenenti errori”. Non è stata specificata nel dettaglio alla Commissione la natura degli errori presenti in quelle gare. Le analisi svolte quindi, sono state condotte su un sottoinsieme del dataset di partenza, in cui sono stati sottratti anche tutti i record contenenti ‘CIG padri’, pari a 1.740. All’interno del numero di gare considerate in via definitiva nell’analisi, sono stati individuati 4.444 CIG derivati, e 24.883 affidamenti autonomi. Infine, sono stati tolti i record con i CIG ripetuti, che identificano i raggruppamenti temporanei d’impresa (RTI), mantenendo solo il record del mandatario non avendo informazioni su come ripartire la spesa all’interno dell’RTI. 
 
