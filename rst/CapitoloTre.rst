@@ -110,6 +110,8 @@ I dati richiesti ad Anac sono stati inviati alla Commissione a più riprese, poi
 Tale normativa, ha reso la pubblicazione dei dati sugli appalti più corposa e precisa rispetto al passato. Di seguito, in Figura 1, è evidenziato l’iter che ha seguito la Commissione per l’estrazione della sottotabella sopracitata.
 
 |
+|
+|
 
 .. figure:: imgrel/fig1.png
    :alt: Figura 1
