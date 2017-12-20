@@ -32,5 +32,5 @@ La Commissione ha appreso dai dati forniti dall’Agenzia delle dogane e dei mon
 +--------------+----------+-----------+-----------+
 | row 2        | Use the command ``ls | more``.   |
 +--------------+----------+-----------+-----------+
-| row 3        |          |           |           |
+| row 3        |   madama carle ha fatto un dusastro non da poco       |           |           |
 +--------------+----------+-----------+-----------+
