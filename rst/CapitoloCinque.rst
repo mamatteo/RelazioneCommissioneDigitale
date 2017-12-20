@@ -11,7 +11,7 @@ L’INAIL ha invece elaborato uno strumento per l’attività di monitoraggio su
 Nel corso dell’inchiesta condotta dalla Commissione è risultato evidente come la digitalizzazione nella pubblica amministrazione ottenga i maggiori risultati, in termini di risparmio, efficientamento e servizi ai cittadini, quando è soggetta a indicatori e misurazioni e, più in generale, dove la transizione verso la modalità digitale ha impattato fortemente il processo, non limitandosi unicamente alla semplice dematerializzazione dei documenti cartacei. Durante le audizioni condotte dalla Commissione sono emersi diversi esempi virtuosi, *best practice* che meritano un approfondimento, affinché possano svolgere una funzione di esempio e di stimolo nei confronti di quei settori della pubblica amministrazione che ancora stentano verso la digitalizzazione.
 
 
-L’Agenzia delle dogane e dei monopoli
+5.1 L’Agenzia delle dogane e dei monopoli
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 L’Agenzia delle dogane e dei monopoli è sicuramente un case study importante. Negli ultimi anni, lo sviluppo di reti di comunicazione e di trasporto sempre più efficaci e rapide a livello internazionale ha fatto aumentare in modo considerevole il numero di scambi di beni e servizi. Come conseguenza, il processo di import-export ha richiesto lo sviluppo sempre maggiore di infrastrutture immateriali, nell’interesse del cittadino-consumatore, delle aziende e per il rispetto della legge.
 
@@ -27,10 +27,34 @@ In seguito all’approvazione del CDU, a partire dal 1° maggio del 2016, è sta
 
 La Commissione ha appreso dai dati forniti dall’Agenzia delle dogane e dei monopoli che a seguito di questa innovazione il 92,6 per cento delle merci viene sdoganato dai principali porti tra i 12 secondi e i 5 minuti (dal primo gennaio al 30 aprile del 2016, prima dell’introduzione del fascicolo elettronico, la percentuale era invece dell’84,3 per cento).
 
-+--------------+----------+-----------+-----------+
-| row 1, col 1 | column 2 | column 3  | column 4  |
-+--------------+----------+-----------+-----------+
-| row 2        | Use the command ``ls | more``.   |
-+--------------+----------+-----------+-----------+
-| row 3        |   madama carle ha fatto un dusastro non da poco       |           |           |
-+--------------+----------+-----------+-----------+
+[tabella mancante]
+
+Sono molto significativi anche i dati che riguardano i porti, sempre relativi alle dichiarazioni sdoganate entro 5 minuti:
+
+[tabella mancante]
+
+Nel dettaglio Genova è passata dal 65,8 all’87,6 per cento delle merci sdoganate entro cinque minuti; La Spezia dal 77 al 91,6 per cento; Livorno dal 64,8 al 91,3 per cento; Venezia dal 92,1 al 96,5 per cento; Trieste dal 18,4 al 77,8 per cento. Un impatto davvero significativo va rilevato nei porti del centro-Sud: Civitavecchia dal 2,7 al 62 per cento; Napoli dal 2,2 al 55,7 per cento; Bari dal 2,6 al 72,8 per cento; Gioia Tauro dallo 0,01 al 67,3 per cento.
+
+Molto rilevanti, come mostra la seguente tabella, sempre a cura dell’Agenzia delle dogane e dei monopoli, anche i progressi che riguardano tutte le altre dogane:
+
+[tabella mancante]
+
+Meno rilevante in termini di impatto, ma comunque significativo, soprattutto per quanto riguarda il “transito partenza”, l’impatto sullo sdoganamento nei principali aeroporti:
+
+[tabella mancante]
+
+In termini assoluti, nel 2016 sono state lavorate più di 19 milioni di dichiarazioni doganali a fronte delle 18,1 milioni del 2015 e dei 17,2 milioni del 2014.
+
+A completare il processo di forte innovazione, troviamo il sistema di tracciabilità fisica delle merci “il Trovatore”, che dialoga con tutte le piattaforme di monitoraggio specifiche e attraverso cui sono stati attivati i *fast corridors*.
+
+
+
+5.2 La Provincia autonoma di Trento
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*testo da completare**
+
+
+
+
+
