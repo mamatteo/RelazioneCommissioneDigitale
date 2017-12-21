@@ -71,6 +71,19 @@ della media UE). Lo scarso utilizzo dei servizi di *e-gov* ci penalizza
 sia in termini di efficienza della pubblica amministrazione, che dal
 punto di vista economico.
 
+.. warning::
+   testo a cui prestare attenzione!
+
+Spazio
+
+.. important::
+   testo davvero importante
+
+Spazio
+
+.. admonition:: SI PUO'
+   testo del si deve
+
 .. note::
 
    Anche in ragione di questi motivi la Camera dei deputati ha ritenuto
