@@ -115,7 +115,8 @@ Tale normativa, ha reso la pubblicazione dei dati sugli appalti più corposa e p
 .. figure:: imgrel/fig1.png
    :alt: Figura 1
    :align: center
-\ **Testo figura 1** 
+   
+   Testo figura 1
    
 |
 |
