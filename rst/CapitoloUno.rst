@@ -2,8 +2,6 @@
 Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchiesta
 =============================================================================
 
-.. admonition:: Abstract
-
    *Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
    prendendo in considerazione gli indicatori del DESI relativo al nostro
    Paese, in particolare nel rapporto contraddittorio tra l'uso delle
@@ -183,9 +181,8 @@ supporto del Servizio Informatica della Camera dei deputati. I documenti
 dichiarati liberi sono stati pubblicati sul sito della Camera.
 
 .. note::
-
-   L’attività della Commissione rappresenta la prima esperienza
-   completamente *paperless* nella storia dell’amministrazione della Camera.
+  L’attività della Commissione rappresenta la prima esperienza
+  completamente *paperless* nella storia dell’amministrazione della Camera.
 
 1.2.3 La relazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
