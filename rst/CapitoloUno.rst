@@ -2,7 +2,7 @@
 Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchiesta
 =============================================================================
 
-   *Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
+   ABSTRACT | *Il primo Capitolo illustra le finalità dell'inchiesta della Commissione,
    prendendo in considerazione gli indicatori del DESI relativo al nostro
    Paese, in particolare nel rapporto contraddittorio tra l'uso delle
    tecnologie degli italiani, molto utilizzate nelle comunicazioni ma
@@ -71,26 +71,13 @@ della media UE). Lo scarso utilizzo dei servizi di *e-gov* ci penalizza
 sia in termini di efficienza della pubblica amministrazione, che dal
 punto di vista economico.
 
-.. warning::
-   testo a cui prestare attenzione!
-
-Spazio
-
-.. important::
-   testo davvero importante
-
-Spazio
-
-.. admonition:: SI PUO'
-   testo del si deve
-
 .. note::
 
-   Anche in ragione di questi motivi la Camera dei deputati ha ritenuto
+   Anche in ragione di questi motivi **la Camera dei deputati ha ritenuto
    opportuna l’istituzione di una Commissione parlamentare monocamerale di
    inchiesta, sul livello di digitalizzazione e innovazione delle pubbliche
    amministrazioni e sugli investimenti complessivi riguardanti il settore
-   delle tecnologie dell’informazione e della comunicazione (Nella XVI Legislatura la I Commissione permanente della Camera dei deputati aveva svolto un’indagine conoscitiva sulla informatizzazione delle pubbliche amministrazioni DOC. XVII, n. 6). L’istituzione
+   delle tecnologie dell’informazione e della comunicazione** (Nella XVI Legislatura la I Commissione permanente della Camera dei deputati aveva svolto un’indagine conoscitiva sulla informatizzazione delle pubbliche amministrazioni DOC. XVII, n. 6). L’istituzione
    è avvenuta nel corso della XVII Legislatura con deliberazione del 14
    giugno 2016. La Commissione si è costituita il 4 novembre 2016 e ha
    continuato i propri lavori fino ad ottobre 2017, in conformità con
@@ -165,10 +152,12 @@ in quelle concernenti settori o problematiche specifici, benché
 naturalmente, in questa seconda tipologia siano stati affrontati anche
 profili di carattere trasversale. L’elenco completo di tutte le
 audizioni e dei relativi partecipanti può essere consultato al capitolo
-7, tra gli allegati della relazione. Dall’inizio della sua attività, la
-Commissione ha svolto finora 66 audizioni, alle quali hanno partecipato
-125 invitati. Inoltre, la Commissione ha effettuato un solo sopralluogo,
-presso il centro di elaborazione dati di Sogei a Roma.
+7, tra gli allegati della relazione. 
+
+.. note::
+
+   Dall’inizio della sua attività, la Commissione ha svolto finora 66 audizioni, alle quali hanno partecipato 125 invitati. Inoltre, la
+   Commissione ha effettuato un solo sopralluogo, presso il centro di elaborazione dati di Sogei a Roma.
 
 1.2.2 Le acquisizioni di documenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
