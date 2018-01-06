@@ -5,22 +5,22 @@ Elenco delle audizioni svolte
 Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizioni, alle quali hanno partecipato 127 invitati. Di seguito l’elenco delle audizioni in ordine cronologico.
 
 - Audizione n. 1 - 24 novembre 2016 (Resoconto stenografico n. 1)
-  1.  	Luigi Marroni, amministratore delegato di Consip.
-  2.  	Sante Dotto, direttore progetti per la PA di Consip
-  3.  	Gaetano Santucci,  direttore Sourcing ICT di Consip 
+    1.  	Luigi Marroni, amministratore delegato di Consip.
+    2.  	Sante Dotto, direttore progetti per la PA di Consip
+    3.  	Gaetano Santucci,  direttore Sourcing ICT di Consip 
 - Audizione n. 2 - 14 dicembre 2016 (Resoconto stenografico n. 2)
-  4.  	Roberto Gatti, amministratore delegato di Nolan, Norton Italia – KPMG Advisory
+    4.  	Roberto Gatti, amministratore delegato di Nolan, Norton Italia – KPMG Advisory
 - Audizione n. 3 - 20 dicembre 2016 (Resoconto stenografico n. 3)
-  5.  	Donato Iacovone, managing partner di EY per Italia, Spagna e Portogallo
-  6.  	Andrea D’Acunto, advisory leader per il settore pubblico di EY 
+    5.  	Donato Iacovone, managing partner di EY per Italia, Spagna e Portogallo
+    6.  	Andrea D’Acunto, advisory leader per il settore pubblico di EY 
 - Audizione n. 4 – 10 gennaio 2017 (Resoconto stenografico n. 4)
-  7.  	Giancarlo Senatore, responsabile Public Sector Consulting per l’area EMEA (Europe, Middle East, Africa) di PWC
-  8.  	Giovanni Mariani, responsabile Public Sector  per l’Italia di PWC
+    7.  	Giancarlo Senatore, responsabile Public Sector Consulting per l’area EMEA (Europe, Middle East, Africa) di PWC
+    8.  	Giovanni Mariani, responsabile Public Sector  per l’Italia di PWC
 - Audizione n. 5 – 10 gennaio 2017 (Resoconto stenografico n. 4)
-  9.  	Guido Borsani, responsabile Public Sector Industry Leader di DeLoitte Italia
-  10.  Gianluca Di Cicco, partner di DeLoitte Consulting
+    9.  	Guido Borsani, responsabile Public Sector Industry Leader di DeLoitte Italia
+    10.  Gianluca Di Cicco, partner di DeLoitte Consulting
 - Audizione n. 6 – 11 gennaio 2017 (Resoconto stenografico n. 5)
-  11.  Guido Rey, ex presidente dell’AIPA
+    11.  Guido Rey, ex presidente dell’AIPA
 
 Audizione n. 7 – 11 gennaio 2017 (Resoconto stenografico n. 5)
 12.  Alberto Zuliani, ex presidente dell’AIPA
