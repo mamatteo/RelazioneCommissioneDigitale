@@ -226,7 +226,7 @@ istitutiva, è articolata in più parti:
    come la digitalizzazione migliori dove esistono adeguate
    professionalità, oltre a indicatori e misurazioni che facilitano il
    controllo dei risultati;
- - il sesto capitolo è dedicato alle **conclusioni del lavoro della
+ - il `sesto capitolo <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloSei.html>`_ è dedicato alle **conclusioni del lavoro della
    Commissione** e ai suggerimenti scaturiti dalle riflessioni dei
    commissari, sulla base delle informazioni raccolte;
  - Il settimo capitolo è composto da alcuni documenti allegati e
