@@ -2,6 +2,20 @@
 Cap 6 | Le conclusioni
 ================================================
 
+  ABSTRACT | *L’ultimo capitolo è relativo alle conclusioni tratte dalla Commissione in merito al lavoro svolto e
+  riassume le maggiori criticità riscontrate, proponendo al Legislatore possibili soluzioni migliorative. Si
+  evidenziano gli squilibri nei confronti del fornitore a causa della mancanza di competenze
+  dell'amministrazione pubblica. In particolare nel SIAN o nel caso di ANPR, è esemplificativo il problema
+  del lock-in ovvero il meccanismo tramite il quale si crea un ostacolo al cambio di fornitore e quindi una
+  limitazione alla concorrenza. Riguardo al procurement, la proposta è quella di uscire dalla logica del massimo ribasso sul costo dei
+  function point e passare ad una logica di prodotto, con opportune metriche di qualità. Inoltre, l’azione di
+  contrasto alla corruzione si può fortemente potenziare grazie alla semplificazione e validazione del
+  processo di analisi e visualizzazione dei dati, anziché richiederli più volte alle stazioni appaltanti qualora
+  fossero già comunicati o in possesso della PA. L’intenzione di continuare le azioni intraprese negli ultimi anni, rafforzando e       
+  stabilizzando la governance della trasformazione, è la sollecitazione della Commissione nei confronti del Governo e del
+  Parlamento. La Commissione, inoltre, esorta ad aumentare la capacità del Legislatore di eseguire un
+  costante assessment dell’impatto tecnologico sulla normativa.*
+  
 A conclusione della relazione, appare doveroso tracciare un sintetico bilancio dell’attività svolta nel
 corso della XVII legislatura, per evidenziare alcune principali questioni aperte in materia di
 digitalizzazione della pubblica amministrazione, sulle quali la Commissione ritiene opportuno
@@ -13,39 +27,51 @@ alcune possibili soluzioni, sulla base dei risultati dell’inchiesta e dell’e
 È opportuno innanzitutto ripercorrere brevemente il percorso dei lavori della Commissione, nel
 corso del suo anno di intensa attività. A causa del limitato tempo a disposizione da una parte, e
 all’ampiezza del campo d’indagine dall’altra, il lavoro della Commissione si è strutturato in due fasi:
-le prime audizioni sono state dedicate a raccogliere informazioni di contesto e relative alla storia
+
+  - le prime audizioni sono state dedicate a raccogliere informazioni di contesto e relative alla storia
 dell’ICT della pubblica amministrazione, vista dalla prospettiva dell’Agenzia per l’Italia Digitale e i
-suoi predecessori. La seconda fase è stata invece dedicata all’approfondimento di singoli filoni di
+suoi predecessori. 
+  - La seconda fase è stata invece dedicata all’approfondimento di singoli filoni di
 indagine, alla raccolta di documentazione e, per ultimo, alla somministrazione del questionario
 sull’attuazione del CAD a 23 tra i maggiori comuni italiani.
+
 L’audizione con la delegazione di Consip del 24 novembre 2016 ha permesso alla Commissione di
 avere un quadro sulla spesa ICT, completato successivamente dall’audizione del 7 febbraio 2017 con
+AgID sul piano triennale dell’informatica della pubblica amministrazione. 
 
-AgID sul piano triennale dell’informatica della pubblica amministrazione. Immediatamente è apparsa
-evidente l’impossibilità di una ricognizione esatta della spesa dal momento che tutt’ora gran parte
-della spesa ICT non passa attraverso la centrale di acquisto Consip (solo il 24 per cento) e anche a
-causa del fatto che la classificazione è difficile soprattutto quando la spesa ICT è parte di progetti di
-innovazione che prevedono acquisti di beni e servizi diversi. La Commissione ha tentato anche un
-approccio di analisi che partisse dai dati della Banca Dati Contratti Pubblici, ma una serie di difficoltà
-tecniche, prima fra tutte l’inadeguata qualità dei dati presenti, ha impedito di ottenere risultati
-soddisfacenti e le analisi e visualizzazioni del capitolo 3 vanno intese soprattutto come
-dimostrazione delle potenzialità del patrimonio informativo a disposizione della PA, se solo si
-decidesse di sfruttarlo con le moderne tecniche di analisi e visualizzazione dei dati in ottica di
-contrasto alla corruzione e di controllo della spesa pubblica.
+.. note::
+
+   Immediatamente è apparsa evidente l’impossibilità di una ricognizione esatta della spesa dal momento che tutt’ora gran parte
+   della spesa ICT non passa attraverso la centrale di acquisto Consip (solo il 24 per cento) e anche a
+   causa del fatto che la classificazione è difficile soprattutto quando la spesa ICT è parte di progetti di
+   innovazione che prevedono acquisti di beni e servizi diversi. 
+
+.. warning::
+   La Commissione ha tentato anche un approccio di analisi che partisse dai dati della Banca Dati Contratti Pubblici, ma una serie di 
+   difficoltà tecniche, prima fra tutte l’inadeguata qualità dei dati presenti, ha impedito di ottenere risultati
+   soddisfacenti e le analisi e visualizzazioni del capitolo 3 vanno intese soprattutto come
+   dimostrazione delle potenzialità del patrimonio informativo a disposizione della PA, se solo si
+   decidesse di sfruttarlo con le moderne tecniche di analisi e visualizzazione dei dati in ottica di
+   contrasto alla corruzione e di controllo della spesa pubblica.
+
 Le audizioni di alcune delle maggiori società di consulenza hanno permesso alla Commissione di
 individuare alcuni errori tipici e ricorrenti nei processi di digitalizzazione delle organizzazioni
 pubbliche e private, in modo da avere uno schema generale all’interno del quale indirizzare le
-successive indagini. Problemi di governance, mancanza di competenze, soprattutto manageriali,
+successive indagini. **Problemi di governance, mancanza di competenze, soprattutto manageriali,
 carenza di indicatori di risultato che permettano di valutare la qualità dei progetti di digitalizzazione,
 eccesso di spesa indirizzata alla manutenzione dei sistemi esistenti anziché alla loro evoluzione,
 effetto lock-in, confusione normativa: sono tutte criticità tipiche che la Commissione ha, in effetti,
-riscontrato nei successivi filoni d’inchiesta.
+riscontrato nei successivi filoni d’inchiesta.**
 
 La ricostruzione della storia della governance nazionale della pubblica amministrazione digitale,
 dall’Autorità per l’Informatica della Pubblica Amministrazione ad oggi, ha messo invece in evidenza
-almeno due aspetti: l’importanza delle leve in mano ad AgID, prima fra tutte quella dei pareri relativi
-alle gare ICT, e l’importanza di una governance chiara, stabile ed efficace per l’evoluzione digitale
-della PA. Le continue trasformazioni di AIPA, CNIPA, DigitPA fino ad AgID, con i continui cambi al
+almeno due aspetti: 
+  - l’importanza delle leve in mano ad AgID, prima fra tutte quella dei pareri relativi
+alle gare ICT, 
+  - e l’importanza di una governance chiara, stabile ed efficace per l’evoluzione digitale
+della PA. 
+
+Le continue trasformazioni di AIPA, CNIPA, DigitPA fino ad AgID, con i continui cambi al
 vertice non hanno aiutato la governance del digitale. AgID necessita di un deciso rafforzamento, sia
 dal punto di vista finanziario, sia dal punto di vista del personale, come consistenza numerica e come
 competenze. Va anche riconsiderata l’opportunità di restituire ad AgID la competenza/facoltà di
@@ -54,6 +80,7 @@ ha anche mostrato chiaramente un serio problema relativo alla gestione dei grand
 digitalizzazione che si sono protratti negli anni e nelle varie legislature. La Carta d’Identità
 Elettronica, l’Anagrafe Nazionale Popolazione Residente, il VOIP, la fatturazione elettronica, il
 Fascicolo Sanitario Elettronico, sono tutti esempi di progetti ‘trascinati’ da una legislatura all’altra.
+
 Un ultimo aspetto da segnalare rispetto alle audizioni dei predecessori dell’attuale direttore
 generale di AgID riguarda il racconto del rapporto tra le Pubbliche amministrazioni che, più d’una
 volta, ma in particolare durante l’audizione della dottoressa Poggiani, ha mostrato una tendenza ad
@@ -61,70 +88,80 @@ accettare una implicita ‘gerarchia’ tra amministrazioni centrali, per cui al
 considerati più importanti degli altri, i progetti di interesse di alcuni assumono priorità maggiore e le
 prescrizioni di legge vengono applicate in modo differenziato a seconda della presunta ‘importanza’
 dell’amministrazione. Chiaramente, la Commissione censura qualunque comportamento che possa
-introdurre una gerarchia artificiale e non prevista dalla legge. Il mancato rispetto delle norme, però, è un problema non risolto, come appare evidente dal filone d’indagine sullo stato di attuazione del
-Codice dell’Amministrazione Digitale.
+introdurre una gerarchia artificiale e non prevista dalla legge. 
+
+.. note::
+
+   Il mancato rispetto delle norme, però, è un problema non risolto, come appare evidente dal filone d’indagine sullo stato di attuazione      
+   del Codice dell’Amministrazione Digitale.
+
 Terminata la prima fase di analisi del contesto, la Commissione ha seguito alcuni filoni d’indagine,
 con lo scopo di controllare l’esistenza o meno delle criticità delineate nella prima parte. I progetti
 indagati sono stati scelti come esemplificativi di problematiche comuni e generali nella
 digitalizzazione della PA.
-Il primo filone d’indagine relativo è stato il progetto di Anagrafe Nazionale Popolazione Residente
-(ANPR). ANPR è un classico esempio di progetto che si protrae negli anni e che ancora non vede il
+
+ANAGRAFE NAZIONALE DELLA POPOLAZIONE RESIDENTE (ANPR) - Il primo filone d’indagine relativo è stato il progetto di **Anagrafe Nazionale Popolazione Residente (ANPR).** ANPR è un classico esempio di progetto che si protrae negli anni e che ancora non vede il
 completamento, nonostante la sua importanza, a parole, sia riconosciuta da tutti, per l’impatto che
 avrebbe nella semplificazione. Impatto che sarebbe immediatamente percepibile da ciascuna
 amministrazione come da ciascun cittadino. Le criticità riscontrate rispetto ad ANPR possono essere
-riassunte in quanto segue: scarsa competenza da parte della committenza pubblica che si trova a
-non avere gli strumenti necessari per interloquire alla pari con il fornitore; scarsa analisi iniziale
-dell’esistente e scarso coinvolgimento di tutti i portatori di interesse nella fase di progettazione;
-scarsa gestione manageriale del progetto con un’errata stima dei tempi e indicatori di risultato non
-adeguati; allungamento dei tempi dovuti anche alla necessità di diversi adeguamenti normativi.
+riassunte in quanto segue: 
+  - scarsa competenza da parte della committenza pubblica che si trova a
+non avere gli strumenti necessari per interloquire alla pari con il fornitore; 
+  - scarsa analisi iniziale dell’esistente e scarso coinvolgimento di tutti i portatori di interesse nella fase di progettazione;
+  - scarsa gestione manageriale del progetto con un’errata stima dei tempi e indicatori di risultato non adeguati;
+  - allungamento dei tempi dovuti anche alla necessità di diversi adeguamenti normativi.
+
 L’ANPR è un progetto di centralizzazione delle anagrafi che ha elementi in comune con un
 precedente progetto di centralizzazione, non concluso, che va sotto il nome di INA-SAIA (Indice
 Nazionale delle Anagrafi-Sistema di Accesso e di Interscambio Anagrafico) istituito nel 2001. La legge
 istitutiva di ANPR ha affidato a Sogei il compito di realizzarla. La Commissione ha avuto modo di
 notare che l’individuazione per legge di un soggetto specifico per la realizzazione di un progetto di
-digitalizzazione può essere un indice di criticità. Sarebbe preferibile evitare di inserire in norma
+digitalizzazione può essere un indice di criticità. **Sarebbe preferibile evitare di inserire in norma
 primaria le modalità di realizzazione dei progetti di digitalizzazione anche alla luce della valutazione
 comparativa che le PA devono eseguire prima di procedere all’acquisto secondo l’articolo 68, comma
-1-bis del CAD. Nel caso in considerazione la scelta di Sogei è stata dettata dal fatto che già aveva
+1-bis del CAD.** Nel caso in considerazione la scelta di Sogei è stata dettata dal fatto che già aveva
 sviluppato e gestiva l’anagrafe tributaria e quindi il Legislatore ha ritenuto opportuno che potesse
 sviluppare e gestire anche l’anagrafe della popolazione residente, sottovalutando pesantemente la
 differenza tra i due tipi di anagrafi e i processi a loro collegati. Il progetto iniziale prevedeva la
-realizzazione di un’unica applicazione web (web app) centralizzata che potesse fungere da software
+realizzazione di un’unica applicazione web (*web app*) centralizzata che potesse fungere da software
 d’anagrafe per tutti gli oltre 8 mila comuni italiani. Successivamente il progetto è stato modificato
-permettendo anche una modalità basata su servizi web (web services) a cui collegare i software di
+permettendo anche una modalità basata su servizi web (*web services*) a cui collegare i software di
 gestione delle anagrafi dei comuni. La prima soluzione aveva l’obiettivo di produrre risparmi di spesa
 maggiori, ma non ha avuto successo, in quanto i comuni possiedono già soluzioni software che
 ‘coprono’ una gamma di servizi e procedure informatiche superiore a quella prevista dal progetto di
-Sogei. Il passaggio alla web app avrebbe quindi comportato una riduzione dei servizi digitalizzati o la
+Sogei. Il passaggio alla *web app* avrebbe quindi comportato una riduzione dei servizi digitalizzati o la
 necessità di modificare un consistente numero di applicativi che hanno necessità di interfacciarsi con
-l’anagrafe come, ad esempio, lo stato civile, i tributi, i servizi sociali. Dalle audizioni è emerso che, a
-parte i ritardi dovuti all’attesa di decreti attuativi, l’allungamento dei tempi è stato imputabile anche
+l’anagrafe come, ad esempio, lo stato civile, i tributi, i servizi sociali. 
+
+Dalle audizioni è emerso che, a parte i ritardi dovuti all’attesa di decreti attuativi, l’allungamento dei tempi è stato imputabile anche
 al tentativo insufficiente di venire incontro alle necessità dei comuni, portando avanti una strategia
 di digitalizzazione top down in cui la diffusione della soluzione software dal centro alla periferia
 avviene per forza di legge e non perché chi deve adottare la soluzione ne riconosca un beneficio.
 
 D’altra parte, il progetto ANPR non prevedeva indicatori di risultato relativi all’effettivo passaggio dei
-comuni ad ANPR. Sogei, nell’audizione del 21 febbraio 2017, ha affermato che il progetto risultava
-concluso pur avendo migrato un solo Comune di poche migliaia di abitanti. Una tale interpretazione
+comuni ad ANPR. **Sogei, nell’audizione del 21 febbraio 2017, ha affermato che il progetto risultava
+concluso pur avendo migrato un solo Comune di poche migliaia di abitanti.** Una tale interpretazione
 dei progetti di digitalizzazione non è solo fuorviante, ma chiaramente errata, come affermato anche
 dal commissario Piacentini nell’audizione del 15 febbraio 2017, perché si focalizza solamente sulla
 realizzazione tecnologica quando invece ciò che si deve misurare è il risultato finale per il quale il
 progetto di digitalizzazione è stato finanziato. L’approccio errato è anche riscontrabile nei contratti
-esecutivi tra Ministero dell’Interno e Sogei che non prevedono indicatori relativi all’effettivo
-popolamento di ANPR, nonostante i pareri di AgID andassero in questa direzione. ANPR può essere,
+esecutivi tra Ministero dell’Interno e Sogei che **non prevedono indicatori relativi all’effettivo
+popolamento di ANPR, nonostante i pareri di AgID andassero in questa direzione.** ANPR può essere,
 quindi, considerato anche come esempio a favore del ritorno ai pareri vincolanti di AgID. Il Ministero
 ha anche dimostrato una carenza nelle competenze che gli ha impedito di entrare nel merito della
 realizzazione tecnica in quanto la struttura che ha validato il contratto ha ammesso in audizione che
 il controllo è stato meramente amministrativo.
+
 La Commissione non è stata in grado di chiarire per quale motivo la scelta di Sogei sia stata quella di
-sviluppare da zero il software invece di metterne a gara la realizzazione e sfruttare così il know how
-presente sul mercato. Dall’analisi svolta dalla Commissione nel capitolo 3.3, rispetto alla
+sviluppare da zero il software invece di metterne a gara la realizzazione e sfruttare così il *know how*
+presente sul mercato. Dall’analisi svolta dalla Commissione nel `capitolo 3.3 <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloTre.html#analisi-specifiche-sullanagrafe-nazionale-della-popolazione-residente>`_, rispetto alla
 distribuzione dei fornitori di software d’anagrafe per i comuni, risulta che il mercato italiano vede la
 presenza di 45 fornitori che coprono il 97 per cento del Paese, tali da assicurare un grado sufficiente
 di competizione. Sogei ha riferito durante le audizioni che la scelta di sviluppo interno è obbligata
 dalla norma, ma è parere della Commissione che l’interpretazione possa essere più ampia.
+
 Infine, va segnalato un ultimo aspetto di criticità del progetto ANPR che ha rallentato il passaggio dei
-comuni. In questo caso facciamo riferimento alla qualità del dato: la necessità di centralizzare e
+comuni. In questo caso facciamo riferimento alla **qualità del dato**: la necessità di centralizzare e
 standardizzare i dati ha messo in evidenza una serie di errori nella codifica dei dati presenti nelle
 varie anagrafi che non era emerso precedentemente. Questo aspetto è generalizzato e risulta essere
 uno dei motivi che rallenta l’interoperabilità delle banche dati. Nel momento in cui la
@@ -132,8 +169,8 @@ digitalizzazione, infatti, riunifica o interconnette le banche dati, obbliga a b
 certificarne la qualità. D’altra parte, il costo di bonifica e standardizzazione va considerato nei
 progetti di digitalizzazione, aspetto non attuato con ANPR e che ne sta rallentando la conclusione a
 causa del fatto che il costo ricade completamente sui comuni.
-Un secondo filone d’indagine ha visto la Commissione approfondire il tema del Sistema Informativo
-Agricolo Nazionale (SIAN), a seguito di notizie di disservizi ottenute tramite organi di stampa e
+
+SISTEMA INFORMATIVO AGRICOLO NAZIONALE (SIAN) - Un secondo filone d’indagine ha visto la Commissione approfondire il tema del **Sistema Informativo Agricolo Nazionale (SIAN)**, a seguito di notizie di disservizi ottenute tramite organi di stampa e
 presenti nei resoconti dei lavori parlamentari della Commissione agricoltura, oltre a varie
 interrogazioni parlamentari. Anche il SIAN emerge dall’inchiesta come esempio paradigmatico di una
 serie di errori nella gestione della spesa ICT. Se, da una parte, è apprezzabile la lungimiranza del
@@ -143,108 +180,56 @@ come nel caso ANPR, un soggetto specifico, nel caso particolare la società SIN 
 pubblico-privato con socio privato scelto con gara di evidenza pubblica, come sviluppatore e gestore
 del sistema informativo. Varie modifiche normative hanno spostato negli anni la responsabilità di
 sviluppo e gestione dal Ministero ad Agea ed infine alla società SIN, lasciando in capo al Ministero
-solamente i compiti di controllo; compiti però difficili da sopportare in quanto le competenze tecniche non sono presenti in numero sufficiente né presso il MiPAAF, che in una recente
-riorganizzazione, ha perso anche il Nucleo per i sistemi informativi e statistici, né presso Agea, che ha
-un solo informatico in pianta organica. Ancora una volta la Commissione si è trovata di fronte ad un
-caso in cui la carenza di competenze tecniche dal lato della committenza pubblica ha portato
-l’amministrazione ad affidarsi completamente alle dipendenze del fornitore, tanto da porre la
-questione, ancora irrisolta, di come sia possibile definire le specifiche tecniche dei bandi.
-Dalle audizioni risulta che i tecnici del socio privato di SIN sono spesso presenti ai tavoli ministeriali e
-danno supporto nella definizione dei contratti esecutivi tra Agea e SIN.
-SIAN è anche esemplificativo del problema del lock-in, ovvero il meccanismo tramite il quale si crea
-un ostacolo al cambio di fornitore e quindi una limitazione alla concorrenza. Dai documenti e dalle
-audizioni risulta che la base applicativa sviluppata negli anni sempre dalle stesse aziende è
-particolarmente consistente, ma scarsamente documentata. Il rischio è che il know how sia
-totalmente in mano ai fornitori del sistema e che l’eventuale cambio di fornitore sia eccessivamente
-oneroso. La Commissione suggerisce di porre particolare attenzione all’eventuale fase di passaggio
-di consegne a seguito dell’aggiudicazione della gara in corso per il SIAN che prevede due soggetti
-distinti per il lotto 3 relativo allo sviluppo e gestione del sistema informativo e il lotto 4 relativo al
-monitoraggio e controllo.
+solamente i compiti di controllo; compiti però difficili da sopportare in quanto le competenze tecniche non sono presenti in numero sufficiente né presso il MiPAAF, che in una recente riorganizzazione, ha perso anche il Nucleo per i sistemi informativi e statistici, né presso Agea, che ha un solo informatico in pianta organica. 
+
+Ancora una volta la Commissione si è trovata di fronte ad un caso in cui la carenza di competenze tecniche dal lato della committenza pubblica ha portato l’amministrazione ad affidarsi completamente alle dipendenze del fornitore, tanto da porre la
+questione, ancora irrisolta, di come sia possibile definire le specifiche tecniche dei bandi. Dalle audizioni risulta che i tecnici del socio privato di SIN sono spesso presenti ai tavoli ministeriali e danno supporto nella definizione dei contratti esecutivi tra Agea e SIN. SIAN è anche esemplificativo del problema del *lock-in*, ovvero il meccanismo tramite il quale si crea un ostacolo al cambio di fornitore e quindi una limitazione alla concorrenza. Dai documenti e dalle audizioni risulta che la base applicativa sviluppata negli anni sempre dalle stesse aziende è particolarmente consistente, ma scarsamente documentata. Il rischio è che il *know how* sia
+totalmente in mano ai fornitori del sistema e che l’eventuale cambio di fornitore sia eccessivamente oneroso. La Commissione suggerisce di porre particolare attenzione all’eventuale fase di passaggio di consegne a seguito dell’aggiudicazione della gara in corso per il SIAN che prevede due soggetti distinti per il lotto 3 relativo allo sviluppo e gestione del sistema informativo e il lotto 4 relativo al
+monitoraggio e controllo. 
+
 L’indagine relativa al livello di digitalizzazione del MIUR ha evidenziato una gestione sicuramente più
-accurata della spesa ICT anche se il vecchio contratto esecutivo per la fornitura e gestione ICT ha
-rivelato ampi margini di miglioramento, ad esempio per quanto riguarda il costo delle postazioni di
-lavoro che risulta superiore a quanto previsto da altre convenzioni Consip, come risulta evidente dal
-paragrafo 4.4 di questa relazione. Maggiore attenzione va anche posta alla corretta interpretazione
-dell’articolo 17 del CAD che prevede un’unica figura dirigenziale che sovraintenda alla
-digitalizzazione, mentre invece sussistono strutture diverse e poco coordinate frutto
-dell’unificazione dei due ministeri che sembra non essere ancora stata completamente assimilata
-dalla struttura amministrativa.
+accurata della spesa ICT anche se il vecchio contratto esecutivo per la fornitura e gestione ICT ha rivelato ampi margini di miglioramento, ad esempio per quanto riguarda il costo delle postazioni di lavoro che risulta superiore a quanto previsto da altre convenzioni Consip, come risulta evidente dal `paragrafo 4.4 <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloQuattro.html#la-digitalizzazione-del-miur>`_ di questa relazione. Maggiore attenzione va anche posta alla corretta interpretazione dell’articolo 17 del CAD che prevede un’unica figura dirigenziale che sovraintenda alla digitalizzazione, mentre invece sussistono strutture diverse e poco coordinate frutto dell’unificazione dei due ministeri che sembra non essere ancora stata completamente assimilata dalla struttura amministrativa.
 
-Durante tutto il corso dell’indagine la Commissione ha tentato un approccio tecnologico nell’analisi
-dei dati della spesa con un duplice obiettivo: informativo, rispetto alla distribuzione della spesa e del
-tipo di appalti ICT, e dimostrativo, per evidenziare le opportunità che gli open data, opportunamente
-resi accessibili, potrebbero fornire. Purtroppo l’analisi dei dati della Banca Dati dei Contratti Pubblici,
-come detto in precedenza, non ha permesso di ottenere risultati soddisfacenti dal punto di vista
-informativo. Per ammissione dei tecnici ANAC, migliaia di record sono stati scartati perché
-contenenti dati palesemente errati, come date di aggiudicazione antecedenti a quelle di
-pubblicazione del bando o cifre di aggiudicazione differenti di svariati ordini di grandezza, sia in
-eccesso sia in difetto, rispetto alla base d’asta. Allo stato attuale non è possibile avere un grado di
-fiducia sufficiente sul contenuto della BDCP e questo mostra un approccio alla trasparenza
-puramente burocratico. I dati vengono trasmessi e raccolti come puro adempimento senza porre
-particolare attenzione alla loro esattezza, vanificando completamente l’obiettivo della BDCP. Se il
-processo di raccolta dei dati fosse validato e semplificato, evitando di richiedere alle stazioni
-appaltanti di inserire più volte dati già comunicati o già in possesso della PA, in ossequio al principio
-once-only, si potrebbe potenziare fortemente l’azione di contrasto alla corruzione utilizzando
-appieno le potenzialità dell’analisi e visualizzazione dei dati. Alcuni esempi di elaborazione sono
-mostrati nel Capitolo 3, ma vanno considerati esclusivamente come proof-of-concept.
-Un esempio lampante di spreco dovuto al mancato controllo della spesa è emerso dai dati della
-telefonia mobile in convenzione Consip. Da una rapida analisi risultano, ogni anno, circa 2 milioni di
-euro di costi in servizi ‘a valore aggiunto’, in gran parte ingiustificabili perché relativi a servizi
-interattivi di intrattenimento o per adulti. Per quanto il fenomeno sia legato ai meccanismi di
-attivazione di questi servizi che spesso sfuggono al controllo dell’utente, il mancato controllo delle
-fatture ha permesso uno spreco che altrimenti sarebbe stato bloccato sin dalla prima fattura
-emessa.
+.. important::
+   Durante tutto il corso dell’indagine la Commissione ha tentato un approccio tecnologico nell’analisi
+   dei dati della spesa con un duplice obiettivo: informativo, rispetto alla distribuzione della spesa e del
+   tipo di appalti ICT, e dimostrativo, per evidenziare le opportunità che gli open data, opportunamente  
+   resi accessibili, potrebbero fornire. 
+   
+Purtroppo l’analisi dei dati della Banca Dati dei Contratti Pubblici, come detto in precedenza, non ha permesso di ottenere risultati soddisfacenti dal punto di vista informativo. 
 
-Per quanto riguarda l’uso dei fondi europei, la Commissione non ha avuto il tempo sufficiente ad
-approfondire il tema e si è limitata a chiarire, anche a seguito di notizie di stampa, la gestione degli
-Accordi di Programma Quadro da parte di AgID. Dalle audizioni e dall’analisi della documentazione
-emerge che la ragione dei residui, che al 2017 ammontano a 194 milioni, è soprattutto burocratico.
-Le azioni risultano completate nella maggior parte dei casi da parte delle regioni, ma manca la parte
-finale di rendicontazione finanziaria. La Commissione ha chiesto spiegazioni alla Regione Siciliana e
-alla Regione Campania che però non sono state in grado di fornirle, dando esempio di un altro dei
-problemi chiaramente emersi dall’inchiesta, ovvero la carenza di gestione manageriale dei progetti
-di digitalizzazione. In particolare per gli APQ, è mancata completamente la previsione di un
-meccanismo di valutazione dell’impatto dei progetti e i fondi sono stati erogati ancora una volta con
-la logica dell’adempimento e non con quella del risultato. Questo errore iniziale nella concezione del
-meccanismo degli Accordi di Programma Quadro non permette alla Commissione di verificare la
-qualità della spesa.
-Un consistente numero di audizioni sono state dedicate, inoltre, alla verifica dell’attuazione del CAD
+.. note::
+
+   Per ammissione dei tecnici ANAC, migliaia di record sono stati scartati perché contenenti dati palesemente errati, come date di aggiudicazione antecedenti a quelle di pubblicazione del bando o cifre di aggiudicazione differenti di svariati ordini di grandezza, sia in eccesso sia in difetto, rispetto alla base d’asta. Allo stato attuale non è possibile avere un grado di fiducia sufficiente sul contenuto della BDCP e questo mostra un approccio alla trasparenza puramente burocratico. I dati vengono trasmessi e raccolti come puro adempimento senza porre particolare attenzione alla loro esattezza, vanificando completamente l’obiettivo della BDCP. Se il
+processo di raccolta dei dati fosse validato e semplificato, evitando di richiedere alle stazioni appaltanti di inserire più volte dati già comunicati o già in possesso della PA, in ossequio al principio *once-only*, si potrebbe potenziare fortemente l’azione di contrasto alla corruzione utilizzando appieno le potenzialità dell’analisi e visualizzazione dei dati. 
+
+Alcuni esempi di elaborazione sono mostrati nel `Capitolo 3 <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloTre.html>`_, ma vanno considerati esclusivamente come *proof-of-concept*.
+
+Un esempio lampante di spreco dovuto al mancato controllo della spesa è emerso dai dati della telefonia mobile in convenzione Consip. Da una rapida analisi risultano, ogni anno, **circa 2 milioni di euro di costi in servizi ‘a valore aggiunto’**, in gran parte ingiustificabili perché relativi a servizi interattivi di intrattenimento o per adulti. Per quanto il fenomeno sia legato ai meccanismi di attivazione di questi servizi che spesso sfuggono al controllo dell’utente, il mancato controllo delle fatture ha permesso uno spreco che altrimenti sarebbe stato bloccato sin dalla prima fattura emessa.
+
+Per quanto riguarda l’uso dei fondi europei, la Commissione non ha avuto il tempo sufficiente ad approfondire il tema e si è limitata a chiarire, anche a seguito di notizie di stampa, la gestione degli **Accordi di Programma Quadro** da parte di AgID. Dalle audizioni e dall’analisi della documentazione emerge che la ragione dei residui, che al 2017 ammontano a 194 milioni, è soprattutto burocratico.
+Le azioni risultano completate nella maggior parte dei casi da parte delle regioni, ma manca la parte finale di rendicontazione finanziaria. La Commissione ha chiesto spiegazioni alla Regione Siciliana e alla Regione Campania che però non sono state in grado di fornirle, dando esempio di un altro dei problemi chiaramente emersi dall’inchiesta, ovvero la carenza di gestione manageriale dei progetti
+di digitalizzazione. In particolare per gli APQ, è mancata completamente la previsione di un meccanismo di valutazione dell’impatto dei progetti e i fondi sono stati erogati ancora una volta con la logica dell’adempimento e non con quella del risultato. Questo errore iniziale nella concezione del meccanismo degli Accordi di Programma Quadro non permette alla Commissione di verificare la
+qualità della spesa. 
+
+**Un consistente numero di audizioni sono state dedicate, inoltre, alla verifica dell’attuazione del CAD
 presso le amministrazioni, incontrando immediatamente difficoltà che hanno rallentato i lavori della
-Commissione in quanto, ad esempio, è stato molto complesso perfino individuare gli interlocutori.
-Nonostante, infatti, la normativa preveda un responsabile unico della transizione alla modalità
-operativa digitale, quasi nessuna amministrazione l’aveva individuato prima della richiesta da parte
-della Commissione. Nel filone d’indagine sullo stato d’attuazione del CAD si è verificato, quindi, un
-effetto inatteso: su impulso della Commissione, a seguito delle richieste puntuali di rispetto di
-determinati articoli del CAD, le PA si sono attivate mettendo in atto le azioni necessarie per
-rimediare al ritardo accumulato, in alcuni casi più che decennale. Il quadro emerso vede livelli molto
-diversi di attuazione del CAD e della digitalizzazione in generale nei vari ministeri, ma con una
-sostanziale ignoranza del Codice da parte di quasi tutti. D’altra parte, vista la mancata individuazione
-di una figura responsabile, non appare difficile comprendere come mai il ritardo accumulato sia
-tanto. Va notato che il Legislatore aveva previsto già nel 1993 la figura di un direttore generale come
-responsabile dei sistemi informativi automatizzati. Nel corso degli anni il CAD ha introdotto un
-centro di competenza con compiti di coordinamento. Successivamente, nel 2001, la figura è stata
-rafforzata, imponendo che fosse indicato un unico ufficio dirigenziale generale e infine, nel
-settembre 2016, richiedendo specifiche competenze tecnologiche, di informatica giuridica e
-manageriali e assegnandogli la facoltà di rispondere direttamente all’organo di vertice politico con
-riferimento ai compiti relativi alla transizione alla modalità digitale. Il Legislatore, quindi, ha inteso, in
-modo lungimirante, introdurre quello che viene generalmente indicato come Chief Digital Officer.
-Purtroppo la Commissione ha dovuto prendere atto che le amministrazioni hanno completamente
-disatteso lo spirito e la volontà del Legislatore e solo in seguito alle ripetute richieste da parte della
-Commissione si sono ottenuti i primi risultati, anche se, pur richiamando l’articolo 17 del CAD, molte
-delle nomine non sembrano rispettose della normativa, perché le strutture dirigenziali non sono di
-tipo generale, mostrando di concepire ancora il digitale come sussidiario e non strategico, oppure
-per carenza di competenze, deducibile dai curricula vitae degli incaricati. Per quanto riguarda il
-rispetto degli altri articoli, la Commissione evidenzia come ci sia una sostanziale maggiore attenzione
-per quelli relativi ai progetti prioritari del Piano Triennale dell’informatica della pubblica
-amministrazione, come SPID e PagoPA, oltre che al processo di dematerializzazione, che comunque
-non è quasi mai concluso e spesso ha subito una forte accelerazione solo negli ultimi due anni. Le
-prescrizioni meno applicate sono sicuramente quelle relative all’articolo 15, che intendeva innescare
-un circolo virtuoso di risparmio e investimento nei progetti di innovazione, ma che, evidentemente,
-quasi nessuno conosce e nessuno applica, come pure risultano sostanzialmente inapplicate le
-prescrizioni che collegano il CAD al decreto legislativo n. 150 del 2009 relativo ai piani delle
-performance e alla valutazione, mostrando che anche quella norma viene intesa come mero
-adempimento e non come strumento di gestione e controllo utile al processo di digitalizzazione della
-PA.
+Commissione in quanto, ad esempio, è stato molto complesso perfino individuare gli interlocutori.**
+
+Nonostante, infatti, la normativa preveda un responsabile unico della transizione alla modalità operativa digitale, **quasi nessuna amministrazione l’aveva individuato prima della richiesta da parte della Commissione.** 
+
+.. note::
+
+   Nel filone d’indagine sullo stato d’attuazione del CAD si è verificato, quindi, un effetto inatteso: su impulso della Commissione, a 
+   seguito delle richieste puntuali di rispetto di determinati articoli del CAD, le PA si sono attivate mettendo in atto le azioni   
+   necessarie per rimediare al ritardo accumulato, in alcuni casi più che decennale. 
+   
+Il quadro emerso vede livelli molto diversi di attuazione del CAD e della digitalizzazione in generale nei vari ministeri, ma con una sostanziale ignoranza del Codice da parte di quasi tutti. D’altra parte, vista la mancata individuazione di una figura responsabile, non appare difficile comprendere come mai il ritardo accumulato sia tanto. Va notato che il Legislatore aveva previsto **già nel 1993** la figura di un direttore generale come responsabile dei sistemi informativi automatizzati. Nel corso degli anni il CAD ha introdotto un
+centro di competenza con compiti di coordinamento. Successivamente, nel 2001, la figura è stata rafforzata, imponendo che fosse indicato un unico ufficio dirigenziale generale e infine, nel settembre 2016, richiedendo specifiche competenze tecnologiche, di informatica giuridica e manageriali e assegnandogli la facoltà di rispondere direttamente all’organo di vertice politico con riferimento ai compiti relativi alla transizione alla modalità digitale. Il Legislatore, quindi, ha inteso, in modo lungimirante, introdurre quello che viene generalmente indicato come *Chief Digital Officer*.
+
+Purtroppo la Commissione ha dovuto prendere atto che le amministrazioni hanno completamente disatteso lo spirito e la volontà del Legislatore e solo in seguito alle ripetute richieste da parte della Commissione si sono ottenuti i primi risultati, anche se, pur richiamando l’articolo 17 del CAD, molte delle nomine non sembrano rispettose della normativa, perché le strutture dirigenziali non sono di tipo generale, mostrando di concepire ancora il digitale come sussidiario e non strategico, oppure per carenza di competenze, deducibile dai curricula vitae degli incaricati. Per quanto riguarda il rispetto degli altri articoli, la Commissione evidenzia come ci sia una sostanziale maggiore attenzione per quelli relativi ai progetti prioritari del Piano Triennale dell’informatica della pubblica
+amministrazione, come SPID e PagoPA, oltre che al processo di dematerializzazione, che comunque non è quasi mai concluso e spesso ha subito una forte accelerazione solo negli ultimi due anni. Le prescrizioni meno applicate sono sicuramente quelle relative all’articolo 15, che intendeva innescare un circolo virtuoso di risparmio e investimento nei progetti di innovazione, ma che, evidentemente,
+quasi nessuno conosce e nessuno applica, come pure risultano sostanzialmente inapplicate le prescrizioni che collegano il CAD al decreto legislativo n. 150 del 2009 relativo ai piani delle performance e alla valutazione, mostrando che anche quella norma viene intesa come mero adempimento e non come strumento di gestione e controllo utile al processo di digitalizzazione della PA.
 
 6.2 Riassunto delle criticità emerse
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
