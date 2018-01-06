@@ -237,17 +237,20 @@ L’aspetto più evidente emerso durante i dodici mesi di inchiesta della Commis
 la scarsa conoscenza e applicazione della normativa relativa al digitale, con particolare riferimento
 al D.Lgs. n. 82/2005 (CAD), che mina i principi di legalità, buon andamento e responsabilità in quanto
 vengono costantemente violati i diritti di cittadinanza digitale senza apparente contestazione alcuna.
-Le pubbliche amministrazioni, nella grande maggioranza dei casi, approcciano il tema del digitale in
-modo episodico e non organico. Sicuramente non strategico e non prioritario. La trasformazione
-digitale è ben lontana dall’essere realizzata, nonostante sia evidente un’accelerazione durante gli
+**Le pubbliche amministrazioni, nella grande maggioranza dei casi, approcciano il tema del digitale in
+modo episodico e non organico. Sicuramente non strategico e non prioritario.** 
+
+La trasformazione digitale è ben lontana dall’essere realizzata, nonostante sia evidente un’accelerazione durante gli
 anni di questa Legislatura, ma la consapevolezza della centralità e pervasività del digitale e,
 soprattutto, della necessità di modificare profondamente organizzazione e processi, come peraltro
 previsto dalla legge da decine di anni, non è assolutamente presente. Le figure apicali responsabili
 della trasformazione digitale vengono nominate solo dopo insistenti richieste da parte della
 Commissione, i processi di digitalizzazione sono quasi sempre “iniziati” e mai “conclusi”, i diritti
 digitali dei cittadini e delle imprese sono rispettati di rado e solo per alcuni servizi, mancano
-pianificazione e stanziamenti specifici per completare lo switch off (il passaggio completo alla
-modalità digitale). Esiste una chiara e diffusa conoscenza dei progetti strategici portati avanti dal
+pianificazione e stanziamenti specifici per completare lo *switch off* (il passaggio completo alla
+modalità digitale).
+
+Esiste una chiara e diffusa conoscenza dei progetti strategici portati avanti dal
 Governo, ma anche l’adesione alle infrastrutture immateriali previste dal piano triennale, come SPID
 (Sistema Pubblico d’Identità Digitale) o PagoPA (la piattaforma dei pagamenti elettronici per la PA)
 sembra essere il più delle volte un atto compiuto con la logica dell’adempimento simbolico piuttosto
@@ -266,19 +269,20 @@ della transizione alla modalità operativa digitale rende difficile affermare ch
 dell’articolo 17 del CAD sia rispettato, e cioè che “il responsabile dell’ufficio (...) è dotato di adeguate
 competenze tecnologiche, di informatica giuridica e manageriali”, in alcuni casi per stessa
 ammissione dei responsabili durante le audizioni.
-Dai lavori della Commissione non si può desumere che la spesa ICT sia eccessiva, ma sicuramente
-emerge una scarsa capacità di controllo della qualità della spesa, soprattutto per quanto riguarda i
+
+Dai lavori della Commissione non si può desumere che la spesa ICT sia eccessiva, **ma sicuramente
+emerge una scarsa capacità di controllo della qualità della spesa,** soprattutto per quanto riguarda i
 sistemi informativi e l’impatto che dovrebbero produrre, sia in termini di risparmi, sia in termini di
 miglioramento della qualità dei servizi, che non viene quasi mai misurato. La mancanza di adeguate
 competenze interne impedisce alla PA di contrattare adeguatamente con i fornitori, di progettare
 correttamente le soluzioni necessarie, di scrivere bandi di gara che selezionino il prodotto o il
 servizio più adeguato e aperto a nuove implementazioni e, infine, di controllare efficacemente lo
 sviluppo e la realizzazione delle soluzioni informatiche. Si portano avanti i progetti, spesso con ritardi
-inaccettabili, ma anche quando sono conclusi sembra che non abbiano portato nessun
-miglioramento sostanziale e si passa quindi al progetto successivo, in un circolo vizioso. La mancanza
-di competenze adeguate, soprattutto nei livelli apicali, e una concezione desueta del digitale, visto
+inaccettabili, ma anche quando sono conclusi sembra che non abbiano portato nessun miglioramento sostanziale e si passa quindi al progetto successivo, in un circolo vizioso. 
+
+**La mancanza di competenze adeguate**, soprattutto nei livelli apicali, e una concezione desueta del digitale, visto
 come ancillare, di servizio e non come strategico, porta al rischio sistematico di impiego inefficiente
-di denaro pubblico, in alcuni casi vero e proprio spreco. Lo scarsissimo utilizzo dei servizi on line da
+di denaro pubblico, in alcuni casi vero e proprio spreco. Lo scarsissimo utilizzo dei servizi *on line* da
 parte dei cittadini e l’ancor più scarso gradimento, i frequenti disservizi e una diffusa percezione di
 una digitalizzazione che spesso non c’è o non funziona, sono tutti sintomi di una spesa non efficiente
 e la Commissione ha constatato che molto raramente la PA committente si pone il problema di
@@ -289,27 +293,30 @@ digitalizzazione di processo sarebbe inopportuno non investire in questo senso, 
 consiste nell’immettere una massiccia dose di competenze nella PA in modo da agevolare il cambio
 culturale necessario ad una trasformazione evitando che la spesa pubblica sia solo acquisto di
 tecnologia.
+
 Con riguardo ai filoni d’indagine specifici portati avanti dalla Commissione, il progetto ANPR ha
 sofferto di problemi di scarse competenze tecnologiche lato Ministero dell’Interno e manageriali lato
-sia Ministero sia Sogei. Ventitré milioni di euro stanziati non sono stati sufficienti a portare a
+sia Ministero sia Sogei. **Ventitré milioni di euro stanziati non sono stati sufficienti a portare a
 compimento il progetto, per ritardi anche nella definizione dei decreti attuativi, errori nella
 perimetrazione dettata dalla legge inizialmente troppo limitata all’anagrafe e non estesa allo stato
-civile, scarso coinvolgimento degli stakeholder nella fase di progetto e realizzazione. Una concezione
-top-down e coercitiva della digitalizzazione che ha sottovalutato la complessità del dominio
+civile, scarso coinvolgimento degli stakeholder nella fase di progetto e realizzazione.** Una concezione
+*top-down* e coercitiva della digitalizzazione che ha sottovalutato la complessità del dominio
 portando a ritardi che hanno sicuramente comportato sprechi in quanto parte della cifra stanziata ha
 dovuto essere utilizzata per continuare a mantenere in esercizio per un tempo maggiore di quello
-preventivato il vecchio sistema. Fortunatamente il Team digitale del Commissario straordinario del
+preventivato il vecchio sistema. Fortunatamente il Team Digitale del Commissario straordinario del
 Governo è subentrato nella gestione del progetto apportando le necessarie competenze
 manageriali.
-Rispetto al SIAN, le criticità maggiori emerse riguardano l’eccessivo sbilanciamento delle
+
+**Rispetto al SIAN, le criticità maggiori emerse riguardano l’eccessivo sbilanciamento delle
 competenze tecnologiche presenti nei fornitori e quasi totalmente assenti nella parte pubblica con la
 conseguente sostanziale impossibilità di controllo di qualità e di adeguato dimensionamento della
-spesa. La scelta del Legislatore di spostare gradualmente le competenze in una società esterna al
+spesa.** La scelta del Legislatore di spostare gradualmente le competenze in una società esterna al
 Ministero e Agea, a capitale misto pubblico privato, con una pianta organica che vede molti ex
 dipendenti o dipendenti in distacco da parte di aziende fornitrici, la presenza di un solo informatico
 in Agea, hanno portato ad un sistema inefficace in cui la qualità del servizio non è sufficiente, come
 ampiamente rilevato dalle lamentele delle Regioni e dall’analisi delle comunicazioni tra Ministero,
 Agea, Commissione Europea e SIN S.p.a.
+
 La Commissione vede favorevolmente il cambio di modello deciso dall’attuale Ministro, con una gara
 di evidenza pubblica per la gestione, manutenzione ed evoluzione del SIAN con un soggetto diverso
 per il controllo, ma mette in evidenza il rischio del passaggio di consegne dal momento che durante
@@ -317,12 +324,14 @@ l’inchiesta è emerso che il software in esercizio è non adeguatamente docume
 desumibile anche dalle relazioni sul SIAN acquisite dalla Commissione, è che lo sviluppo del sistema
 sia stato disorganico e stratificato nel tempo, con continui aggiustamenti in emergenza, dovuti
 all’imperativo di non sforare i limiti imposti dalla CE per l’erogazione dei contributi.
-Il filone d’indagine sulla Banca Dati Contratti Pubblici non ha dato risultati soddisfacenti. Le analisi
+
+**Il filone d’indagine sulla Banca Dati Contratti Pubblici non ha dato risultati soddisfacenti.** Le analisi
 delle tipologie di gara, della distribuzione dei fornitori, dei tempi medi di aggiudicazione, degli
 scostamenti tra bandito e aggiudicato, del numero di partecipanti, che potrebbero essere ottimi
 strumenti di controllo tesi a verificare l’esistenza di schemi corruttivi, non possono essere utilizzati.
+
 Gli errori presenti nella banca dati sono innumerevoli e dall’indagine della Commissione emerge che
-l’intero processo di acquisizione dei dati è estremamente inefficiente e inefficace. I dati vengono
+l’intero processo di acquisizione dei dati è estremamente inefficiente. I dati vengono
 immessi più volte, in tempi diversi, senza un vero controllo in fase di inserimento, con il personale di
 ANAC impiegato nel faticoso, quanto poco utile, compito di controllare a posteriori i dati e chiedere
 le correzioni o integrazioni necessarie, rendendo tutto il processo uno spreco di tempo, e quindi di
@@ -332,28 +341,27 @@ denaro pubblico, oltre che di opportunità nella lotta alla corruzione.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nonostante un anno di lavori intensi, con più di 60 audizioni e circa un terabyte di documentazione
 raccolta, la Commissione ritiene di non aver concluso il compito, data la vastità degli ambiti di
-digitalizzazione della PA. Si possono comunque trarre delle indicazioni utili a rendere più efficiente
-ed efficace il processo di digitalizzazione della Pubblica Amministrazione.
-Per prima cosa, è opportuno sottolineare come risulti urgente e non più procrastinabile un
-adeguamento delle competenze del personale (non solo) dirigenziale della PA, sia attraverso un
-massiccio investimento in formazione, sia attraverso una ineludibile immissione di nuovo personale,
-soprattutto nei livelli apicali. Il tentativo di istituire la figura di Chief Digital Officer “a costo zero” è
-chiaramente fallito. È di tutta evidenza che le figure necessarie non sono presenti all’interno della
-PA, nonostante, come detto, la normativa prevedesse figure analoghe sin dal 1993 e quindi non vi è
-alcuna giustificazione per una mancata politica di assunzione in quasi 25 anni. Il costo, però, di un
-protrarsi della mancanza di giuste competenze nei livelli apicali, con la conseguente
-esternalizzazione del know-how e l’impossibilità di una reale interlocuzione tra pari con i fornitori, è
-un costo di gran lunga superiore a quello necessario ad una deroga del blocco delle assunzioni per
-figure con adeguate competenze tecnologiche, manageriali e di informatica giuridica. È inutile
-ricordare che i costi della mancata transizione alla modalità operativa digitale sono stimabili in
-miliardi di euro e non è pensabile continuare a sostenerli a causa di una visione miope che pretende
-di operare una tale trasformazione senza avere la risorsa più importante in questo processo: il
-capitale umano.
-Una seconda indicazione riguarda il rafforzamento dell’Agenzia per l’Italia Digitale, sia dal punto di
-vista finanziario, sia da quello della dotazione organica, in quanto risulta evidente non riesca a
-svolgere tutte le funzioni che il CAD le assegna, con particolare riferimento all’articolo 14-bis, comma
-2, lettera a) rispetto alla “vigilanza e controllo sul rispetto delle norme di cui al presente Codice”. La
-Commissione ritiene anche opportuno che i pareri rilasciati per gli schemi di contratti e accordi
+digitalizzazione della PA. 
+
+Si possono comunque trarre delle indicazioni utili a rendere più efficiente ed efficace il processo di digitalizzazione della Pubblica Amministrazione.
+
+.. important::
+   Per prima cosa, è opportuno sottolineare come risulti urgente e non più procrastinabile un
+   adeguamento delle competenze del personale (non solo) dirigenziale della PA, sia attraverso un
+   massiccio investimento in formazione, sia attraverso una ineludibile immissione di nuovo personale,
+   soprattutto nei livelli apicali. 
+   
+Il tentativo di istituire la figura di *Chief Digital Officer* “a costo zero” è chiaramente fallito. È di tutta evidenza che le figure necessarie non sono presenti all’interno della PA, nonostante, come detto, la normativa prevedesse figure analoghe sin dal 1993 e quindi non vi è alcuna giustificazione per una mancata politica di assunzione in quasi 25 anni. Il costo, però, di un protrarsi della mancanza di giuste competenze nei livelli apicali, con la conseguente esternalizzazione del *know-how* e l’impossibilità di una reale interlocuzione tra pari con i fornitori, è un costo di gran lunga superiore a quello necessario ad una deroga del blocco delle assunzioni per
+figure con adeguate competenze tecnologiche, manageriali e di informatica giuridica. È inutile ricordare che i costi della mancata transizione alla modalità operativa digitale sono stimabili in miliardi di euro e non è pensabile continuare a sostenerli a causa di una visione miope che pretende di operare una tale trasformazione senza avere la risorsa più importante in questo processo: il
+capitale umano. 
+
+.. important::
+   Una seconda indicazione riguarda il rafforzamento dell’Agenzia per l’Italia Digitale, sia dal punto di
+   vista finanziario, sia da quello della dotazione organica, in quanto risulta evidente non riesca a
+   svolgere tutte le funzioni che il CAD le assegna, con particolare riferimento all’articolo 14-bis, comma
+   2, lettera a) rispetto alla “vigilanza e controllo sul rispetto delle norme di cui al presente Codice”.
+
+La Commissione ritiene anche opportuno che i pareri rilasciati per gli schemi di contratti e accordi
 quadro e per le procedure di gara di cui alle lettere f) e g) del medesimo articolo 14-bis, siano
 trasformati in pareri obbligatori e vincolanti al fine di aumentare il controllo sulla spesa. Infine,
 sempre per rafforzare l’attività di controllo e monitoraggio della trasformazione digitale della PA, la
@@ -361,44 +369,54 @@ Commissione suggerisce di rafforzare l’applicazione del D.Lgs. n. 150/2009 dan
 particolare all’articolo 60 del D.Lgs. n. 179/2016, costruendo una banca dati di obiettivi e indicatori
 delle performance in modo da supplire alla mancanza di controllo sulla qualità e l’impatto dei
 progetti di digitalizzazione.
-Per quanto riguarda il procurement dei sistemi informativi, la Commissione ritiene che sarebbe di
-utilità aggiornare le linee guida, imponendo una disciplina dei bandi che preveda studi di fattibilità e
-progettazione dei sistemi informativi prima della messa a bando della realizzazione, in modo da
-specificare meglio gli obiettivi di digitalizzazione e gli indicatori di risultato del progetto. Si deve
-uscire dalla logica del massimo ribasso sul costo dei function point e passare ad una logica di
+
+.. important::
+   Per quanto riguarda il *procurement* dei sistemi informativi, la Commissione ritiene che sarebbe di
+   utilità aggiornare le linee guida, imponendo una disciplina dei bandi che preveda studi di fattibilità e
+   progettazione dei sistemi informativi prima della messa a bando della realizzazione, in modo da
+   specificare meglio gli obiettivi di digitalizzazione e gli indicatori di risultato del progetto. 
+   
+Si deve uscire dalla logica del massimo ribasso sul costo dei *function point* e passare ad una logica di
 prodotto, con opportune metriche di qualità. La Commissione esprime anche perplessità sulla reale
 capacità da parte di Consip di stimare correttamente la consistenza delle basi applicative esistenti in
 termini di punti funzione, perché, non essendo presenti nelle PPAA le competenze necessarie,
 spesso il dimensionamento viene fatto direttamente dal fornitore senza un effettivo controllo da
 parte pubblica. La mancanza di controllo sull’effettiva consistenza rischia di portare a un
-sovradimensionamento dii bandi di manutenzione e sviluppo dei sistemi esistenti.
+sovradimensionamento dei bandi di manutenzione e dello sviluppo dei sistemi esistenti.
+
 Inoltre, le novità introdotte nel nuovo codice degli appalti agli articoli 64 (Dialogo competitivo) e 65
 (Partenariato per l’innovazione) vanno maggiormente sfruttate e va anche aumentato il controllo
 sull’applicazione dell’articolo 125 comma 1, lettera c), punti 2 e 3, perché le procedure negoziate
 senza previa indizione di gara per motivi tecnici o di tutela di diritti esclusivi possono nascondere
-meccanismi di lock-in ingiustificati.
+meccanismi di *lock-in* ingiustificati.
+
 Infine, la Commissione esorta il Governo e il Parlamento a continuare le azioni intraprese negli ultimi
 anni, rafforzando e stabilizzando la governance della trasformazione digitale, e ad aumentare la
-capacità del Legislatore di eseguire un costante assessment dell’impatto tecnologico sulla normativa,
+capacità del Legislatore di eseguire un costante *assessment* dell’impatto tecnologico sulla normativa,
 valutando l’opportunità di aggiornare la struttura delle Commissioni permanenti, prevedendone una
 dedicata ai temi del digitale.
-La Commissione suggerisce anche di considerare più attentamente le buone pratiche che pur sono
-presenti nella PA e che sono emerse nel corso delle audizioni, come quelle della Provincia di Trento,
-dell’AVEPA, dell’INAIL, del Team Digitale e dell’Agenzia delle Dogane, in cui la presenza di
-competenze adeguate ed un approccio manageriale con una gestione dei progetti formalizzata e
-basata su indicatori di risultato dimostrano che la corretta digitalizzazione della PA è possibile e i
-benefici in termini di efficacia ed efficienza dell’azione amministrativa sono notevoli. Vale la pena
-concludere, citando un estratto dell’audizione dell’11 aprile 2017 del dottor Peleggi e della
+
+.. note::
+
+   La Commissione suggerisce anche di considerare più attentamente le buone pratiche che pur sono
+   presenti nella PA e che sono emerse nel corso delle audizioni, come quelle della Provincia di Trento,
+   dell’AVEPA, dell’INAIL, del Team Digitale e dell’Agenzia delle Dogane, in cui la presenza di
+   competenze adeguate ed un approccio manageriale con una gestione dei progetti formalizzata e
+   basata su indicatori di risultato dimostrano che la corretta digitalizzazione della PA è possibile e i
+   benefici in termini di efficacia ed efficienza dell’azione amministrativa sono notevoli. 
+
+Vale la pena concludere, citando un estratto dell’audizione dell’11 aprile 2017 del dottor Peleggi e della
 dottoressa Alvaro, che mette in luce l’essenza del significato della trasformazione digitale della PA:
-“ALVARO: (...) Ho portato (...) le linee guida per la gestione dei progetti. È su questa base, cioè
-sull’aver proceduralizzato ogni fase (...) che individuiamo il responsabile del progetto, come si
-gestiscono le criticità con un PMO (Project Management Office), come si sale di livello. Abbiamo la
-completa tracciabilità di chi fa cosa per il progetto e, soprattutto, un controllo della situazione, di
-come sta andando il progetto, se è necessaria una revisione degli obiettivi, dei risultati.
-PRESIDENTE. Questo per quanto riguarda i progetti ICT.
-ALVARO. Certo.
-PRESIDENTE. E per altri progetti?
-ALVARO. Fondamentalmente, sono tutti a contenuto ICT. Abbiamo strutturato questo per i progetti a
-contenuto ICT, quindi non c’è quasi nessun contenuto non ICT nel nostro core business.
-PRESIDENTE. Qualunque progetto dell’Agenzia delle dogane e dei monopoli ha a che fare con l’ICT?
-GIUSEPPE PELEGGI, direttore dell’Agenzia delle dogane e dei monopoli. Sì, parte da lì.”
+
+  - *“ALVARO: (...) Ho portato (...) le linee guida per la gestione dei progetti. È su questa base, cioè
+    sull’aver proceduralizzato ogni fase (...) che individuiamo il responsabile del progetto, come si
+    gestiscono le criticità con un PMO (Project Management Office), come si sale di livello. Abbiamo la
+    completa tracciabilità di chi fa cosa per il progetto e, soprattutto, un controllo della situazione, di
+    come sta andando il progetto, se è necessaria una revisione degli obiettivi, dei risultati.
+  - PRESIDENTE. Questo per quanto riguarda i progetti ICT.
+  - ALVARO. Certo.
+  - PRESIDENTE. E per altri progetti?
+  - ALVARO. Fondamentalmente, sono tutti a contenuto ICT. Abbiamo strutturato questo per i progetti a
+    contenuto ICT, quindi non c’è quasi nessun contenuto non ICT nel nostro core business.
+  - PRESIDENTE. Qualunque progetto dell’Agenzia delle dogane e dei monopoli ha a che fare con l’ICT?
+  - GIUSEPPE PELEGGI, direttore dell’Agenzia delle dogane e dei monopoli. Sì, parte da lì.”*
