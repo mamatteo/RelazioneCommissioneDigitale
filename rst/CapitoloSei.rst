@@ -29,11 +29,11 @@ corso del suo anno di intensa attività. A causa del limitato tempo a disposizio
 all’ampiezza del campo d’indagine dall’altra, il lavoro della Commissione si è strutturato in due fasi:
 
   - le prime audizioni sono state dedicate a raccogliere informazioni di contesto e relative alla storia
-dell’ICT della pubblica amministrazione, vista dalla prospettiva dell’Agenzia per l’Italia Digitale e i
-suoi predecessori. 
+    dell’ICT della pubblica amministrazione, vista dalla prospettiva dell’Agenzia per l’Italia Digitale e i
+    suoi predecessori. 
   - La seconda fase è stata invece dedicata all’approfondimento di singoli filoni di
-indagine, alla raccolta di documentazione e, per ultimo, alla somministrazione del questionario
-sull’attuazione del CAD a 23 tra i maggiori comuni italiani.
+    indagine, alla raccolta di documentazione e, per ultimo, alla somministrazione del questionario
+    sull’attuazione del CAD a 23 tra i maggiori comuni italiani.
 
 L’audizione con la delegazione di Consip del 24 novembre 2016 ha permesso alla Commissione di
 avere un quadro sulla spesa ICT, completato successivamente dall’audizione del 7 febbraio 2017 con
@@ -66,10 +66,8 @@ riscontrato nei successivi filoni d’inchiesta.**
 La ricostruzione della storia della governance nazionale della pubblica amministrazione digitale,
 dall’Autorità per l’Informatica della Pubblica Amministrazione ad oggi, ha messo invece in evidenza
 almeno due aspetti: 
-  - l’importanza delle leve in mano ad AgID, prima fra tutte quella dei pareri relativi
-alle gare ICT, 
-  - e l’importanza di una governance chiara, stabile ed efficace per l’evoluzione digitale
-della PA. 
+  - l’importanza delle leve in mano ad AgID, prima fra tutte quella dei pareri relativi alle gare ICT, 
+  - e l’importanza di una governance chiara, stabile ed efficace per l’evoluzione digitale della PA. 
 
 Le continue trasformazioni di AIPA, CNIPA, DigitPA fino ad AgID, con i continui cambi al
 vertice non hanno aiutato la governance del digitale. AgID necessita di un deciso rafforzamento, sia
@@ -105,8 +103,8 @@ completamento, nonostante la sua importanza, a parole, sia riconosciuta da tutti
 avrebbe nella semplificazione. Impatto che sarebbe immediatamente percepibile da ciascuna
 amministrazione come da ciascun cittadino. Le criticità riscontrate rispetto ad ANPR possono essere
 riassunte in quanto segue: 
-  - scarsa competenza da parte della committenza pubblica che si trova a
-non avere gli strumenti necessari per interloquire alla pari con il fornitore; 
+  - scarsa competenza da parte della committenza pubblica che si trova a non avere gli strumenti necessari per interloquire alla pari con     
+    il fornitore; 
   - scarsa analisi iniziale dell’esistente e scarso coinvolgimento di tutti i portatori di interesse nella fase di progettazione;
   - scarsa gestione manageriale del progetto con un’errata stima dei tempi e indicatori di risultato non adeguati;
   - allungamento dei tempi dovuti anche alla necessità di diversi adeguamenti normativi.
@@ -200,8 +198,13 @@ Purtroppo l’analisi dei dati della Banca Dati dei Contratti Pubblici, come det
 
 .. note::
 
-   Per ammissione dei tecnici ANAC, migliaia di record sono stati scartati perché contenenti dati palesemente errati, come date di aggiudicazione antecedenti a quelle di pubblicazione del bando o cifre di aggiudicazione differenti di svariati ordini di grandezza, sia in eccesso sia in difetto, rispetto alla base d’asta. Allo stato attuale non è possibile avere un grado di fiducia sufficiente sul contenuto della BDCP e questo mostra un approccio alla trasparenza puramente burocratico. I dati vengono trasmessi e raccolti come puro adempimento senza porre particolare attenzione alla loro esattezza, vanificando completamente l’obiettivo della BDCP. Se il
-processo di raccolta dei dati fosse validato e semplificato, evitando di richiedere alle stazioni appaltanti di inserire più volte dati già comunicati o già in possesso della PA, in ossequio al principio *once-only*, si potrebbe potenziare fortemente l’azione di contrasto alla corruzione utilizzando appieno le potenzialità dell’analisi e visualizzazione dei dati. 
+   Per ammissione dei tecnici ANAC, migliaia di record sono stati scartati perché contenenti dati palesemente errati, come date di 
+   aggiudicazione antecedenti a quelle di pubblicazione del bando o cifre di aggiudicazione differenti di svariati ordini di grandezza, 
+   sia in eccesso sia in difetto, rispetto alla base d’asta. Allo stato attuale non è possibile avere un grado di fiducia sufficiente sul 
+   contenuto della BDCP e questo mostra un approccio alla trasparenza puramente burocratico. I dati vengono trasmessi e raccolti come puro 
+   adempimento senza porre particolare attenzione alla loro esattezza, vanificando completamente l’obiettivo della BDCP. 
+   
+Se il processo di raccolta dei dati fosse validato e semplificato, evitando di richiedere alle stazioni appaltanti di inserire più volte dati già comunicati o già in possesso della PA, in ossequio al principio *once-only*, si potrebbe potenziare fortemente l’azione di contrasto alla corruzione utilizzando appieno le potenzialità dell’analisi e visualizzazione dei dati. 
 
 Alcuni esempi di elaborazione sono mostrati nel `Capitolo 3 <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloTre.html>`_, ma vanno considerati esclusivamente come *proof-of-concept*.
 
@@ -412,11 +415,11 @@ dottoressa Alvaro, che mette in luce l’essenza del significato della trasforma
     sull’aver proceduralizzato ogni fase (...) che individuiamo il responsabile del progetto, come si
     gestiscono le criticità con un PMO (Project Management Office), come si sale di livello. Abbiamo la
     completa tracciabilità di chi fa cosa per il progetto e, soprattutto, un controllo della situazione, di
-    come sta andando il progetto, se è necessaria una revisione degli obiettivi, dei risultati.
-  - PRESIDENTE. Questo per quanto riguarda i progetti ICT.
-  - ALVARO. Certo.
-  - PRESIDENTE. E per altri progetti?
-  - ALVARO. Fondamentalmente, sono tutti a contenuto ICT. Abbiamo strutturato questo per i progetti a
-    contenuto ICT, quindi non c’è quasi nessun contenuto non ICT nel nostro core business.
-  - PRESIDENTE. Qualunque progetto dell’Agenzia delle dogane e dei monopoli ha a che fare con l’ICT?
-  - GIUSEPPE PELEGGI, direttore dell’Agenzia delle dogane e dei monopoli. Sì, parte da lì.”*
+    come sta andando il progetto, se è necessaria una revisione degli obiettivi, dei risultati.*
+  - *PRESIDENTE. Questo per quanto riguarda i progetti ICT.*
+  - *ALVARO. Certo.*
+  - *PRESIDENTE. E per altri progetti?*
+  - *ALVARO. Fondamentalmente, sono tutti a contenuto ICT. Abbiamo strutturato questo per i progetti a
+    contenuto ICT, quindi non c’è quasi nessun contenuto non ICT nel nostro core business.*
+  - *PRESIDENTE. Qualunque progetto dell’Agenzia delle dogane e dei monopoli ha a che fare con l’ICT?*
+  - *GIUSEPPE PELEGGI, direttore dell’Agenzia delle dogane e dei monopoli. Sì, parte da lì.”*
