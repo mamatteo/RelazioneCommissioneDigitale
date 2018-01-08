@@ -185,11 +185,11 @@ NOTE paragafo 2.3
 .. [80] 1970-2007: *trent'anni di domanda e offerta ICT nella pubblica amministrazione* Gregorio Cosentino, Maurizio Bruschi, Giuffrè Editore, 2007
 .. [81] Legge 15 marzo 1997, n.59, Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa
 .. [82] Legge 15 marzo 1997, n.127, Misure urgenti per lo snellimento dell'attività amministrativa e dei procedimenti di decisione e di controllo 
-.. [83] Dereto del Presidente della Repubblica 28 dicembre 2000, n.445, Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa (artt.50-70)
-.. [75] 
-.. [76]  
-.. [77]  
-.. [78]  
+.. [83] Decreto del Presidente della Repubblica 28 dicembre 2000, n.445, Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa (artt.50-70)
+.. [84] Decreto-legge 25 giugno 2008, nr.112, Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria, convertito, con modificazioni, dalla L. 6 agosto 208, n.133 (art.27) 
+.. [85] D.L. n.208/2008 (art.7-*bis*)
+.. [86] D.Lgs n.177/2009
+.. [87] Legge n.69/209 (art.32) 
 
 2.5 L’Agenda Digitale Italiana
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
