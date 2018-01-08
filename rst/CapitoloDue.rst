@@ -190,6 +190,14 @@ NOTE paragafo 2.3
 .. [85] D.L. n.208/2008 (art.7-*bis*)
 .. [86] D.Lgs n.177/2009
 .. [87] Legge n.69/209 (art.32) 
+.. [88] D.L. n.201/2011 (art.29-*bis*)
+.. [89] D.L. n.5/2012 (artt.6-*ter*, 47-*quinquies* e 47-*sexies*)
+.. [90] D.L. n.179/2012 (artt.2, 4, 5, 6, 9, 9-*bis* e 15)  
+.. [91] Decreto-legge 22 giugno 2012, n.83, Misure urgenti per la crescita del Paese, convertito con modificazioni dalla L.7 agosto 2012, n.134 (artt.19, 20, 21 e 22)
+.. [92] D.P.C.M. 22 febbraio 2013
+.. [93] D.P.C.M. 3 dicembre 2013 
+.. [94] D.P.C.M. 3 dicembre 2013 e D.P.C.M. 13 novembre 2014
+.. [95] D.L. 90/2014 (artt.24 e ss.) 
 
 2.5 L’Agenda Digitale Italiana
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
