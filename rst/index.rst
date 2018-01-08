@@ -21,5 +21,5 @@ RELAZIONE SULL'ATTIVITÀ SVOLTA
    CapitoloCinque.rst
    CapitoloSei.rst
    
-   LE AUDIZIONI
+LE AUDIZIONI
    Audizioni.rst
