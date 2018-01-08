@@ -235,6 +235,11 @@ istitutiva, è articolata in più parti:
    
    ------------
    
+  .. important::
+     Abbiamo raccolto in un elenco `tutte le audizioni svolte <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloSei.html>`_ (elenco aggiornato al mese di ottobre 2017), inserendo, per ciascuna          
+     audizione, il relativo pdf del resoconto stenografico.
+
+   ------------
    NOTE
    
    .. [1] ec.europa.eu/newsroom/document.cfm?doc_id=43021
