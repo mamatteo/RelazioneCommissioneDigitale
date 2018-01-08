@@ -198,6 +198,10 @@ NOTE paragafo 2.3
 .. [93] D.P.C.M. 3 dicembre 2013 
 .. [94] D.P.C.M. 3 dicembre 2013 e D.P.C.M. 13 novembre 2014
 .. [95] D.L. 90/2014 (artt.24 e ss.) 
+.. [96] D.Lgs. n.179/2016 (art.1)
+.. [97] *Ibidem* (art.3-*bis*)  
+.. [98] Regolamento europeo e-IDAS, normativamente identificato come n.910/2014 del Parlamento Europeo e del Consiglio del 23 luglio 2014 D.P.C.M. 3 dicembre 2013 e D.P.C.M. 13 novembre 2014
+.. [99] Electronic Identification Authentication and Signature (eTS electronic Trust Services)
 
 2.5 L’Agenda Digitale Italiana
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
