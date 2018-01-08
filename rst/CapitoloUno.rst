@@ -233,13 +233,14 @@ istitutiva, è articolata in più parti:
    richiamati nella relazione, oltre che dall’elenco delle 67 audizioni
    e dei 127 invitati ascoltati dalla commissione.
    
-   ------------
    
   .. important::
-     Abbiamo raccolto in un elenco `tutte le audizioni svolte <http://relazione-commissione-digitale-docs.readthedocs.io/it/latest/CapitoloSei.html>`_ (elenco aggiornato al mese di ottobre 2017), inserendo, per ciascuna          
+     Abbiamo raccolto in un elenco `tutte le audizioni svolte <http://relazione-commissione-digitale-
+     docs.readthedocs.io/it/latest/CapitoloSei.html>`_ (elenco aggiornato al mese di ottobre 2017), inserendo, per ciascuna          
      audizione, il relativo pdf del resoconto stenografico.
 
-   ------------
+   
+   
    NOTE
    
    .. [1] ec.europa.eu/newsroom/document.cfm?doc_id=43021
