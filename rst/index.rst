@@ -20,4 +20,6 @@ RELAZIONE SULL'ATTIVITÀ SVOLTA
    CapitoloQuattro.rst
    CapitoloCinque.rst
    CapitoloSei.rst
+   
+   LE AUDIZIONI
    Audizioni.rst
