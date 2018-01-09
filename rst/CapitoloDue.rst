@@ -11,16 +11,14 @@ Cap. 2 | La dimensione immateriale, il quadro conoscitivo normativo e l’agenda
    rivoluzione che trasformerà profondamente anche i rapporti tra la pubblica amministrazione e i cittadini, come ha già profondamente 
    cambiato il mercato e i comportamenti dei consumatori. Di conseguenza, appare necessario che le Istituzioni e la politica cerchino di 
    governare ed accompagnare l'evoluzione sociale, rendendo le trasformazioni meno traumatiche possibili e massimizzando al contempo il 
-   potenziale offerto dalle tecnologie.
-
-    Per dare un quadro giuridico di riferimento al lavoro della Commissione, il capitolo prosegue, quindi, con un'analisi del contesto     
-    normativo europeo sulla materia delle tecnologie dell'informazione e delle comunicazioni, con particolare attenzione agli obiettivi 
-    dell'Agenda Digitale di Europa 2020. Allo stesso modo è stato descritto il contesto normativo nazionale e gli obiettivi dell'Agenda 
-    Digitale Italiana e dell'Agenzia per l'Italia Digitale, di cui la Commissione ha ricostruito la genesi e le tappe salienti dei 
-    progetti di digitalizzazione della pubblica amministrazione. Il capitolo si conclude fotografando il posizionamento non positivo 
-    dell'Italia nella classifica digitale, stilata dalla relazione sui progressi del settore digitale in Europa, nel quale si prendono in 
-    esame alcune delle più significative statistiche del nostro Paese sulla penetrazione di Internet e sull'uso dei servizi ad esso 
-    connessi.
+   potenziale offerto dalle tecnologie. Per dare un quadro giuridico di riferimento al lavoro della Commissione, il capitolo prosegue, 
+   quindi, con un'analisi del contesto normativo europeo sulla materia delle tecnologie dell'informazione e delle comunicazioni, con 
+   particolare attenzione agli obiettivi dell'Agenda Digitale di Europa 2020. Allo stesso modo è stato descritto il contesto normativo 
+   nazionale e gli obiettivi dell'Agenda Digitale Italiana e dell'Agenzia per l'Italia Digitale, di cui la Commissione ha ricostruito la 
+   genesi e le tappe salienti dei progetti di digitalizzazione della pubblica amministrazione. Il capitolo si conclude fotografando il 
+   posizionamento non positivo dell'Italia nella classifica digitale, stilata dalla relazione sui progressi del settore digitale in 
+   Europa, nel quale si prendono in esame alcune delle più significative statistiche del nostro Paese sulla penetrazione di Internet e 
+   sull'uso dei servizi ad esso connessi.
 
 ------------
 
@@ -148,7 +146,9 @@ NOTE paragafo 2.2
 
 2.3 L'agenda digitale europea, gli obiettivi di Europa 2020
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Dando seguito alle strategie di Lisbona, nel maggio del 2010 la Commissione europea ha avviato l'Agenda Digitale per l'Europa (DAE), una delle sette iniziative faro della strategia Europa 2020, che fissa gli obiettivi per la crescita nell’Unione da raggiungere entro il 2020. L’Agenda Digitale propone di sfruttare al meglio il potenziale delle tecnologie dell’informazione e della comunicazione (TIC) per favorire l’innovazione, la crescita economica e il progresso. Contiene 101 azioni, raggruppate intorno a sette aree prioritarie: 
+
  - promuovere un quadro giuridico e normativo nuovo e più stabile, tale da incentivare gli investimenti in un’infrastruttura aperta e competitiva per la banda larga ad alta velocità; 
  - realizzare nuove infrastrutture per i servizi pubblici digitali per collegare l'Europa;
  - avviare processi di istruzione e formazione, in grado di fornire le competenze digitali adeguate per la nuova occupazione generata da questo settore; 
