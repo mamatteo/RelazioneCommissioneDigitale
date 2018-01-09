@@ -20,7 +20,7 @@ Cap. 2 | La dimensione immateriale, il quadro conoscitivo normativo e l’agenda
    Europa, nel quale si prendono in esame alcune delle più significative statistiche del nostro Paese sulla penetrazione di Internet e 
    sull'uso dei servizi ad esso connessi.
 
-------------
+
 
 2.1 La società post moderna, dalla dimensione materiale a quella immateriale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
