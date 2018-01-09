@@ -270,6 +270,16 @@ Nell’audizione della Commissione del 7 febbraio 2017, il Direttore generale di
 
 Dalla già citata audizione della Commissione è emerso come un capitolo a parte venga rappresentato da *open data* e *open government*. AgID svolge inoltre attività di supporto all'Internet governance e sovrintende il Sistema Pubblico di Connettività (SPC), come *framework* di interoperabilità, che ovviamente comprende anche le gare per la fornitura di servizi di connettività in collaborazione con Consip. Nella medesima seduta della Commissione, Antonio Samaritani ha poi spiegato come sia stato *“definito il modello strategico di evoluzione del sistema informativo della pubblica amministrazione che è stato approvato dal comitato di indirizzo di AgID e che rappresenta il modello tecnico operativo unificante dei percorsi definiti da Crescita digitale”* [#]_. In sostanza *“se Crescita digitale stabilisce che dobbiamo fare il turismo digitale, l'agricoltura digitale, la scuola digitale e così via. Per ognuno di questi cantieri del digitale, possiamo immaginare dei percorsi tecnici comuni. Ciascun progetto, infatti, necessita di un'infrastruttura fisica, può necessitare di alcune infrastrutture immateriali da utilizzare (un accesso ai servizi, un sistema di pagamento e via discorrendo), e poi necessità di sviluppare delle attività proprie e specifiche del dominio di competenza in cui si trova”* [#]_. Il modello dell'ICT ha quindi proprio il compito di definire questi elementi, così da costruire spazi di condivisione, in grado di promuovere efficienza tecnologica e di conseguenza risparmio dei costi. A partire dal modello strategico dell’ICT, AgID elabora il piano triennale, che definisce *“degli obiettivi e la programmazione nazionale, finanziando le azioni per il raggiungimento degli obiettivi, in modo da creare un percorso organico, che parte da una strategia e definisce delle azioni abilitanti”* [#]_. È un modello molto complesso nel quale l’utilizzo e la distribuzione dei fondi e delle attività necessarie a raggiungere gli obiettivi dell’Agenda digitale italiana non rimane nelle responsabilità della sola AgID, ma viene condivisa in funzione dell’organizzazione dello Stato, da tutti i ministeri, gli enti locali e le pubbliche amministrazioni, ciascuna per la propria competenza.
 
+--------------
+NOTE paragafo 2.7
+   
+.. [106] Ex Commissario per l'Agenda Digitale dal giugno 2013 al febbraio 2014
+.. [107] Resoconto stenografico dell'audizione del 26 gennaio 2017, p.4
+.. [108] *Infra*, capitolo 4, paragrafo 4.2
+.. [109] Resoconto stenografico dell'audizione del 17 gennaio 2017 
+.. [110] *Infra*, capitolo 4, paragrafo 4.2
+--------------
+
 2.8 Il posizionamento dell’Italia nella classifica del digitale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 La relazione sui progressi del settore digitale in Europa (EDPR) misura i progressi realizzati dagli Stati membri in termini di digitalizzazione, raccogliendo sia i dati quantitativi estrapolati dall'indice di digitalizzazione dell'economia e della società (DESI - Digital Economy and Society Index), che le informazioni qualitative sulle politiche specifiche di ogni paese. Per farlo misura cinque parametri: 
