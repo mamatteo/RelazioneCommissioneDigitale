@@ -47,9 +47,9 @@ Conosciamo bene il mondo nella sua dimensione materiale e nei secoli ne abbiamo 
    
 NOTE paragafo 2.1.1
    
-.. [6] Costruire il domani, cit., p. 21.
-.. [7] Ibidem, p. 24
-.. [8] Ibidem, p. 25
+.. [#] Costruire il domani, cit., p. 21.
+.. [#] Ibidem, p. 24
+.. [#] Ibidem, p. 25
 
 ------------
 
@@ -61,15 +61,15 @@ Quando si parla di *“virtuale”* per intendere qualcosa che non sia materiale
    
 NOTE paragafo 2.1.2
    
-.. [9] Il nostro futuro nei mondi virtuali, Peter Ludlow, Edizioni 40K, 2010
-.. [10] La rivoluzione dell’informazione, Luciano Floridi, Codice, 2010; La quarta rivoluzione, cit.
-.. [11] Costruire il domani, cit., p. 37.
-.. [12] Ibidem, p. 39.
-.. [13] Ibidem, p. 42.
-.. [14] Ibidem, p. 43.
-.. [15] Cluetrain Manifesto, Fazi Editore, 2001, p. 27-40; Too Big to Know, David Weinberger, Basic Books 2011, p. xiii
-.. [16] Here Comes Everybody, Clay Shirky, The Penguin Press, 2008, p. 157
-.. [17] Managerialità e digitalizzazione nella P.A., Domenico Crocco, in La digitalizzazione della società moderna, Jovene editore, 2016, p. 33- 76; Pubblica Amministrazione digitale, William D. Eggers, Hoepli, 2017, p.4
+.. [#] Il nostro futuro nei mondi virtuali, Peter Ludlow, Edizioni 40K, 2010
+.. [#] La rivoluzione dell’informazione, Luciano Floridi, Codice, 2010; La quarta rivoluzione, cit.
+.. [#] Costruire il domani, cit., p. 37.
+.. [#] Ibidem, p. 39.
+.. [#] Ibidem, p. 42.
+.. [#] Ibidem, p. 43.
+.. [#] Cluetrain Manifesto, Fazi Editore, 2001, p. 27-40; Too Big to Know, David Weinberger, Basic Books 2011, p. xiii
+.. [#] Here Comes Everybody, Clay Shirky, The Penguin Press, 2008, p. 157
+.. [#] Managerialità e digitalizzazione nella P.A., Domenico Crocco, in La digitalizzazione della società moderna, Jovene editore, 2016, p. 33- 76; Pubblica Amministrazione digitale, William D. Eggers, Hoepli, 2017, p.4
 
 ------------
 
@@ -95,52 +95,52 @@ Oltre alle direttive, ai regolamenti e alle risoluzioni, la Commissione ha prodo
    
 NOTE paragafo 2.2
    
-.. [18] http://ec.europa.eu/digital-agenda/en/scoreboard
-.. [19] Trattato sul Funzionamento dell’Unione Europea (TFUE), 2008, art. 173
-.. [20] TFUE, 2008, artt. 206-207.
-.. [21] TFUE, 2008, artt. 101-109.
-.. [22] TFUE, 2008, artt. 28 e 30; artt. 34-35.
-.. [23] TFUE, 2008, artt. 45-66.
-.. [24] TFUE, 2008, artt. 179-190.
-.. [25] TFUE, 2008, artt. 170-172.
-.. [26] TFUE, 2008, artt. 165-166.
-.. [27] Direttiva 95/46/CE.
-.. [28] GU L 281 del 23.11.1995, p. 31.
-.. [29] GU L 77 del 27.3.1996, p. 20.
-.. [30] GU L 201 del 31.7.2002, p. 37.
-.. [31] GU L 376 del 27.12.2006, p. 36.
-.. [32] GU L 337 del 18.12.2009, p. 1.
-.. [33] GU L 95 del 15.4.2010, p. 1.
-.. [34] GU C 236 E del 12.8.2011, pag. 24.
-.. [35] GU C 236 E del 12.8.2011, pag. 33.
-.. [36] GU C 50 E del 21.2.2012, pag. 1.
-.. [37] Direttiva 2011/83/UE del Parlamento europeo e del Consiglio del 25 ottobre 2011.
-.. [38] Direttiva 93/13/CEE del Consiglio.
-.. [39] Direttiva 1999/44/CE del Parlamento europeo e del Consiglio.
-.. [40] GU L 304 del 22.11.2011, p. 64.
-.. [41] GU C 258 E del 7.9.2013, p. 64.
-.. [42] GU C 332 E del 15.11.2013, p. 22.
-.. [43] GU C 434 del 23.12.2015, p. 2. Testi approvati,P7_TA(2013)0327. 
-.. [44] Testi approvati, P7_TA(2013)0239.
-.. [45] Testi approvati, P7_TA(2013)0377.
-.. [46] Testi approvati, P7_TA(2013)0436.
-.. [47] Testi approvati, P7_TA(2013)0454. 
-.. [48] Testi approvati, P7_TA(2013)0535. 
-.. [49] Direttiva 2003/98/CE.
-.. [50] GU L 175 del 27.6.2013, p. 1.
-.. [51] GU L 165 del 18.6.2013, p. 1. 
-.. [52] GU L 257 del 28.8.2014, p. 73. 
-.. [53] 59 Direttiva 1999/93/CE.
-.. [54] GU L 86 del 21.3.2014, p. 14.
-.. [55] Testi approvati, P7_TA(2014)0032. 
-.. [56] Testi approvati, P7_TA(2014)0179. 
-.. [57] Testi approvati, P8_TA(2014)0071. 
-.. [58] Testi approvati, P8_TA(2015)0051. 
-.. [59] Testi approvati, P8_TA(2015)0273. 
-.. [60] (COM(2012)0721).
-.. [61] (COM(2012)0789).
-.. [62] (COM(2015)0192).
-.. [63] GU L 318 del 4.12.2015, p. 1.
+.. [#] http://ec.europa.eu/digital-agenda/en/scoreboard
+.. [#] Trattato sul Funzionamento dell’Unione Europea (TFUE), 2008, art. 173
+.. [#] TFUE, 2008, artt. 206-207.
+.. [#] TFUE, 2008, artt. 101-109.
+.. [#] TFUE, 2008, artt. 28 e 30; artt. 34-35.
+.. [#] TFUE, 2008, artt. 45-66.
+.. [#] TFUE, 2008, artt. 179-190.
+.. [#] TFUE, 2008, artt. 170-172.
+.. [#] TFUE, 2008, artt. 165-166.
+.. [#] Direttiva 95/46/CE.
+.. [#] GU L 281 del 23.11.1995, p. 31.
+.. [#] GU L 77 del 27.3.1996, p. 20.
+.. [#] GU L 201 del 31.7.2002, p. 37.
+.. [#] GU L 376 del 27.12.2006, p. 36.
+.. [#] GU L 337 del 18.12.2009, p. 1.
+.. [#] GU L 95 del 15.4.2010, p. 1.
+.. [#] GU C 236 E del 12.8.2011, pag. 24.
+.. [#] GU C 236 E del 12.8.2011, pag. 33.
+.. [#] GU C 50 E del 21.2.2012, pag. 1.
+.. [#] Direttiva 2011/83/UE del Parlamento europeo e del Consiglio del 25 ottobre 2011.
+.. [#] Direttiva 93/13/CEE del Consiglio.
+.. [#] Direttiva 1999/44/CE del Parlamento europeo e del Consiglio.
+.. [#] GU L 304 del 22.11.2011, p. 64.
+.. [#] GU C 258 E del 7.9.2013, p. 64.
+.. [#] GU C 332 E del 15.11.2013, p. 22.
+.. [#] GU C 434 del 23.12.2015, p. 2. Testi approvati,P7_TA(2013)0327. 
+.. [#] Testi approvati, P7_TA(2013)0239.
+.. [#] Testi approvati, P7_TA(2013)0377.
+.. [#] Testi approvati, P7_TA(2013)0436.
+.. [#] Testi approvati, P7_TA(2013)0454. 
+.. [#] Testi approvati, P7_TA(2013)0535. 
+.. [#] Direttiva 2003/98/CE.
+.. [#] GU L 175 del 27.6.2013, p. 1.
+.. [#] GU L 165 del 18.6.2013, p. 1. 
+.. [#] GU L 257 del 28.8.2014, p. 73. 
+.. [#] 59 Direttiva 1999/93/CE.
+.. [#] GU L 86 del 21.3.2014, p. 14.
+.. [#] Testi approvati, P7_TA(2014)0032. 
+.. [#] Testi approvati, P7_TA(2014)0179. 
+.. [#] Testi approvati, P8_TA(2014)0071. 
+.. [#] Testi approvati, P8_TA(2015)0051. 
+.. [#] Testi approvati, P8_TA(2015)0273. 
+.. [#] (COM(2012)0721).
+.. [#] (COM(2012)0789).
+.. [#] (COM(2015)0192).
+.. [#] GU L 318 del 4.12.2015, p. 1.
 
 ------------
 
@@ -166,15 +166,15 @@ Secondo le stime della Commissione Europea [#]_, la piena attuazione dell’Agen
    
 NOTE paragafo 2.3
    
-.. [70] http://www.europarl.europa.eu/atyourservice/it/displayFtu.html?ftuld=FTU_5.9.3.html 
-.. [71] Direttiva 2009/136/CE
-.. [72] Ibidem
-.. [73] Regolamento (UE) n.531/2012, GU L 172 deò 30.06.2012, p.10 
-.. [74] Regolamento (UE) n.733/2002
-.. [75] Regolamento (UE) n.460/2004
-.. [76] P7_TA(2013) 0103
-.. [77] Direttiva (UE) 2016/1148 del 6 luglio 2016, GU L 194 del 19.07.2016, p.1
-.. [78] https://ec.europa.eu/digital-single-market/digital-agenda-europe 
+.. [#] http://www.europarl.europa.eu/atyourservice/it/displayFtu.html?ftuld=FTU_5.9.3.html 
+.. [#] Direttiva 2009/136/CE
+.. [#] Ibidem
+.. [#] Regolamento (UE) n.531/2012, GU L 172 deò 30.06.2012, p.10 
+.. [#] Regolamento (UE) n.733/2002
+.. [#] Regolamento (UE) n.460/2004
+.. [#] P7_TA(2013) 0103
+.. [#] Direttiva (UE) 2016/1148 del 6 luglio 2016, GU L 194 del 19.07.2016, p.1
+.. [#] https://ec.europa.eu/digital-single-market/digital-agenda-europe 
 ------------
 
 2.4 Il contesto normativo nazionale
@@ -196,27 +196,27 @@ Sulla *Gazzetta Ufficiale* n. 214 del 13 settembre 2016 è stato pubblicato il D
    
 NOTE paragafo 2.4
    
-.. [79] Decreto legislativo 12 febbraio 1993, n.39, Norme in materia di distemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art.2, comma 1, lettera mm), della legge 23 ottobre 1992, n.421
-.. [80] 1970-2007: *trent'anni di domanda e offerta ICT nella pubblica amministrazione* Gregorio Cosentino, Maurizio Bruschi, Giuffrè Editore, 2007
-.. [81] Legge 15 marzo 1997, n.59, Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa
-.. [82] Legge 15 marzo 1997, n.127, Misure urgenti per lo snellimento dell'attività amministrativa e dei procedimenti di decisione e di controllo 
-.. [83] Decreto del Presidente della Repubblica 28 dicembre 2000, n.445, Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa (artt.50-70)
-.. [84] Decreto-legge 25 giugno 2008, nr.112, Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria, convertito, con modificazioni, dalla L. 6 agosto 208, n.133 (art.27) 
-.. [85] D.L. n.208/2008 (art.7-*bis*)
-.. [86] D.Lgs n.177/2009
-.. [87] Legge n.69/209 (art.32) 
-.. [88] D.L. n.201/2011 (art.29-*bis*)
-.. [89] D.L. n.5/2012 (artt.6-*ter*, 47-*quinquies* e 47-*sexies*)
-.. [90] D.L. n.179/2012 (artt.2, 4, 5, 6, 9, 9-*bis* e 15)  
-.. [91] Decreto-legge 22 giugno 2012, n.83, Misure urgenti per la crescita del Paese, convertito con modificazioni dalla L.7 agosto 2012, n.134 (artt.19, 20, 21 e 22)
-.. [92] D.P.C.M. 22 febbraio 2013
-.. [93] D.P.C.M. 3 dicembre 2013 
-.. [94] D.P.C.M. 3 dicembre 2013 e D.P.C.M. 13 novembre 2014
-.. [95] D.L. 90/2014 (artt.24 e ss.) 
-.. [96] D.Lgs. n.179/2016 (art.1)
-.. [97] *Ibidem* (art.3-*bis*)  
-.. [98] Regolamento europeo e-IDAS, normativamente identificato come n.910/2014 del Parlamento Europeo e del Consiglio del 23 luglio 2014 D.P.C.M. 3 dicembre 2013 e D.P.C.M. 13 novembre 2014
-.. [99] Electronic Identification Authentication and Signature (eTS electronic Trust Services)
+.. [#] Decreto legislativo 12 febbraio 1993, n.39, Norme in materia di distemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art.2, comma 1, lettera mm), della legge 23 ottobre 1992, n.421
+.. [#] 1970-2007: *trent'anni di domanda e offerta ICT nella pubblica amministrazione* Gregorio Cosentino, Maurizio Bruschi, Giuffrè Editore, 2007
+.. [#] Legge 15 marzo 1997, n.59, Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa
+.. [#] Legge 15 marzo 1997, n.127, Misure urgenti per lo snellimento dell'attività amministrativa e dei procedimenti di decisione e di controllo 
+.. [#] Decreto del Presidente della Repubblica 28 dicembre 2000, n.445, Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa (artt.50-70)
+.. [#] Decreto-legge 25 giugno 2008, nr.112, Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria, convertito, con modificazioni, dalla L. 6 agosto 208, n.133 (art.27) 
+.. [#] D.L. n.208/2008 (art.7-*bis*)
+.. [#] D.Lgs n.177/2009
+.. [#] Legge n.69/209 (art.32) 
+.. [#] D.L. n.201/2011 (art.29-*bis*)
+.. [#] D.L. n.5/2012 (artt.6-*ter*, 47-*quinquies* e 47-*sexies*)
+.. [#] D.L. n.179/2012 (artt.2, 4, 5, 6, 9, 9-*bis* e 15)  
+.. [#] Decreto-legge 22 giugno 2012, n.83, Misure urgenti per la crescita del Paese, convertito con modificazioni dalla L.7 agosto 2012, n.134 (artt.19, 20, 21 e 22)
+.. [#] D.P.C.M. 22 febbraio 2013
+.. [#] D.P.C.M. 3 dicembre 2013 
+.. [#] D.P.C.M. 3 dicembre 2013 e D.P.C.M. 13 novembre 2014
+.. [#] D.L. 90/2014 (artt.24 e ss.) 
+.. [#] D.Lgs. n.179/2016 (art.1)
+.. [#] *Ibidem* (art.3-*bis*)  
+.. [#] Regolamento europeo e-IDAS, normativamente identificato come n.910/2014 del Parlamento Europeo e del Consiglio del 23 luglio 2014 D.P.C.M. 3 dicembre 2013 e D.P.C.M. 13 novembre 2014
+.. [#] Electronic Identification Authentication and Signature (eTS electronic Trust Services)
 
 
 2.5 L’Agenda Digitale Italiana
@@ -230,11 +230,11 @@ Inoltre l’Agenda Digitale Italiana prevede di incentivare le pubbliche amminis
 ------------
    
 NOTE paragafo 2.5
-.. [100] Decreto Legge n.83/2012, convertito nella legge n.134/2012 
-.. [101] Rispettivamente convertiti con le leggi nn.134/2012 e 135/2012
-.. [102] Convertito con la  legge n.221/2012 
-.. [103] Legge n.98/2013 (artt. 13-17)
-.. [104] Statuto AgID, Decreto del Presidente del Consiglio dei Ministri dell'8 gennaio 2014
+.. [#] Decreto Legge n.83/2012, convertito nella legge n.134/2012 
+.. [#] Rispettivamente convertiti con le leggi nn.134/2012 e 135/2012
+.. [#] Convertito con la  legge n.221/2012 
+.. [#] Legge n.98/2013 (artt. 13-17)
+.. [#] Statuto AgID, Decreto del Presidente del Consiglio dei Ministri dell'8 gennaio 2014
 
 
 2.6 Gli obiettivi dell’Agenzia per l’Italia digitale (AgID)
@@ -258,7 +258,7 @@ L'Agenzia per l'Italia Digitale ha il compito di garantire la realizzazione degl
  ------------
    
 NOTE paragafo 2.6
-.. [105] http://www.agid..gov.it/agid/competenze-funzioni 
+.. [#] http://www.agid..gov.it/agid/competenze-funzioni 
 
 ------------
 
