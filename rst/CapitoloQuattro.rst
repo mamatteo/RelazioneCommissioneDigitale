@@ -2,10 +2,10 @@
 Cap 4 | Le criticità della digitalizzazione in Italia
 ======================================================
 
-.. admonition:: ABSTRACT
 
-   Il Capitolo presenta le criticità, gli ostacoli e le problematiche che le pubbliche amministrazioni devono affrontare nel processo di  
-   trasformazione digitale delle pubbliche amministrazioni che sono emersi nel corso dei filoni di inchiesta. La prima indagine è quella 
+   ABSTRACT | *Il Capitolo presenta le criticità, gli ostacoli e le problematiche che le pubbliche amministrazioni devono affrontare nel           
+   processo di trasformazione digitale delle pubbliche amministrazioni che sono emersi nel corso dei filoni di inchiesta. La prima      
+   indagine è quella 
    relativa allo stato di attuazione del Codice dell’Amministrazione Digitale (CAD), da cui emerge un inadeguato livello di conoscenza e 
    di applicazione delle disposizioni di legge da parte delle PA ed una carenza di competenze informatiche e manageriali dei dirigenti 
    pubblici. 
@@ -19,7 +19,7 @@ Cap 4 | Le criticità della digitalizzazione in Italia
    sono stati oggetto di indagine sia da parte della magistratura, sia degli organi di stampa. Come per ANPR, anche in questo caso la 
    Commissione ha rilevato come le maggiori criticità emerse siano relative da una parte, a una governance troppo sbilanciata a favore 
    della società esterna incaricata di sviluppare e gestire il SIAN, dall’altra, a un progressivo depauperamento di competenze, anche a 
-   causa della volontà del Legislatore, dal Ministero e dall’Agea.
+   causa della volontà del Legislatore, dal Ministero e dall’Agea.*
    
 
    Il quarto tema d’indagine si è concentrato sul Ministero dell'Istruzione, dell'Università e della Ricerca, in particolare si è indagato 
@@ -30,7 +30,7 @@ Cap 4 | Le criticità della digitalizzazione in Italia
    Infine, il quinto argomento d’inchiesta è quello relativo al sistema informativo di gestione dei migranti, da cui sono emersi, in 
    particolare dall'audizione del Ministero dell'Interno, notevoli ritardi nella messa in opera del software. In un primo momento, 
    l'implementazione era prevista per giugno 2017, scadenza in seguito prorogata a dicembre di quest'anno. La Commissione ha quindi preso 
-   atto dell'ulteriore rinvio, sospendendo l'indagine in attesa di nuovi sviluppi.
+   atto dell'ulteriore rinvio, sospendendo l'indagine in attesa di nuovi sviluppi.*
 
 4.1 Il responsabile alla transizione digitale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
