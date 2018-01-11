@@ -11,9 +11,9 @@ fisica. È una rivoluzione che trasformerà profondamente anche i rapporti tra
 amministrazione e i cittadini, come ha già profondamente cambiato il mercato e i comportamenti dei
 consumatori. Di conseguenza, appare necessario che le Istituzioni e la politica cerchino di governare ed
 accompagnare l'evoluzione sociale, rendendo le trasformazioni meno traumatiche possibili e
-massimizzando al contempo il potenziale offerto dalle tecnologie. 
+massimizzando al contempo il potenziale offerto dalle tecnologie.* 
 
-Per dare un quadro giuridico di riferimento al lavoro della Commissione, il capitolo prosegue, quindi, con un'analisi del contesto normativo europeo sulla materia delle tecnologie dell'informazione e delle
+*Per dare un quadro giuridico di riferimento al lavoro della Commissione, il capitolo prosegue, quindi, con un'analisi del contesto normativo europeo sulla materia delle tecnologie dell'informazione e delle
 comunicazioni, con particolare attenzione agli obiettivi dell'Agenda Digitale di Europa 2020. Allo stesso
 modo, è stato descritto il contesto normativo nazionale e gli obiettivi dell'Agenda Digitale Italiana e
 dell'Agenzia per l'Italia Digitale, di cui la Commissione ha ricostruito la genesi e le tappe salienti dei
@@ -243,7 +243,7 @@ NOTE paragafo 2.5
 .. [#] Convertito con la  legge n.221/2012 
 .. [#] Legge n.98/2013 (artt. 13-17)
 .. [#] Statuto AgID, Decreto del Presidente del Consiglio dei Ministri dell'8 gennaio 2014
-
+------------
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 2.6 Gli obiettivi dell’Agenzia per l’Italia digitale (AgID)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
