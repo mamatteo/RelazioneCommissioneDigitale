@@ -83,11 +83,6 @@ Nell’intento di supportare con delle misure i principali filoni di indagine de
 
 Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centrale Acquisti della Pubblica Amministrazione Italiana                       (Consip) e con l’Autorità Nazionale Anticorruzione (ANAC), si è proceduto a definire il dominio di dati su cui operare attraverso un 	                percorso di confronto costante sulle analisi in atto, volto ad interpretare correttamente i risultati via via ottenuti.
 
-.. admonition:: SI DOVREBBE
-
-   Si dovrebbe evitare l’utilizzo di un linguaggio gergale e specialistico
-   o l’uso di termini e frasi di difficile comprensione.
-
 
 3.2.1 Il dominio dei dati
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -95,7 +90,15 @@ Il dominio dei dati preso in esame, a cui d’ora in avanti ci riferiremo con il
 
 Di seguito sono riportati i CPV maggiormente presenti all’interno del dataset, in ordine decrescente rispetto al numero di gare che hanno fatto uso del relativo CPV:
 
-[tabella mancante]
+|
+
+.. figure:: imgrel/tab3e2e1.png
+   :alt: Tabella 3.2.1
+   :align: center
+   
+   Tabella 3.2.1
+   
+|
 
 Il numero totale di CPV estratti è pari a 692. La lista completa dei CPV è disponibile come documento allegato a questa relazione. 
 
@@ -487,16 +490,39 @@ Sulla sinistra della figura sono riportate le pubbliche amministrazioni, Lombard
 
 Nella tabella che segue è riportata una parte più ampia della classifica, presentando le prime 60 *“relazioni di maggioranza”* in ordine decrescente.
 
-[tabella mancante]
+|
+
+.. figure:: imgrel/tab3e2e6a.png
+   :alt: Tabella 3.2.1
+   :align: center
+   
+   Tabella 3.2.6 a
+   
+|
 
 La tabella 3.5 risponde alla domanda su quale siano le pubbliche amministrazioni che impiegano più tempo ad aggiudicare le gare che bandiscono. Nella tabella sono riportate in ordine decrescente le prime trenta amministrazioni, ordinate per il tempo medio, calcolato in giorni, di aggiudicazione di una gara.
 
-[tabella mancante]
+|
+
+.. figure:: imgrel/tab3e2e6b.png
+   :alt: Tabella 3.2.1
+   :align: center
+   
+   Tabella 3.2.6 a
+   
+|
 
 La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di una gara per i ministeri presenti all’interno del dataset, i cui risultati sono riportati nella tabella seguente e da cui si può dedurre, ancora una volta chi, probabilmente, commette più errori nella comunicazione dei dati ad ANAC.
 
+|
 
-[tabella mancante]
+.. figure:: imgrel/tab3e2e6c.png
+   :alt: Tabella 3.2.1
+   :align: center
+   
+   Tabella 3.2.6 a
+   
+|
 
 3.2.7 Analisi sui fornitori e sugli aggiudicatari
 ^^^^^^^^^^^^^^^^^^^^^^^^^
