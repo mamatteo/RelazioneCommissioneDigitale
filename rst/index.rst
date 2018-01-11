@@ -9,6 +9,7 @@ RELAZIONE SULL'ATTIVITÀ SVOLTA
 (composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti, Segretario,Boccadutri, Bonaccorsi, Bruno Bossio, D’Agostino, D’Alia, Dell’Aringa, De Lorenzis, D’Incà,* Vicepresidente, *Fitzgerald Nissoli, Fragomeli, Segretario, Incerti, Mucci,* Vicepresidente, *Paglia, Palmieri, Rizzetto, Simonetti*)
 
 - `SCARICA LA RELAZIONE IN PDF <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
+- `VAI ALL'ELENCO DELLE AUDIZIONI <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
 
 .. toctree::
    :maxdepth: 3
@@ -20,6 +21,4 @@ RELAZIONE SULL'ATTIVITÀ SVOLTA
    CapitoloQuattro.rst
    CapitoloCinque.rst
    CapitoloSei.rst
-   
-LE AUDIZIONI
    Audizioni.rst
