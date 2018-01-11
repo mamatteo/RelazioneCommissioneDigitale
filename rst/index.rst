@@ -24,4 +24,5 @@ La digitalizzazione nella pubblica amministrazione italiana: analisi degli error
    CapitoloQuattro.rst
    CapitoloCinque.rst
    CapitoloSei.rst
+   CapitoloSette.rst
    Audizioni.rst
