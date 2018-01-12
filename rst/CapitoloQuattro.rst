@@ -7,25 +7,25 @@ Cap 4 | Le criticità della digitalizzazione in Italia
    processo di trasformazione digitale delle pubbliche amministrazioni che sono emersi nel corso dei filoni di inchiesta. La prima      
    indagine è quella relativa allo stato di attuazione del Codice dell’Amministrazione Digitale (CAD), da cui emerge un inadeguato livello 
    di conoscenza e di applicazione delle disposizioni di legge da parte delle PA ed una carenza di competenze informatiche e manageriali 
-   dei dirigenti pubblici. 
+   dei dirigenti pubblici.* 
    
-   La seconda inchiesta è quella relativa all’Anagrafe Nazionale della Popolazione Residente (ANPR), che ha voluto fare luce sui continui 
+   *La seconda inchiesta è quella relativa all’Anagrafe Nazionale della Popolazione Residente (ANPR), che ha voluto fare luce sui continui 
    ritardi nell’implementazione di tale progetto dovuti ad uno scarso coinvolgimento degli stakeholder nella fase di progettazione e 
    sviluppo e ad un inefficiente approccio top-down, con la posizione dominante del soggetto incaricato di sviluppare il sistema favorita 
-   dalle poche competenze competenze tecnologiche e manageriali in capo al Ministero dell’Interno. 
+   dalle poche competenze competenze tecnologiche e manageriali in capo al Ministero dell’Interno.* 
    
-   Il terzo filone d’inchiesta ha riguardato i presunti malfunzionamenti del Sistema Informativo Agricolo Nazionale (SIAN) che negli anni 
+   *Il terzo filone d’inchiesta ha riguardato i presunti malfunzionamenti del Sistema Informativo Agricolo Nazionale (SIAN) che negli anni 
    sono stati oggetto di indagine sia da parte della magistratura, sia degli organi di stampa. Come per ANPR, anche in questo caso la 
    Commissione ha rilevato come le maggiori criticità emerse siano relative da una parte, a una governance troppo sbilanciata a favore 
    della società esterna incaricata di sviluppare e gestire il SIAN, dall’altra, a un progressivo depauperamento di competenze, anche a 
-   causa della volontà del Legislatore, dal Ministero e dall’Agea.   
+   causa della volontà del Legislatore, dal Ministero e dall’Agea.*   
 
-   Il quarto tema d’indagine si è concentrato sul Ministero dell'Istruzione, dell'Università e della Ricerca, in particolare si è indagato 
-   sulle disfunzioni dall'algoritmo programmato per gestire la procedura automatizzata dei trasferimenti interprovinciali degli 
+   *Il quarto tema d’indagine si è concentrato sul Ministero dell'Istruzione, dell'Università e della Ricerca, in particolare si è 
+   indagato sulle disfunzioni dall'algoritmo programmato per gestire la procedura automatizzata dei trasferimenti interprovinciali degli 
    insegnanti. Sempre nell'ambito del MIUR, è stato fatto un approfondimento sulle spese sostenuto dal Ministero in relazione alle 
-   postazioni di lavoro, in quanto il contratto quadro comprende forniture che sono possibili anche attraverso altre convenzioni Consip. 
+   postazioni di lavoro, in quanto il contratto quadro comprende forniture che sono possibili anche attraverso altre convenzioni Consip.* 
    
-   Infine, il quinto argomento d’inchiesta è quello relativo al sistema informativo di gestione dei migranti, da cui sono emersi, in 
+   *Infine, il quinto argomento d’inchiesta è quello relativo al sistema informativo di gestione dei migranti, da cui sono emersi, in 
    particolare dall'audizione del Ministero dell'Interno, notevoli ritardi nella messa in opera del software. In un primo momento, 
    l'implementazione era prevista per giugno 2017, scadenza in seguito prorogata a dicembre di quest'anno. La Commissione ha quindi preso 
    atto dell'ulteriore rinvio, sospendendo l'indagine in attesa di nuovi sviluppi.*
@@ -126,7 +126,7 @@ Altro elemento, in linea con ciò che accade nei ministeri, è la carenza di tit
 |
 |
 
-.. figure:: imgrel/Elaborazione_4png
+.. figure:: imgrel/Elaborazione_4.png
    :alt: Elaborazione 3
    :align: center
    
@@ -218,8 +218,7 @@ In sintesi, le risposte emerse dal questionario descrivono una situazione dei co
    
 NOTE paragafo 4.1.2
 
-.. [4] I comuni che hanno partecipato al questionario sono: Ancona, Aosta, L’Aquila, *Bari, Bologna, *Bolzano, *Cagliari, Campobasso, Catania, Catanzaro, *Firenze, *Genova, *Napoli, Milano, *Padova, Palermo, Perugia, *Reggio Calabria,*Roma, Trento, Trieste, Venezia, *Verona (con asterisco i comuni che, in mancanza di un responsabile della transizione alla modalità digitale, hanno indicato un delegato a
-rispondere al questionario).
+.. [4] I comuni che hanno partecipato al questionario sono: Ancona, Aosta, L’Aquila, Bari, Bologna, Bolzano, Cagliari, Campobasso, Catania, Catanzaro, Firenze, Genova, Napoli, Milano, Padova, Palermo, Perugia, Reggio Calabria, Roma, Trento, Trieste, Venezia, Verona
 
 ------------
 
@@ -234,7 +233,7 @@ NOTE paragafo 4.2
 
 .. [5] Indice Nazionale delle Anagrafi
 .. [6] Anagrafe della popolazione Italiana Residente all'Estero
-...[7] Art. 1, comma 306 della legge n. 228/2012
+.. [7] Art. 1, comma 306 della legge n. 228/2012
 
 ------------
 
