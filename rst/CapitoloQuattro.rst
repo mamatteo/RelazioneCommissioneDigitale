@@ -5,10 +5,9 @@ Cap 4 | Le criticità della digitalizzazione in Italia
 
    ABSTRACT | *Il Capitolo presenta le criticità, gli ostacoli e le problematiche che le pubbliche amministrazioni devono affrontare nel           
    processo di trasformazione digitale delle pubbliche amministrazioni che sono emersi nel corso dei filoni di inchiesta. La prima      
-   indagine è quella 
-   relativa allo stato di attuazione del Codice dell’Amministrazione Digitale (CAD), da cui emerge un inadeguato livello di conoscenza e 
-   di applicazione delle disposizioni di legge da parte delle PA ed una carenza di competenze informatiche e manageriali dei dirigenti 
-   pubblici. 
+   indagine è quella relativa allo stato di attuazione del Codice dell’Amministrazione Digitale (CAD), da cui emerge un inadeguato livello 
+   di conoscenza e di applicazione delle disposizioni di legge da parte delle PA ed una carenza di competenze informatiche e manageriali 
+   dei dirigenti pubblici. 
    
    La seconda inchiesta è quella relativa all’Anagrafe Nazionale della Popolazione Residente (ANPR), che ha voluto fare luce sui continui 
    ritardi nell’implementazione di tale progetto dovuti ad uno scarso coinvolgimento degli stakeholder nella fase di progettazione e 
@@ -19,8 +18,7 @@ Cap 4 | Le criticità della digitalizzazione in Italia
    sono stati oggetto di indagine sia da parte della magistratura, sia degli organi di stampa. Come per ANPR, anche in questo caso la 
    Commissione ha rilevato come le maggiori criticità emerse siano relative da una parte, a una governance troppo sbilanciata a favore 
    della società esterna incaricata di sviluppare e gestire il SIAN, dall’altra, a un progressivo depauperamento di competenze, anche a 
-   causa della volontà del Legislatore, dal Ministero e dall’Agea.*
-   
+   causa della volontà del Legislatore, dal Ministero e dall’Agea.   
 
    Il quarto tema d’indagine si è concentrato sul Ministero dell'Istruzione, dell'Università e della Ricerca, in particolare si è indagato 
    sulle disfunzioni dall'algoritmo programmato per gestire la procedura automatizzata dei trasferimenti interprovinciali degli 
@@ -31,45 +29,77 @@ Cap 4 | Le criticità della digitalizzazione in Italia
    particolare dall'audizione del Ministero dell'Interno, notevoli ritardi nella messa in opera del software. In un primo momento, 
    l'implementazione era prevista per giugno 2017, scadenza in seguito prorogata a dicembre di quest'anno. La Commissione ha quindi preso 
    atto dell'ulteriore rinvio, sospendendo l'indagine in attesa di nuovi sviluppi.*
+   
 
 4.1 Il responsabile alla transizione digitale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-La Commissione, nel corso della sua indagine, ha ritenuto opportuno verificare il grado di competenze possedute dai responsabili del settore delle ICT nelle pubbliche amministrazioni, con particolare riferimento al livello di adempimento dell’articolo 17 del Codice dell’Amministrazione Digitale (CAD), che prevede l’istituzione del responsabile della transizione alla modalità operativa digitale. Nello specifico, l’articolo 17, così come novellato dal decreto legislativo 26 agosto 2016, n. 179, stabilisce che ogni Pubblica Amministrazione *“affida ad un unico ufficio dirigenziale generale, la transizione alla modalità operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un’amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità”.* La Commissione,  ritenendo centrale il ruolo di progettazione e coordinamento strategico del responsabile sopracitato, al fine di una corretta, efficace ed efficiente transizione digitale, ha richiesto alle amministrazioni dei diversi livelli di governo – ministeri, regioni, città metropolitane e maggiori comuni  – i decreti di nomina degli uffici dirigenziali generali, ex articolo 17 del CAD. Il primo problema, di conseguenza, che la Commissione si è trovata ad affrontare è stato quello di reperire le informazioni richieste, a causa di una scarsa  reattività delle amministrazioni, che hanno fatto pervenire le risposte con notevole ritardo rispetto alle richieste. Si noti come le richieste dei decreti di nomina ai ministeri siano state inviate dalla Commissione il 24 marzo 2017 e come la prima risposta sia pervenuta solamente l’11 aprile 2017, mentre nella metà dei casi – 25 su 49 – le amministrazioni non hanno fatto pervenire alcuna risposta, nonostante ripetuti solleciti.
+La Commissione, nel corso della sua indagine, ha ritenuto opportuno verificare il grado di competenze possedute dai responsabili del settore delle ICT nelle pubbliche amministrazioni, con particolare riferimento al livello di adempimento dell’articolo 17 del Codice dell’Amministrazione Digitale (CAD), che prevede l’istituzione del responsabile della transizione alla modalità operativa digitale. 
 
-La seconda criticità è riferita al contenuto delle informazioni che la Commissione ha raccolto, che ha messo in risalto come il numero degli uffici dirigenziali generali ex art. 17 del CAD, nominati dalle amministrazioni, risulti basso e insoddisfacente. Infatti, la maggioranza delle pubbliche amministrazioni non ha provveduto alla nomina del responsabile alla transizione alla modalità operativa digitale, facendo emergere un ingiustificato ritardo verso un adempimento obbligatorio, entrato in vigore dal settembre del 2016, circostanza che ha messo in luce un diffuso livello di inadempimento della legge da parte delle amministrazioni. Va sottolineato come, sebbene l’ultima formulazione dell’articolo 17 del CAD risalga al settembre 2016, la richiesta di individuare un unico centro di competenza all’interno delle amministrazioni centrali, invece, fosse prevista sin dalla versione originale dell’art. 17 in vigore nel 2005. Il Legislatore, inoltre aveva modificato nel 2011 la norma, specificando che si dovesse identificare un unico ufficio dirigenziale generale. Va, infine, fatto notare come già nel 1993, l’articolo 10 del decreto legislativo n. 39 imponesse alle pubbliche amministrazioni di individuare *“un dirigente generale (...) quale responsabile per i sistemi informativi automatizzati”.*
+.. important::
+   Nello specifico, l’articolo 17, così come novellato dal decreto legislativo 26 agosto 2016, n. 179, stabilisce che ogni Pubblica       
+   Amministrazione *“affida ad un unico ufficio dirigenziale generale, la transizione alla modalità operativa digitale e i conseguenti    
+   processi di riorganizzazione finalizzati alla realizzazione di un’amministrazione digitale e aperta, di servizi facilmente utilizzabili 
+   e di qualità, attraverso una maggiore efficienza ed economicità”.* 
+   
+La Commissione,  ritenendo centrale il ruolo di progettazione e coordinamento strategico del responsabile sopracitato, al fine di una corretta, efficace ed efficiente transizione digitale, ha richiesto alle amministrazioni dei diversi livelli di governo – ministeri, regioni, città metropolitane e maggiori comuni  – i decreti di nomina degli uffici dirigenziali generali, ex articolo 17 del CAD. **Il primo problema, di conseguenza, che la Commissione si è trovata ad affrontare è stato quello di reperire le informazioni richieste, a causa di una scarsa  reattività delle amministrazioni, che hanno fatto pervenire le risposte con notevole ritardo rispetto alle richieste.** Si noti come le richieste dei decreti di nomina ai ministeri siano state inviate dalla Commissione il 24 marzo 2017 e come la prima risposta sia pervenuta solamente l’11 aprile 2017, mentre nella metà dei casi – 25 su 49 – le amministrazioni non hanno fatto pervenire alcuna risposta, nonostante ripetuti solleciti.
 
-Entrando nel dettaglio, su 13 ministeri, 8 [1]_ hanno provveduto alla nomina, su 14 città metropolitane soltanto 5 [2]_ hanno rispettato l’obbligo di legge, mentre i dati peggiorano se si prendono in esame le Regioni, dove ci sono state soltanto 7 [3]_ nomine su 21. Ad aggravare ulteriormente il quadro, il fatto che tutte queste nomine siano avvenute successivamente all’invio delle richieste da parte della Commissione e su impulso di questa, che ha agito da pungolo nei confronti delle amministrazioni, col fine di adempiere a quanto previsto dalla normativa. Per quanto riguarda i maggiori comuni italiani, su 27 solo 11 hanno nominato un responsabile alla transizione digitale.
+La seconda criticità è riferita al contenuto delle informazioni che la Commissione ha raccolto, che ha messo in risalto come il numero degli uffici dirigenziali generali ex art. 17 del CAD, nominati dalle amministrazioni, risulti basso e insoddisfacente. Infatti, **la maggioranza delle pubbliche amministrazioni non ha provveduto alla nomina del responsabile alla transizione alla modalità operativa digitale, facendo emergere un ingiustificato ritardo verso un adempimento obbligatorio, entrato in vigore dal settembre del 2016, circostanza che ha messo in luce un diffuso livello di inadempimento della legge da parte delle amministrazioni.** Va sottolineato come, sebbene l’ultima formulazione dell’articolo 17 del CAD risalga al settembre 2016, la richiesta di individuare un unico centro di competenza all’interno delle amministrazioni centrali, invece, fosse prevista sin dalla versione originale dell’art. 17 in vigore nel 2005. Il Legislatore, inoltre aveva modificato nel 2011 la norma, specificando che si dovesse identificare un unico ufficio dirigenziale generale. Va, infine, fatto notare come già nel 1993, l’articolo 10 del decreto legislativo n. 39 imponesse alle pubbliche amministrazioni di individuare *“un dirigente generale (...) quale responsabile per i sistemi informativi automatizzati”.*
 
-Il terzo problema è emerso rispetto alla qualità delle nomine, con particolare riferimento al tipo e al livello di competenze in possesso dei responsabili ex art. 17 del CAD, requisiti che lo stesso Codice stabilisce nell’articolo 17, comma 1-ter: *“il responsabile dell’ufficio di cui al comma 1 è dotato di adeguate competenze tecnologiche, di informatica giuridica e manageriale”.* La Commissione ha scelto quattro criteri indicativi, per valutare in prima approssimazione il livello di adempimento dell’art. 17, comma 1-ter:
+.. note::
+
+   Entrando nel dettaglio, su 13 ministeri, 8 [#]_ hanno provveduto alla nomina, su 14 città metropolitane soltanto 5 [#]_ hanno 
+   rispettato l’obbligo di legge, mentre i dati peggiorano se si prendono in esame le Regioni, dove ci sono state soltanto 7 [#]_ nomine 
+   su 21. 
+   
+Ad aggravare ulteriormente il quadro, il fatto che tutte queste nomine siano avvenute successivamente all’invio delle richieste da parte della Commissione e su impulso di questa, che ha agito da pungolo nei confronti delle amministrazioni, col fine di adempiere a quanto previsto dalla normativa. Per quanto riguarda i maggiori comuni italiani, su 27 solo 11 hanno nominato un responsabile alla transizione digitale.
+
+Il terzo problema è emerso rispetto alla qualità delle nomine, con particolare riferimento al tipo e al livello di competenze in possesso dei responsabili ex art. 17 del CAD, requisiti che lo stesso Codice stabilisce nell’articolo 17, comma 1-ter: *“il responsabile dell’ufficio di cui al comma 1 è dotato di adeguate competenze tecnologiche, di informatica giuridica e manageriale”.* 
+
+La Commissione ha scelto quattro criteri indicativi, per valutare in prima approssimazione il livello di adempimento dell’art. 17, comma 1-ter:
 - iscrizione all’ordine degli ingegneri informatici;
 - laurea in informatica o equivalenti; 
 - esperienza almeno quinquennale nel settore privato nel campo dell’ICT; 
 - esperienza almeno quinquennale nel settore pubblico nel campo dell’ICT.
 
-Stabiliti i criteri di analisi, la Commissione ha analizzato i *curricula* dei dirigenti generali nominati responsabili alla transizione digitale evidenziando il rischio di assenza dei requisiti richiesti dalla normativa vigente. Degli otto responsabili ex art. 17, nominati dai ministeri, uno solamente è risultato essere in possesso di una laurea idonea al ruolo ricoperto, nel caso specifico in ingegneria informatica. Nei rimanenti sette casi: cinque sono in possesso di una laurea in giurisprudenza, uno in medicina e chirurgia ed uno in ingegneria civile. Di questi profili, solamente in tre casi la formazione universitaria è stata integrata da una esperienza almeno quinquennale nel settore pubblico nel campo delle ICT. Situazione analoga per le Regioni, dove solo due nomine delle sette totali, presentano i requisiti sul possesso della laurea informatica o equivalente richiesta dal CAD, mentre delle cinque nomine relative alle città metropolitane, soltanto una rispetta i requisiti.
+Stabiliti i criteri di analisi, la Commissione ha analizzato i *curricula* dei dirigenti generali nominati responsabili alla transizione digitale evidenziando il rischio di assenza dei requisiti richiesti dalla normativa vigente. **Degli otto responsabili ex art. 17, nominati dai ministeri, uno solamente è risultato essere in possesso di una laurea idonea al ruolo ricoperto, nel caso specifico in ingegneria informatica.** Nei rimanenti sette casi: cinque sono in possesso di una laurea in giurisprudenza, uno in medicina e chirurgia ed uno in ingegneria civile. Di questi profili, solamente in tre casi la formazione universitaria è stata integrata da una esperienza almeno quinquennale nel settore pubblico nel campo delle ICT. 
+
+Situazione analoga per le Regioni, dove solo due nomine delle sette totali, presentano i requisiti sul possesso della laurea informatica o equivalente richiesta dal CAD, mentre delle cinque nomine relative alle città metropolitane, soltanto una rispetta i requisiti.
 
 ------------
    
 NOTE paragafo 4.1
 
-.. [1] Mibact, Giustizia, MIT, Difesa, Interno, Salute, Mise, Ambiente.
-.. [2] Genova, Napoli, Palermo, Roma, e Venezia.
-.. [3] Campania, Liguria, P.A. Trento, Sardegna, Toscana, Piemonte, Friuli Venezia Giulia.
+.. [#] Mibact, Giustizia, MIT, Difesa, Interno, Salute, Mise, Ambiente.
+.. [#] Genova, Napoli, Palermo, Roma, e Venezia.
+.. [#] Campania, Liguria, P.A. Trento, Sardegna, Toscana, Piemonte, Friuli Venezia Giulia.
 
 ------------
 
 4.1.1 Lo stato di attuazione del CAD, tra inadempienze e criticità
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Successivamente all’analisi dei *curricula*, la Commissione ha ritenuto opportuno convocare in audizione alcuni dei dirigenti nominati responsabili ex art. 17, in modo da verificare lo stato di attuazione del CAD da parte delle loro organizzazioni e quali siano le iniziative che sono state o verranno prese in tale direzione. Queste audizioni hanno avuto un duplice obiettivo: da una parte, la Commissione ha voluto verificare il livello di competenza digitale e manageriale dei responsabili nominati; dall’altra, si è cercato di comprendere a che punto si trovi il processo di trasformazione digitale delle pubbliche amministrazioni, quale sia la qualità degli interventi e se la riorganizzazione in senso digitale stia avvenendo in modo coordinato, corretto e coerente con quanto prescritto dal CAD. Nel corso dell’indagine sono stati rilevati degli elementi trasversali e comuni tra le pubbliche amministrazioni audite, che la Commissione ritiene si possano estendere dal campione di riferimento alla totalità delle amministrazioni. Dalle diverse audizioni con i responsabili della transazione digitale dei ministeri, è emersa un’amministrazione che viaggia a due velocità: da un parte il front office che fa registrare risultati perlomeno soddisfacenti, di contro il *back office*, che evidenzia tutta la difficoltà delle amministrazioni nell’utilizzo dell’ICT nei suoi processi interni. Per quanto riguarda il *front office*, la Commissione ha potuto rilevare un buon livello di digitalizzazione in riferimento all’interazione tra amministrazione e cittadino. Le pubbliche amministrazioni dimostrano attenzione nel digitalizzare i canali di comunicazione con i privati e nella totalità dei casi, le imprese scambiano informazioni e documentazione con le amministrazioni esclusivamente tramite canali telematici, con la conseguente eliminazione dell’uso del *fax*. I siti web delle amministrazioni tendono ad offrire contenuti sempre più uniformi e standardizzati, anche se non si prevede, nella maggior parte dei casi, la possibilità per l’utente di esprimere la propria soddisfazione sul servizio, come invece stabilito dall’articolo 63 del CAD. Inoltre c’è un impegno da parte delle pubbliche amministrazioni nel favorire gli open data anche se, da questo punto di vista, non c’è una piena consapevolezza dell’importanza dell’utilizzo del dato, il quale spesso viene vissuto più come mero orpello di trasparenza amministrativa, che come un utile strumento di efficientamento dei procedimenti e delle decisioni amministrative. Altro aspetto positivo emerso dalle audizioni è quello riferito alle principali piattaforme abilitanti previste dal nostro ordinamento, tra queste le più diffuse sono la fatturazione elettronica, PagoPA e NoiPA, mentre appare in crescita l’attenzione delle pubbliche amministrazioni nel prevedere l’allaccio dei propri servizi a SPID. Ad esclusione della fatturazione elettronica, che la Commissione può ritenere realizzata e utilizzata nella totalità delle esperienze audite, i progetti sopra citati sono tutte azioni in corso che verranno completate, a seconda delle amministrazioni, tra la fine dell’anno 2017 e primi mesi del 2018. Nonostante i progetti siano in fase di realizzazione e scontino un ingiustificato ritardo, dalle audizioni si evidenzia come le pubbliche amministrazioni non siano ferme al palo, ma abbiano avviato, seppur con fatica e resistenze interne, un processo di trasformazione digitale, quantomeno dal lato *front office*, con una particolare accelerazione a partire dal 2014. 
+Successivamente all’analisi dei *curricula*, la Commissione ha ritenuto opportuno convocare in audizione alcuni dei dirigenti nominati responsabili ex art. 17, in modo da verificare lo stato di attuazione del CAD da parte delle loro organizzazioni e quali siano le iniziative che sono state o verranno prese in tale direzione. Queste audizioni hanno avuto un duplice obiettivo: da una parte, la Commissione ha voluto verificare il livello di competenza digitale e manageriale dei responsabili nominati; dall’altra, si è cercato di comprendere a che punto si trovi il processo di trasformazione digitale delle pubbliche amministrazioni, quale sia la qualità degli interventi e se la riorganizzazione in senso digitale stia avvenendo in modo coordinato, corretto e coerente con quanto prescritto dal CAD. 
 
-Di segno opposto il giudizio relativo al *back office*, dove le amministrazioni palesano gravi criticità, ritardi, resistenze ed inadempienze della legge. Dalle risposte e dalle informazioni raccolte durante le audizioni, alla Commissione è apparsa chiara una serie di problematiche comuni a tutte le amministrazioni audite, relativa ad una ingiustificata e reiterata inadempienza delle disposizioni contenute nel CAD. Le dichiarazioni rilasciate in audizione fotografano una pubblica amministrazione che si affida ancora troppo alla carta, disattendendo la legge che impone di formare gli originali dei propri documenti con mezzi informatici sin dalla prima versione dell’articolo 40 del CAD, mentre la dematerializzazione degli atti è ancora a livelli insufficienti ed insoddisfacenti. Alcuni segnali positivi si registrano nelle comunicazioni interne che avvengono nella maggior parte dei casi tramite posta elettronica, ma la cultura analogica dell’amministrazione novecentesca, diffusa tra i funzionari e i dirigenti pubblici, mantiene ancora in vita i faldoni di documenti cartacei, diffonde ritrosia nell’utilizzo della firma digitale ed impedisce la completa produzione dei documenti nativi digitali. A titolo esemplificativo, si riporta il caso di due ministeri, che hanno risposto ad una richiesta della Commissione facendo pervenire un documento cartaceo contenuto in una busta, trasportata e consegnata per mezzo di un motociclista, nonostante il CAD stabilisca che le comunicazioni tra amministrazioni debbano avvenire solamente in formato digitale e la Commissione avesse richiesto la documentazione tramite PEC richiedendo esplicitamente di ottenerla per via telematica. Altre disposizioni disattese sono quelle relative ai piani delle performance, che di solito non prevedono indicatori riferiti alla trasformazione digitale, non contengono obiettivi precisi e definiti riguardo alle azioni da intraprendere e non tengono conto del grado di digitalizzazione raggiunta nella valutazione delle responsabilità del dirigente, nonostante le prescrizioni degli articoli 3-*bis*, 12 e 52 del CAD. Inoltre quando sono presenti, i risparmi di costo, generati dall’utilizzo della ICT, non vengono quantificati e, ancora più grave, non vengono nemmeno reinvestiti nel fondo premialità dei dipendenti, come previsto dall’articolo 15 del CAD sin dal 2011. 
+Nel corso dell’indagine sono stati rilevati degli elementi trasversali e comuni tra le pubbliche amministrazioni audite, che la Commissione ritiene si possano estendere dal campione di riferimento alla totalità delle amministrazioni. **Dalle diverse audizioni con i responsabili della transazione digitale dei ministeri, è emersa un’amministrazione che viaggia a due velocità: da un parte il front office che fa registrare risultati perlomeno soddisfacenti, di contro il back office, che evidenzia tutta la difficoltà delle amministrazioni nell’utilizzo dell’ICT nei suoi processi interni.** Per quanto riguarda il *front office*, la Commissione ha potuto rilevare un buon livello di digitalizzazione in riferimento all’interazione tra amministrazione e cittadino. Le pubbliche amministrazioni dimostrano attenzione nel digitalizzare i canali di comunicazione con i privati e nella totalità dei casi, le imprese scambiano informazioni e documentazione con le amministrazioni esclusivamente tramite canali telematici, con la conseguente eliminazione dell’uso del *fax*. I siti web delle amministrazioni tendono ad offrire contenuti sempre più uniformi e standardizzati, anche se non si prevede, nella maggior parte dei casi, la possibilità per l’utente di esprimere la propria soddisfazione sul servizio, come invece stabilito dall’articolo 63 del CAD. Inoltre c’è un impegno da parte delle pubbliche amministrazioni nel favorire gli *open data* anche se, da questo punto di vista, non c’è una piena consapevolezza dell’importanza dell’utilizzo del dato, il quale spesso viene vissuto più come mero orpello di trasparenza amministrativa, che come un utile strumento di efficientamento dei procedimenti e delle decisioni amministrative. 
 
-In generale, quindi, la Commissione ha rilevato nelle pubbliche amministrazioni delle carenti competenze digitali, alle quali non viene posto rimedio tramite la formazione continua, le cui ore di formazione in ICT, somministrate ai dipendenti in ottemperanza a quanto previsto dall’articolo 13 del CAD sin dal 2006, risultano limitate ed insufficienti. L’inadeguata presenza di competenze ICT, l’assenza di piani di performance e la mancanza di indicatori di obiettivo in linea con il CAD, si traducono nell’incapacità delle amministrazioni di trasformare le proprie organizzazioni interne in senso innovativo.
+Altro aspetto positivo emerso dalle audizioni è quello riferito alle principali piattaforme abilitanti previste dal nostro ordinamento, tra queste le più diffuse sono la *fatturazione elettronica*, *PagoPA* e *NoiPA*, mentre appare in crescita l’attenzione delle pubbliche amministrazioni nel prevedere l’allaccio dei propri servizi a *SPID*. Ad esclusione della fatturazione elettronica, che la Commissione può ritenere realizzata e utilizzata nella totalità delle esperienze audite, i progetti sopra citati sono tutte azioni in corso che verranno completate, a seconda delle amministrazioni, tra la fine dell’anno 2017 e primi mesi del 2018. Nonostante i progetti siano in fase di realizzazione e scontino un ingiustificato ritardo, dalle audizioni si evidenzia come le pubbliche amministrazioni non siano ferme al palo, ma abbiano avviato, seppur con fatica e resistenze interne, un processo di trasformazione digitale, quantomeno dal lato *front office*, con una particolare accelerazione a partire dal 2014. 
+
+Di segno opposto il giudizio relativo al *back office*, dove le amministrazioni palesano gravi criticità, ritardi, resistenze ed inadempienze della legge. Dalle risposte e dalle informazioni raccolte durante le audizioni, alla Commissione è apparsa chiara una serie di problematiche comuni a tutte le amministrazioni audite, relativa ad una ingiustificata e reiterata inadempienza delle disposizioni contenute nel CAD. Le dichiarazioni rilasciate in audizione fotografano una pubblica amministrazione che si affida ancora troppo alla carta, disattendendo la legge che impone di formare gli originali dei propri documenti con mezzi informatici sin dalla prima versione dell’articolo 40 del CAD, mentre la dematerializzazione degli atti è ancora a livelli insufficienti ed insoddisfacenti. Alcuni segnali positivi si registrano nelle comunicazioni interne che avvengono nella maggior parte dei casi tramite posta elettronica, ma la cultura analogica dell’amministrazione novecentesca, diffusa tra i funzionari e i dirigenti pubblici, mantiene ancora in vita i faldoni di documenti cartacei, diffonde ritrosia nell’utilizzo della firma digitale ed impedisce la completa produzione dei documenti nativi digitali. 
+
+.. note::
+
+   A titolo esemplificativo, si riporta il caso di due ministeri, che hanno risposto ad una richiesta della Commissione facendo pervenire 
+   un documento cartaceo contenuto in una busta, trasportata e consegnata per mezzo di un motociclista, nonostante il CAD stabilisca che 
+   le comunicazioni tra amministrazioni debbano avvenire solamente in formato digitale e la Commissione avesse richiesto la documentazione 
+   tramite PEC richiedendo esplicitamente di ottenerla per via telematica. 
+   
+Altre disposizioni disattese sono quelle relative ai piani delle performance, che di solito non prevedono indicatori riferiti alla trasformazione digitale, non contengono obiettivi precisi e definiti riguardo alle azioni da intraprendere e non tengono conto del grado di digitalizzazione raggiunta nella valutazione delle responsabilità del dirigente, nonostante le prescrizioni degli articoli 3-*bis*, 12 e 52 del CAD. Inoltre quando sono presenti, i risparmi di costo, generati dall’utilizzo della ICT, non vengono quantificati e, ancora più grave, non vengono nemmeno reinvestiti nel fondo premialità dei dipendenti, come previsto dall’articolo 15 del CAD sin dal 2011. 
+
+In generale, quindi, la Commissione ha rilevato nelle pubbliche amministrazioni delle carenti competenze digitali, alle quali non viene posto rimedio tramite la formazione continua, le cui ore di formazione in ICT, somministrate ai dipendenti in ottemperanza a quanto previsto dall’articolo 13 del CAD sin dal 2006, risultano limitate ed insufficienti. **L’inadeguata presenza di competenze ICT, l’assenza di piani di performance e la mancanza di indicatori di obiettivo in linea con il CAD, si traducono nell’incapacità delle amministrazioni di trasformare le proprie organizzazioni interne in senso innovativo.**
 
 4.1.2  Il questionario sui comuni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Al fine di raccogliere in maniera più veloce i dati riguardo all’applicazione del CAD a livello comunale, la Commissione ha deliberato, nella fase finale dei suoi lavori, di sottoporre ai maggiori comuni italiani un questionario on line. Per determinare quali comuni coinvolgere sono stati utilizzati più criteri contemporaneamente: tutti i comuni con popolazione superiore a 250 mila abitanti, tutti i comuni capoluogo di regione, tutti i comuni corrispondenti a città metropolitane. I comuni selezionati in questo modo sono stati in tutto 26, e di questi, 23 hanno effettivamente partecipato al questionario [4]_. 
+Al fine di raccogliere in maniera più veloce i dati riguardo all’applicazione del CAD a livello comunale, la Commissione ha deliberato, nella fase finale dei suoi lavori, di sottoporre ai maggiori comuni italiani un questionario *oline*. Per determinare quali comuni coinvolgere sono stati utilizzati più criteri contemporaneamente: tutti i comuni con popolazione superiore a 250 mila abitanti, tutti i comuni capoluogo di regione, tutti i comuni corrispondenti a città metropolitane. I comuni selezionati in questo modo sono stati in tutto 26, e di questi, 23 hanno effettivamente partecipato al questionario [4]_. 
 
 In prima battuta, a ciascun sindaco è stato richiesto il nominativo del responsabile della transizione alla modalità digitale del comune (12 comuni hanno risposto positivamente). A quei comuni che non avevano ancora effettuato la nomina è stato chiesto di indicare un delegato per la compilazione del questionario (11 comuni rientrano in questa categoria). Tre comuni non hanno dato alcuna risposta alle richieste della Commissione.
 
@@ -82,28 +112,28 @@ Altro elemento, in linea con ciò che accade nei ministeri, è la carenza di tit
 |
 |
 
-.. figure:: imgrel/Elaborazione_1.png
+.. figure:: imgrel/Elaborazione_2.png
    :alt: Elaborazione 1
    :align: center
    
 |
 |
 
-.. figure:: imgrel/Elaborazione_2.png
+.. figure:: imgrel/Elaborazione_1.png
    :alt: Elaborazione 2
    :align: center
    
 |
 |
 
-.. figure:: imgrel/Elaborazione_3png
+.. figure:: imgrel/Elaborazione_4png
    :alt: Elaborazione 3
    :align: center
    
 |
 |
 
-.. figure:: imgrel/Elaborazione_4.png
+.. figure:: imgrel/Elaborazione_5.png
    :alt: Elaborazione 4
    :align: center
    
@@ -111,12 +141,12 @@ Altro elemento, in linea con ciò che accade nei ministeri, è la carenza di tit
 |
 |
 
-I comuni sono impegnati nel trasmettere le competenze ai propri dipendenti attraverso corsi di formazione, anche se le ore utilizzate a tale scopo – ammontano a circa 8 ore l’anno – sembrano essere troppo poche, ma, allo stesso tempo, maggiori rispetto ad alcuni ministeri. La maggior parte dei corsi viene realizzata in presenza, anche se si segnala un buon utilizzo anche degli strumenti formativi on line, come *webinar* e *e-learning*. La grande fetta dei contenuti formativi riguarda le competenze informatiche di base, quali l’utilizzo di *software*, la protezione della privacy e dei dati personali, la sicurezza e la *cybersecurity*, mentre solo in piccola parte la formazione si dedica ai nuovi bisogni delle PA, come ad esempio *big data*, *data analytics* e IoT (*Internet of Things*).
+I comuni sono impegnati nel trasmettere le competenze ai propri dipendenti attraverso corsi di formazione, anche se le ore utilizzate a tale scopo – **ammontano a circa 8 ore l’anno** – sembrano essere troppo poche, ma, allo stesso tempo, maggiori rispetto ad alcuni ministeri. La maggior parte dei corsi viene realizzata in presenza, anche se si segnala un buon utilizzo anche degli strumenti formativi on line, come *webinar* e *e-learning*. La grande fetta dei contenuti formativi riguarda le competenze informatiche di base, quali l’utilizzo di *software*, la protezione della privacy e dei dati personali, la sicurezza e la *cybersecurity*, mentre solo in piccola parte la formazione si dedica ai nuovi bisogni delle PA, come ad esempio *big data*, *data analytics* e IoT (*Internet of Things*).
 
 |
 |
 
-.. figure:: imgrel/Elaborazione_5.png
+.. figure:: imgrel/Elaborazione_12.png
    :alt: Elaborazione 5
    :align: center
    
@@ -124,14 +154,14 @@ I comuni sono impegnati nel trasmettere le competenze ai propri dipendenti attra
 |
 |
 
-Per quanto riguarda la questione procedimentale e quella della dematerializzazione, i risultati che emergono dal questionario sono peggiori rispetto alle PA centrali: i procedimenti amministrativi che prevedono lo scambio di documenti cartacei con le imprese sono ben il 31 per cento, l’82 per cento delle comunicazione tra PA avviene in formato digitale, ma non si comprende perché esista ancora un 18 per cento in modalità analogica. Inoltre, e il dato è decisamente anacronistico, il 26 per cento dei comuni intervistati mantiene ancora in vita il *fax*, mentre all’interno delle PA locali le comunicazioni tra e con i dipendenti rimangono in modalità analogica nel 28,5 per cento dei casi, in palese violazione di legge.
+Per quanto riguarda la questione procedimentale e quella della dematerializzazione, **i risultati che emergono dal questionario sono peggiori rispetto alle PA centrali**: i procedimenti amministrativi che prevedono lo scambio di documenti cartacei con le imprese sono ben il 31 per cento, l’82 per cento delle comunicazione tra PA avviene in formato digitale, ma non si comprende perché esista ancora un 18 per cento in modalità analogica. Inoltre, e il dato è decisamente anacronistico, il 26 per cento dei comuni intervistati mantiene ancora in vita il *fax*, mentre all’interno delle PA locali le comunicazioni tra e con i dipendenti rimangono in modalità analogica nel 28,5 per cento dei casi, in palese violazione di legge.
 
-Sulla dematerializzazione la strada da percorrere è ancora molta. Il 40 per cento dei documenti originali risulta non essere formato esclusivamente con mezzi informatici. L’87 per cento dei comuni prevede ancora dei procedimenti che hanno bisogno di apposizione di timbri, di firme autografe, di sigle a margine, di bollinature o altre procedure analogiche. In questo caso esistono degli indicatori e degli obiettivi assegnati ai dirigenti nel piano delle performance, ma non si conoscono le conseguenze sanzionatorie.
+**Sulla dematerializzazione la strada da percorrere è ancora molta. Il 40 per cento dei documenti originali risulta non essere formato esclusivamente con mezzi informatici. L’87 per cento dei comuni prevede ancora dei procedimenti che hanno bisogno di apposizione di timbri, di firme autografe, di sigle a margine, di bollinature o altre procedure analogiche.** In questo caso esistono degli indicatori e degli obiettivi assegnati ai dirigenti nel piano delle performance, ma non si conoscono le conseguenze sanzionatorie.
 
 |
 |
 
-.. figure:: imgrel/Elaborazione_6.png
+.. figure:: imgrel/Elaborazione_10.png
    :alt: Elaborazione 6
    :align: center
    
@@ -139,14 +169,14 @@ Sulla dematerializzazione la strada da percorrere è ancora molta. Il 40 per cen
 |
 
 .. figure:: imgrel/Elaborazione_7.png
-   :alt: Elaborazione 6
+   :alt: Elaborazione 7
    :align: center
    
 |
 |
 
-.. figure:: imgrel/Elaborazione_8.png
-   :alt: Elaborazione 6
+.. figure:: imgrel/Elaborazione_9.png
+   :alt: Elaborazione 8
    :align: center
    
 |
@@ -157,12 +187,12 @@ Un’altra criticità emersa dal questionario è la scarsa interoperabilità del
 
 Meglio invece sembra essere la trasformazione digitale nei confronti dei cittadini, per quanto riguarda la modalità con cui gli interessati possono esercitare i diritti di cui all’articolo 10 della legge n. 241/1990 sono molto alte, se non la totalità, le percentuali di utilizzo di canali digitali. Sembra essere basso il 26 per cento dei servizi che consentono l’accesso tramite SPID, ma soddisfacente in questa prima fase, in quanto risulta un dato in linea con le PPAA centrali e comunque tale piattaforma vede un’accelerazione avvenuta solamente negli ultimi mesi.
 
-Un ultimo dato allarmante è quello relativo ai risparmi di costo generati dall’utilizzo delle ICT, infatti, se da un lato c’è un positivo 74 per cento dei comuni che ha realizzato dei risparmi, dall’altra parte oltre due terzi degli intervistati non hanno rilevato i risparmi e nemmeno li hanno reinvestiti nella contrattazione del personale, come previsto dall’articolo 15, comma 2-*bis* e 2-ter del CAD.
+**Un ultimo dato allarmante è quello relativo ai risparmi di costo generati dall’utilizzo delle ICT**, infatti, se da un lato c’è un positivo 74 per cento dei comuni che ha realizzato dei risparmi, dall’altra parte oltre due terzi degli intervistati non hanno rilevato i risparmi e nemmeno li hanno reinvestiti nella contrattazione del personale, come previsto dall’articolo 15, comma 2-*bis* e 2-ter del CAD.
 
 |
 |
 
-.. figure:: imgrel/Elaborazione_9.png
+.. figure:: imgrel/Elaborazione_13.png
    :alt: Elaborazione 6
    :align: center
    
