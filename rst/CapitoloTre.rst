@@ -116,7 +116,7 @@ Tale normativa, ha reso la pubblicazione dei dati sugli appalti più corposa e p
    :alt: Figura 1
    :align: center
    
-   Testo figura 1
+   Figura 1
    
 |
 |
@@ -136,6 +136,8 @@ Il dataset consegnato alla Commissione è stato fornito sotto forma di tabella a
 .. figure:: imgrel/fig2.png
    :alt: Figura 2
    :align: center
+   
+   Figura 2
 |
 |
 |
@@ -148,6 +150,8 @@ Le analisi svolte su questi dati sono state suddivise in una serie di macro cate
 .. figure:: imgrel/fig3.png
    :alt: Figura 3
    :align: center
+   
+   Figura 3
 |
 |
 |
@@ -163,6 +167,8 @@ Come introduzione alle analisi è stata raccolta una serie di informazioni di ca
 .. figure:: imgrel/fig4.png
    :alt: Figura 4
    :align: center
+   
+   Figura 4
    
 |
 |
@@ -180,6 +186,8 @@ In tutti e 4 i casi, la tipologia di scelta del contraente utilizzata è stata q
 .. figure:: imgrel/fig5.png
    :alt: Figura 5
    :align: center
+   
+   Figura 5
 |
 |
 |
@@ -195,6 +203,8 @@ Metà delle gare riportate nel dataset sono state aggiudicate allo stesso import
 .. figure:: imgrel/fig6.png
    :alt: Figura 6
    :align: center
+   
+   Figura 6
    
 |
 |
@@ -213,10 +223,14 @@ Segue l’analisi sulle tipologie di scelta del contraente, per numero di gare e
 .. figure:: imgrel/fig7a.png
    :alt: Figura 7a
    :align: center
+   
+   Figura 7a
 |  
 .. figure:: imgrel/fig7b.png
    :alt: Figura 7b
    :align: center
+   
+   Figura 7b
 |
 |
 |  
@@ -251,6 +265,8 @@ Nei grafici che seguono sono stati messi in evidenza gli andamenti di alcune spe
    :alt: Figura 8
    :align: center
    
+   Figura 8
+   
 |
 |
 
@@ -258,12 +274,16 @@ Nei grafici che seguono sono stati messi in evidenza gli andamenti di alcune spe
    :alt: Figura 9
    :align: center
    
+   Figura 9
+   
 |
 |
  
 .. figure:: imgrel/fig10.png
    :alt: Figura 10
    :align: center
+   
+   Figura 10
    
 |
 |
@@ -278,12 +298,16 @@ Le analisi inerenti alle tipologie di gare sono proseguite con una suddivisione 
    :alt: Figura 11
    :align: center
    
+   Figura 11
+   
 | 
 |
 
 .. figure:: imgrel/fig12.png
    :alt: Figura 12
    :align: center
+   
+   Figura 12
 |
 |
 |  
@@ -296,6 +320,8 @@ In Figura 12 è riportato l’andamento delle tipologie di scelta di contraente,
 .. figure:: imgrel/fig13.png
    :alt: Figura 13
    :align: center
+   
+   Figura 13
 |
 |
 | 
@@ -322,6 +348,8 @@ In Figura 14 è possibile visualizzare i risultati.
 .. figure:: imgrel/fig14.png
    :alt: Figura 14
    :align: center
+   
+   Figura 14
 |
 |
 |   
@@ -336,6 +364,8 @@ Un problema riscontrato nel calcolo di questa media è rappresentato dal fatto c
 .. figure:: imgrel/fig15.png
    :alt: Figura 15
    :align: center
+   
+   Figura 15
 |
 |
 |
@@ -351,6 +381,8 @@ All’interno del *dataset* risulta che il 15 per cento delle gare sono state pu
 .. figure:: imgrel/fig16.png
    :alt: Figura 16
    :align: center
+   
+   Figura 16
 |
 |
 |
@@ -364,6 +396,8 @@ I risultati che seguono riguardano l’analisi dei partecipanti alle gare.
 .. figure:: imgrel/fig17.png
    :alt: Figura 17
    :align: center
+   
+   Figura 17
 |
 |
 |   
@@ -378,6 +412,8 @@ Fanno seguito, in ordine decrescente per numero di gare aggiudicate, le principa
 .. figure:: imgrel/fig18.png
    :alt: Figura 18
    :align: center
+   
+   Figura 18
 |
 |
 |   
@@ -394,6 +430,8 @@ In Figura 19, sono invece riportate le aziende che si sono aggiudicate l’impor
 .. figure:: imgrel/fig19.png
    :alt: Figura 19
    :align: center
+   
+   Figura 19
 |
 |
 |   
@@ -411,6 +449,8 @@ L’analisi prosegue con uno studio sulle pubbliche amministrazioni committenti 
 .. figure:: imgrel/fig20.png
    :alt: Figura 20
    :align: center
+   
+   Figura 20
 |
 |
 
@@ -424,12 +464,16 @@ Di seguito è riportata la classifica delle prime dieci Pubbliche Amministrazion
 .. figure:: imgrel/fig21.png
    :alt: Figura 21
    :align: center
+   
+   Figura 21
 |
 |
 
 .. figure:: imgrel/fig22.png
    :alt: Figura 22
    :align: center
+   
+   Figura 22
 |
 |
 | 
@@ -442,6 +486,8 @@ La Figura 22 riporta l’ordine delle tipologie di scelta del contraente delle g
 .. figure:: imgrel/fig23.png
    :alt: Figura 23
    :align: center
+   
+   Figura 23
 |
 |
 | 
@@ -464,6 +510,8 @@ In Figura 24 sono esposti i risultati.
 .. figure:: imgrel/fig24.png
    :alt: Figura 24
    :align: center
+   
+   Figura 24
 |
 |
 | 
@@ -480,6 +528,8 @@ Sulla sinistra della figura sono riportate le pubbliche amministrazioni, Lombard
 .. figure:: imgrel/fig25.png
    :alt: Figura 25
    :align: center
+   
+   Figura 25
 |
 |
 | 
@@ -524,6 +574,8 @@ In questa ultima sezione, le analisi condotte hanno riguardato i fornitori prese
 .. figure:: imgrel/fig26.png
    :alt: Figura 26
    :align: center
+   
+   Figura 26
 |
 |
 | 
@@ -536,6 +588,8 @@ Nella figura 27 possiamo osservare i principali raggruppamenti temporanei d’im
 .. figure:: imgrel/fig27.png
    :alt: Figura 27
    :align: center
+   
+   Figura 27
 |
 |
 |
@@ -550,6 +604,8 @@ Fastweb, non solo si classifica al primo posto nella classifica che indica le vo
 .. figure:: imgrel/fig28.png
    :alt: Figura 28
    :align: center
+   
+   Figura 28
 |
 |
 |
@@ -564,6 +620,8 @@ Nel grafico che segue, analogamente per quanto è stato fatto con le analisi riv
 .. figure:: imgrel/fig29.png
    :alt: Figura 29
    :align: center
+   
+   Figura 29
 |
 |
 |
@@ -579,6 +637,8 @@ Nell'immagine che segue sono riportati i FORNITORI AGGIUDICATARI e le IMPRESE SI
 .. figure:: imgrel/fig30.png
    :alt: Figura 30
    :align: center
+   
+   Figura 30
 |
 |
 |
@@ -595,6 +655,8 @@ Un tema su cui la Commissione ha concentrato parte delle proprie analisi è stat
 .. figure:: imgrel/fig31.png
    :alt: Figura 31
    :align: center
+   
+   Figura 31
 |
 |
 |
@@ -609,6 +671,8 @@ La Figura 32 riassume il numero dei comuni che utilizzano i web services rispett
 .. figure:: imgrel/fig32.png
    :alt: Figura 32
    :align: center
+   
+   Figura 32
 |
 |
 |
@@ -621,6 +685,8 @@ Dal grafico emerge come siano molto basse le percentuali di utilizzo della web a
 .. figure:: imgrel/fig33.png
    :alt: Figura 33
    :align: center
+   
+   Figura 33
 |
 |
 |
@@ -637,6 +703,8 @@ In Figura 34 sono state messe in evidenza le cinque software house più grandi (
 .. figure:: imgrel/fig34.png
    :alt: Figura 34
    :align: center
+   
+   Figura 34
 |
 |
 |
@@ -649,6 +717,8 @@ A conclusione di questa breve analisi generale sul progetto ANPR, le mappe che s
 .. figure:: imgrel/fig35.png
    :alt: Figura 35
    :align: center
+   
+   Figura 35
 |
 |
 |
@@ -669,36 +739,48 @@ Seguono sei mappe, ciascuna rappresentante la distribuzione di una delle sei azi
 .. figure:: imgrel/fig36.png
    :alt: Figura 36
    :align: center
+   
+   Figura 36
 |
 |
 
 .. figure:: imgrel/fig37.png
    :alt: Figura 37
    :align: center
+   
+   Figura 37
 |
 |
 
 .. figure:: imgrel/fig38.png
    :alt: Figura 38
    :align: center
+   
+   Figura 38
 |
 |
 
 .. figure:: imgrel/fig39.png
    :alt: Figura 39
    :align: center
+   
+   Figura 39
 |
 |
 
 .. figure:: imgrel/fig40.png
    :alt: Figura 40
    :align: center
+   
+   Figura 40
 |
 |
 
 .. figure:: imgrel/fig41.png
    :alt: Figura 41
    :align: center
+   
+   Figura 41
 |
 |
 |
@@ -712,6 +794,8 @@ Volendo elaborare le relazioni che intercorrono tra le aziende Maggioli e Studio
 .. figure:: imgrel/fig42.png
    :alt: Figura 42
    :align: center
+   
+   Figura 42
 |
 |
 |
@@ -723,6 +807,8 @@ Il primo *ouput* ci informa che il nodo di sinistra, rappresentante della *softw
 .. figure:: imgrel/fig43.png
    :alt: Figura 43
    :align: center
+   
+   Figura 43
 |
 |
 |
@@ -735,6 +821,8 @@ Una volta che le reti di relazioni delle due aziende sono state espanse, è poss
 .. figure:: imgrel/fig44.png
    :alt: Figura 44
    :align: center
+   
+   Figura 44
 |
 |
 |
@@ -749,6 +837,8 @@ Di conseguenza i territori dove opera la Maggioli aumentano, comprendendo anche 
 .. figure:: imgrel/fig45.png
    :alt: Figura 45
    :align: center
+   
+   Figura 45
 |
 |
 |
@@ -761,6 +851,8 @@ La nuova suddivisione delle software house diventa la seguente:
 .. figure:: imgrel/fig46.png
    :alt: Figura 46
    :align: center
+   
+   Figura 46
 |
 |
 |
@@ -779,6 +871,8 @@ Fanno seguito alcuni screenshot che illustrano alcune delle funzionalità di que
 .. figure:: imgrel/Schermata1.png
    :alt: Schermata1
    :align: center
+   
+   Schermata 1
 |
 |
 |
@@ -795,6 +889,8 @@ Il grafico riportato nella Schermata 2 mostra la suddivisione dei tipi di pubbli
 .. figure:: imgrel/Schermata2.png
    :alt: Schermata2
    :align: center
+   
+   Schermata 2
 |
 |
 |
@@ -807,6 +903,8 @@ La Schermata 3 riporta la *heatmap* geografica dei contratti, dove i colori camb
 .. figure:: imgrel/Schermata3.png
    :alt: Schermata3
    :align: center
+   
+   Schermata 3
 |
 |
 |
@@ -819,6 +917,8 @@ Infine, abbiamo dei grafici che riassumono le categorie merceologiche e le tipol
 .. figure:: imgrel/Schermata4.png
    :alt: Schermata4
    :align: center
+   
+   Schermata 4
 |
 |
 |
@@ -831,6 +931,8 @@ Chiude l’analisi l’elenco di contratti elaborati.
 .. figure:: imgrel/Schermata5.png
    :alt: Schermata5
    :align: center
+   
+   Schermata 5
 |
 |
 |
