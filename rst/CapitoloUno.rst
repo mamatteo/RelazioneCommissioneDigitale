@@ -240,7 +240,6 @@ istitutiva, è articolata in più parti:
      audizione, il relativo pdf del resoconto stenografico.
 
    
-   
    NOTE
    
    .. [1] ec.europa.eu/newsroom/document.cfm?doc_id=43021
