@@ -407,15 +407,12 @@ Per quanto riguarda lo studio della correlazione tra il numero dei partecipanti 
 3.2.6 Analisi sulle pubbliche amministrazioni committenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 L’analisi prosegue con uno studio sulle pubbliche amministrazioni committenti presenti nel dataset.
-|
-|
 
 .. figure:: imgrel/fig20.png
    :alt: Figura 20
    :align: center
 |
 |
-|   
 
 In Figura 20 sono evidenziate le prime dieci pubbliche amministrazioni in ordine decrescente, per totale degli importi messi a bando. Al primo posto risulta Enel Servizi S.R.L., con un totale di 2.691.726.704,00€ messi a bando per servizi ICT, tra gennaio 2011 e settembre 2017.
 
