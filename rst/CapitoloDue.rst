@@ -324,6 +324,8 @@ Per quanto riguarda la dimensione dei servizi pubblici digitali, l’Italia scon
 
 Il Governo prevede di iniziare dal 2017 anche la certificazione dei gestori di attributi qualificati, ossia di quelle istituzioni che sono legittimate ad aggiungere determinate qualifiche, quali certificati accademici o iscrizioni a registri professionali, alle identità elettroniche dei cittadini. Grazie al un numero crescente di adesioni [#]_, si sta diffondendo nelle pubbliche amministrazioni il sistema per i pagamenti *on line* (PagoPA), grazie al quale è possibile saldare dalla tassa di iscrizione scolastica alle multe stradali. Seppure rimane al di sotto delle aspettative il numero delle transazioni, pari attualmente ad appena 1,3 milioni, dalla relazione EDPR si registrano dei miglioramenti, dovuti all’evidenza che la metà delle transazioni effettuate sono state effettuate negli ultimi mesi. D'altra parte, anche il consolidamento dei registri della popolazione locale (ANPR) è ancora in notevole ritardo, considerato che ad oggi soltanto 15 [#]_ dei 7.983 comuni sono operativi nella banca dati nazionale, mentre altri 23 sono in fase sperimentale. Considerato il basso livello di competenze digitali della popolazione italiana, risulta quanto mai fondamentale che sistemi quali pagoPA, SPID e ANPR siano di semplice comprensione ed utilizzo per gli utenti e garantiscano qualità ed efficienza dei servizi.
 
+Sarebbe bello andare all'`Audizione n.1`
+
 --------------
 
 NOTE paragafo 2.8
