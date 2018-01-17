@@ -90,17 +90,16 @@ Il dominio dei dati preso in esame, a cui d’ora in avanti ci riferiremo con il
 
 Di seguito sono riportati i CPV maggiormente presenti all’interno del dataset, in ordine decrescente rispetto al numero di gare che hanno fatto uso del relativo CPV:
 
-|
+- SERVIZI DI MANUTENZIONE E RIPARAZIONE DI SOFTWARE
+- SERVIZI DI ASSISTENZA INFORMATICA E DI SUPPORTO SERVIZI DI SVILUPPO DI SOFTWARE PERSONALIZZATI SERVIZI DI ASSISTENZA SOFTWARE
+- SERVIZI DI SVILUPPO DI SOFTWARE
+- SERVIZI TELEFONICI E DI TRASMISSIONE DATI
+- SERVIZI DI ASSISTENZA TECNICA INFORMATICA
+- MANUTENZIONE DI SOFTWARE DI TECNOLOGIA DELL'INFORMAZIONE SERVIZI CONNESSI AL SOFTWARE
+- SERVIZI DI GESTIONE CONNESSI ALL'INFORMATICA
+- SERVIZI DI FORNITURA DI SOFTWARE            
 
-.. figure:: imgrel/tab3e2e1.png
-   :alt: Tabella 3.2.1
-   :align: center
-   
-   Tabella 3.2.1
-   
-|
-
-Il numero totale di CPV estratti è pari a 692. La lista completa dei CPV è disponibile come documento allegato a questa relazione. 
+Il numero totale di CPV estratti è pari a 692. La lista completa dei CPV è disponibile come documento allegato a questa relazione (Capitolo 7, allegato 6). 
 
 I dati richiesti ad Anac sono stati inviati alla Commissione a più riprese, poiché più volte essi risultavano non allineati o imprecisi e di conseguenza inutilizzabili. La mancanza di un formato adatto all’elaborazione del dataset ha costretto la Commissione ad attendere che quest’ultimo venisse estratto in un formato elaborabile. Inoltre, le frequenti anomalie rilevate sui dati estratti, hanno reso necessario un lungo lavoro di ripulitura del dataset. Le anomalie riscontrate sui dati hanno avuto un carattere sia sintattico che semantico. Nel primo caso, ad esempio, si è riscontato con una certa frequenza la presenza di importi di spesa errati, a causa dell’errata posizione del carattere di separazione della parte decimale; mentre nel secondo caso, sempre a titolo di esempio, alcune colonne recanti delle informazioni erano state cronologicamente invertite. L’individuare queste ed altre tipologie di errore, in un dataset di oltre 30 mila record, ha impegnato per diverso tempo la Commissione, che ha dovuto così posticipare le analisi effettive, dovendosi concentrare sul necessario raffinamento del dataset. Il lavoro di pulizia del dataset è stato svolto in stretta collaborazione con ANAC e ha visto produrre cinque diverse estrazioni dei dati, che hanno così permesso di giungere a quella che è poi stata considerata la versione finale. Rispetto alla versione finale del dataset, la Commissione ha ritenuto significativo estrarre un sottoinsieme dei dati, ovvero esclusivamente quelli inerenti alle gare bandite dal 2011 ad oggi. Il punto di partenza fissato all’anno 2011, è stato scelto poiché rappresenta il periodo temporale immediatamente successivo all’emanazione della normativa sulla tracciabilità dei flussi finanziari, relativa ai contratti di appalto di lavori, forniture e servizi. Tale normativa è contenuta nei seguenti articoli:
 
