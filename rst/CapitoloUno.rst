@@ -172,7 +172,7 @@ amministrazioni sono avvenute sempre tramite apposito indirizzo di posta
 elettronica certificata.
 
 I maggiori comuni italiani sono stato invitati a compilare ad un
-questionario on line sull’attuazione del CAD, i cui risultati sono stati
+questionario on line sull’attuazione del `CAD <http://cad.readthedocs.io/it/ver_2017-12-13/index.html>`_, i cui risultati sono stati
 elaborati in forma aggregata per confrontarli con quelli emersi dalle
 audizioni dei ministeri e di alcune regioni.
 
