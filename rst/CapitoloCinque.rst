@@ -11,11 +11,9 @@ Cap 5 | Le best practice: dove esistono indicatori e misurazioni, la digitalizza
    mare o in volo, e del fascicolo elettronico (in seguito all’approvazione del CDU nel 2016) il 92,6 per cento delle merci viene 
    sdoganato dai principali porti tra i 12 secondi e i 5 minuti (prima dell’introduzione del fascicolo elettronico, la percentuale era 
    invece dell’84,3 per cento).*
-
-  * Un ulteriore esempio virtuoso è dato dalla Provincia autonoma di Trento: in particolare, la legge provinciale n. 16 del 27 luglio 2012 
+   *Un ulteriore esempio virtuoso è dato dalla Provincia autonoma di Trento: in particolare, la legge provinciale n. 16 del 27 luglio 2012 
    ha introdotto il Sistema Informativo Elettronico Trentino (SINET), che gestisce il complesso dei dati e delle informazioni a supporto 
    di tutta la PA del territorio e funge da intermediario tecnologico per quanto riguarda le piattaforme abilitanti nazionali.*
-
    *L’INAIL ha invece elaborato uno strumento per l’attività di monitoraggio sulle forniture che, a partire dal 2013, utilizza un 
    indicatore di vendor rating in grado di elaborare una loro classificazione. Tra gli organismi pagatori del sistema SIAN, il ruolo di 
    AVEPA, l’Agenzia veneta per i pagamenti in agricoltura, che gestisce il 95 per cento delle risorse legate all’agricoltura su delega 
