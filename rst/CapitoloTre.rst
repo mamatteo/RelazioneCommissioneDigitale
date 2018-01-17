@@ -492,11 +492,9 @@ Nella tabella che segue è riportata una parte più ampia della classifica, pres
 |
 
 .. figure:: imgrel/tab3e2e6a.png
-   :alt: Tabella 3.2.1
+   :alt: Tabella 3.2.6 - a
    :align: center
-   
-   Tabella 3.2.6 a
-   
+      
 |
 
 La tabella 3.5 risponde alla domanda su quale siano le pubbliche amministrazioni che impiegano più tempo ad aggiudicare le gare che bandiscono. Nella tabella sono riportate in ordine decrescente le prime trenta amministrazioni, ordinate per il tempo medio, calcolato in giorni, di aggiudicazione di una gara.
@@ -504,11 +502,9 @@ La tabella 3.5 risponde alla domanda su quale siano le pubbliche amministrazioni
 |
 
 .. figure:: imgrel/tab3e2e6b.png
-   :alt: Tabella 3.2.1
+   :alt: Tabella 3.2.6 - b
    :align: center
-   
-   Tabella 3.2.6 a
-   
+      
 |
 
 La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di una gara per i ministeri presenti all’interno del dataset, i cui risultati sono riportati nella tabella seguente e da cui si può dedurre, ancora una volta chi, probabilmente, commette più errori nella comunicazione dei dati ad ANAC.
@@ -516,11 +512,9 @@ La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di 
 |
 
 .. figure:: imgrel/tab3e2e6c.png
-   :alt: Tabella 3.2.1
+   :alt: Tabella 3.2.6 - c
    :align: center
-   
-   Tabella 3.2.6 a
-   
+      
 |
 
 3.2.7 Analisi sui fornitori e sugli aggiudicatari
