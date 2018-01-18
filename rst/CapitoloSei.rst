@@ -2,19 +2,19 @@
 Cap 6 | Le conclusioni
 ================================================
 
-  ABSTRACT | *L’ultimo capitolo è relativo alle conclusioni tratte dalla Commissione in merito al lavoro svolto e
-  riassume le maggiori criticità riscontrate, proponendo al Legislatore possibili soluzioni migliorative. Si
-  evidenziano gli squilibri nei confronti del fornitore a causa della mancanza di competenze
-  dell'amministrazione pubblica. In particolare nel SIAN o nel caso di ANPR, è esemplificativo il problema
-  del lock-in ovvero il meccanismo tramite il quale si crea un ostacolo al cambio di fornitore e quindi una
-  limitazione alla concorrenza. Riguardo al procurement, la proposta è quella di uscire dalla logica del massimo ribasso sul costo dei
-  function point e passare ad una logica di prodotto, con opportune metriche di qualità. Inoltre, l’azione di
-  contrasto alla corruzione si può fortemente potenziare grazie alla semplificazione e validazione del
-  processo di analisi e visualizzazione dei dati, anziché richiederli più volte alle stazioni appaltanti qualora
-  fossero già comunicati o in possesso della PA. L’intenzione di continuare le azioni intraprese negli ultimi anni, rafforzando e       
-  stabilizzando la governance della trasformazione, è la sollecitazione della Commissione nei confronti del Governo e del
-  Parlamento. La Commissione, inoltre, esorta ad aumentare la capacità del Legislatore di eseguire un
-  costante assessment dell’impatto tecnologico sulla normativa.*
+ABSTRACT | *L’ultimo capitolo è relativo alle conclusioni tratte dalla Commissione in merito al lavoro svolto e
+riassume le maggiori criticità riscontrate, proponendo al Legislatore possibili soluzioni migliorative. Si
+evidenziano gli squilibri nei confronti del fornitore a causa della mancanza di competenze
+dell'amministrazione pubblica. In particolare nel SIAN o nel caso di ANPR, è esemplificativo il problema
+del lock-in ovvero il meccanismo tramite il quale si crea un ostacolo al cambio di fornitore e quindi una
+limitazione alla concorrenza. Riguardo al procurement, la proposta è quella di uscire dalla logica del massimo ribasso sul costo dei
+function point e passare ad una logica di prodotto, con opportune metriche di qualità. Inoltre, l’azione di
+contrasto alla corruzione si può fortemente potenziare grazie alla semplificazione e validazione del
+processo di analisi e visualizzazione dei dati, anziché richiederli più volte alle stazioni appaltanti qualora
+fossero già comunicati o in possesso della PA. L’intenzione di continuare le azioni intraprese negli ultimi anni, rafforzando e       
+stabilizzando la governance della trasformazione, è la sollecitazione della Commissione nei confronti del Governo e del
+Parlamento. La Commissione, inoltre, esorta ad aumentare la capacità del Legislatore di eseguire un
+costante assessment dell’impatto tecnologico sulla normativa.*
   
 A conclusione della relazione, appare doveroso tracciare un sintetico bilancio dell’attività svolta nel
 corso della XVII legislatura, per evidenziare alcune principali questioni aperte in materia di
