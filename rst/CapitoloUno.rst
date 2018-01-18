@@ -15,7 +15,7 @@ Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchies
    dei documenti attraverso la modalità 'digital first' e l'articolazione
    della presente relazione.*
  
-`SCARICA IL CAPITOLO 1 IN PDF <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
+here is a pdf file :download:`pdf <rst/Capitolo1.pdf>`
 
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
