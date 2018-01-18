@@ -15,10 +15,8 @@ Cap. 1 | Introduzione all’attività della Commissione Parlamentare d’Inchies
    dei documenti attraverso la modalità 'digital first' e l'articolazione
    della presente relazione.*
  
-------------
-- `SCARICA IL CAPITOLO 1 IN PDF <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
-------------
-   
+`SCARICA IL CAPITOLO 1 IN PDF <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
+
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Da anni l’Italia si trova in coda alla classifica del `Digital Economy and Society Index (DESI) <https://ec.europa.eu/digital-single-market/en/desi>`_
