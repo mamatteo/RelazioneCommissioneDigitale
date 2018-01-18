@@ -85,7 +85,7 @@ Dopo un primo periodo di analisi del contesto di riferimento, assieme alla Centr
 
 
 3.2.1 Il dominio dei dati
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Il dominio dei dati preso in esame, a cui d’ora in avanti ci riferiremo con il termine dataset, è stato fornito alla Commissione dall’Autorità Nazionale Anticorruzione, che ha provveduto ad effettuare un’estrazione specifica dal proprio data warehouse, filtrando esclusivamente i dati afferenti ad una specifica lista di Common Procurement Vocabulary (CPV). Il CPV è il sistema di classificazione per gli appalti pubblici, che identifica i riferimenti utilizzati dalle amministrazioni e dagli enti appaltanti per descrivere l’oggetto dell’appalto. I CPV presi in esame dalla Commissione sono esclusivamente attinenti all’ambito ICT, con un focus particolare sui servizi informatici erogati alla Pubblica Amministrazione.
 
 Di seguito sono riportati i CPV maggiormente presenti all’interno del dataset, in ordine decrescente rispetto al numero di gare che hanno fatto uso del relativo CPV:
@@ -158,7 +158,7 @@ Le analisi svolte su questi dati sono state suddivise in una serie di macro cate
    
 
 3.2.2 Analisi introduttive sui dati
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Come introduzione alle analisi è stata raccolta una serie di informazioni di carattere generale che descrivono il dataset in esame (Figura 4). È importante far notare che già da questa analisi sommaria la differenza tra importi aggiudicati e importi messi a bando è un chiaro indice del fatto che la qualità del dataset è estremamente bassa.
 
 |
@@ -214,7 +214,7 @@ Mentre il numero di Pubbliche Amministrazioni presenti all’interno del *datase
 
 
 3.2.3 Analisi sulle tipologie di scelta del contraente
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Segue l’analisi sulle tipologie di scelta del contraente, per numero di gare e per totale dell’importo aggiudicato.
 
 |
@@ -338,7 +338,7 @@ Le diverse tipologie di scelta del contraente presenti all’interno del dataset
 
 
 3.2.4 Analisi dei tempi delle gare
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Per quanto riguarda l’analisi sui tempi delle gare, la Commissione si è concentrata nello studio di quanto tempo, in media, sia necessario per aggiudicare una gara.
 In Figura 14 è possibile visualizzare i risultati.
  
@@ -388,7 +388,7 @@ All’interno del *dataset* risulta che il 15 per cento delle gare sono state pu
 |
 
 3.2.5 Analisi sui partecipanti alle gare
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 I risultati che seguono riguardano l’analisi dei partecipanti alle gare.
 |
 |
@@ -443,7 +443,7 @@ Al terzo posto compare l’azienda Edil Luca, che, secondo i dati, in una sola g
 Per quanto riguarda lo studio della correlazione tra il numero dei partecipanti e i giorni di pubblicazione delle gare, alla Commissione non risulta nessun legame significativo, riscontrando che per la maggior parte delle tipologie di scelta del contraente le gare si distribuiscono in maniera uniforme dal lunedì al venerdì, con delle piccole quantità di gare svolte durante il weekend. Molte volte, selezionando una specifica tipologia di scelta del contraente, emerge come la maggior parte delle gare bandite o aggiudicate in uno specifico giorno della settimana possieda un solo partecipante. Questo risultato, che avrebbe potuto rivelarsi interessante nell’intento di individuare un rapporto tra *“specifico giorno della settimana”* e *“gare ad un solo partecipante”*, cessa di essere significativo dal momento che la maggior parte delle gare presenti nel dataset è costituito da gare ad un solo partecipante. Appare quindi ovvio che la predominanza di queste gare riemerga nuovamente anche applicando specifici filtri sui dati.
 
 3.2.6 Analisi sulle pubbliche amministrazioni committenti
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 L’analisi prosegue con uno studio sulle pubbliche amministrazioni committenti presenti nel dataset.
 
 .. figure:: imgrel/fig20.png
