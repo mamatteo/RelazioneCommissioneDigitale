@@ -27,7 +27,7 @@ Composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti*, Segret
    CapitoloSei.rst
    
    
-   Allegati
+Allegati
 :::::::::::::::::::::::::::::::::::
 
 .. toctree::
@@ -35,7 +35,7 @@ Composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti*, Segret
 
    CapitoloSette.rst
 
-   Elenco audizioni
+Elenco audizioni
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 .. toctree::
