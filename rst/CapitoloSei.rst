@@ -231,7 +231,7 @@ Il quadro emerso vede livelli molto diversi di attuazione del CAD e della digita
 centro di competenza con compiti di coordinamento. Successivamente, nel 2001, la figura è stata rafforzata, imponendo che fosse indicato un unico ufficio dirigenziale generale e infine, nel settembre 2016, richiedendo specifiche competenze tecnologiche, di informatica giuridica e manageriali e assegnandogli la facoltà di rispondere direttamente all’organo di vertice politico con riferimento ai compiti relativi alla transizione alla modalità digitale. Il Legislatore, quindi, ha inteso, in modo lungimirante, introdurre quello che viene generalmente indicato come *Chief Digital Officer*.
 
 Purtroppo la Commissione ha dovuto prendere atto che le amministrazioni hanno completamente disatteso lo spirito e la volontà del Legislatore e solo in seguito alle ripetute richieste da parte della Commissione si sono ottenuti i primi risultati, anche se, pur richiamando l’articolo 17 del CAD, molte delle nomine non sembrano rispettose della normativa, perché le strutture dirigenziali non sono di tipo generale, mostrando di concepire ancora il digitale come sussidiario e non strategico, oppure per carenza di competenze, deducibile dai curricula vitae degli incaricati. Per quanto riguarda il rispetto degli altri articoli, la Commissione evidenzia come ci sia una sostanziale maggiore attenzione per quelli relativi ai progetti prioritari del Piano Triennale dell’informatica della pubblica
-amministrazione, come SPID e PagoPA, oltre che al processo di dematerializzazione, che comunque non è quasi mai concluso e spesso ha subito una forte accelerazione solo negli ultimi due anni. Le prescrizioni meno applicate sono sicuramente quelle relative all’articolo 15, che intendeva innescare un circolo virtuoso di risparmio e investimento nei progetti di innovazione, ma che, evidentemente,
+amministrazione, come SPID e PagoPA, oltre che al processo di dematerializzazione, che comunque non è quasi mai concluso e spesso ha subito una forte accelerazione solo negli ultimi due anni. Le prescrizioni meno applicate sono sicuramente quelle relative all’`articolo 15 <http://cad.readthedocs.io/it/ver_2017-12-13/capo1_sezione3_art15.html>`_, che intendeva innescare un circolo virtuoso di risparmio e investimento nei progetti di innovazione, ma che, evidentemente,
 quasi nessuno conosce e nessuno applica, come pure risultano sostanzialmente inapplicate le prescrizioni che collegano il CAD al decreto legislativo n. 150 del 2009 relativo ai piani delle performance e alla valutazione, mostrando che anche quella norma viene intesa come mero adempimento e non come strumento di gestione e controllo utile al processo di digitalizzazione della PA.
 
 6.2 Riassunto delle criticità emerse
@@ -361,7 +361,7 @@ capitale umano.
 .. important::
    Una seconda indicazione riguarda il rafforzamento dell’Agenzia per l’Italia Digitale, sia dal punto di
    vista finanziario, sia da quello della dotazione organica, in quanto risulta evidente non riesca a
-   svolgere tutte le funzioni che il CAD le assegna, con particolare riferimento all’articolo 14-bis, comma
+   svolgere tutte le funzioni che il CAD le assegna, con particolare riferimento all’`articolo 14-bis <http://cad.readthedocs.io/it/ver_2017-12-13/capo1_sezione3_art14-bis.html>`_, comma
    2, lettera a) rispetto alla “vigilanza e controllo sul rispetto delle norme di cui al presente Codice”.
 
 La Commissione ritiene anche opportuno che i pareri rilasciati per gli schemi di contratti e accordi
