@@ -88,8 +88,10 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #. Giuseppe Peleggi, direttore dell’Agenzia delle dogane e dei monopoli
     #. Teresa Alvaro, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli
 - Audizione n. 30 – 12 aprile 2017 (Resoconto stenografico n. 26)
-    #. Simona Montesarchio, direttore generale per gli interventi in materia di edilizia scolastica, per la gestione dei fondi strutturali per l’istruzione e per l’innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
-    -#. Lanciotti Valter, docente comandato presso l’ufficio VI Innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
+    #. Simona Montesarchio, direttore generale per gli interventi in materia di edilizia scolastica, per la gestione dei fondi strutturali      
+    per l’istruzione e per l’innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
+    #. Lanciotti Valter, docente comandato presso l’ufficio VI Innovazione digitale del Ministero dell’Istruzione, dell’università e della 
+    ricerca
 - Audizione n. 31 – 20 aprile 2017 (Resoconto stenografico n. 27)
     #. Mario Nobile, responsabile della direzione centrale per i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti
 - Audizione n. 32 – 26 aprile 2017 (Resoconto stenografico n. 28)
