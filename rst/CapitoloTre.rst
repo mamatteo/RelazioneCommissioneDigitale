@@ -2,21 +2,21 @@
 Cap. 3 | L’analisi della spesa per l’informatica nella pubblica amministrazione
 ==================================================
 
-    ABSTRACT | *Il capitolo si apre con l'analisi dei dati di contesto dei costi della spesa per l'informatica nella pubblica
-    amministrazione, stimata per l'Italia in 5,7 miliardi di euro. La cifra è il risultato di una stima, poiché la
-    complessità e la frammentazione rendono particolarmente difficile il calcolo di una spesa esatta. Di tale
-    spesa, Consip ha una capacità di penetrazione limitata al 24 per cento, dovuta all'esistenza nella
-    normativa di facoltà e obblighi molto diversificati e complessi da seguire. Il capitolo mette poi in
-    evidenza una serie di criticità relative agli appalti, emerse nelle audizioni di numerose società di
-    consulenza, dalle quali si è potuto evincere una carenza cronica di competenze nel personale delle
-    pubbliche amministrazioni ed uno scarso controllo sui risultati attesi dai piani triennali. Il capitolo,
-    inoltre, analizza in maniera approfondita le gare d'appalto, attraverso l'elaborazione di dati e slide che
-    spiegano nel dettaglio i diversi tipi e i tempi di aggiudicazione delle gare, le caratteristiche degli
-    aggiudicatari, le tipologie di scelta del contraente e le relazioni tra fornitori e stazioni appaltanti. Il
-    capitolo, inoltre, riporta le analisi sul progetto dell'Anagrafe Nazionale della Popolazione Residente, a
-    partire dai questionari sottoposti ai comuni da parte del Ministero e dedica un paragrafo al tema degli
-    sprechi, con l’esempio dei servizi aggiuntivi a pagamento nella telefonia mobile della PA, dal quale è
-    emerso uno sperpero di oltre otto milioni di euro a partire dal 2012 ai primi mesi del 2017.*
+ABSTRACT | *Il capitolo si apre con l'analisi dei dati di contesto dei costi della spesa per l'informatica nella pubblica
+amministrazione, stimata per l'Italia in 5,7 miliardi di euro. La cifra è il risultato di una stima, poiché la
+complessità e la frammentazione rendono particolarmente difficile il calcolo di una spesa esatta. Di tale
+spesa, Consip ha una capacità di penetrazione limitata al 24 per cento, dovuta all'esistenza nella
+normativa di facoltà e obblighi molto diversificati e complessi da seguire. Il capitolo mette poi in
+evidenza una serie di criticità relative agli appalti, emerse nelle audizioni di numerose società di
+consulenza, dalle quali si è potuto evincere una carenza cronica di competenze nel personale delle
+pubbliche amministrazioni ed uno scarso controllo sui risultati attesi dai piani triennali. Il capitolo,
+inoltre, analizza in maniera approfondita le gare d'appalto, attraverso l'elaborazione di dati e slide che
+spiegano nel dettaglio i diversi tipi e i tempi di aggiudicazione delle gare, le caratteristiche degli
+aggiudicatari, le tipologie di scelta del contraente e le relazioni tra fornitori e stazioni appaltanti. Il
+capitolo, inoltre, riporta le analisi sul progetto dell'Anagrafe Nazionale della Popolazione Residente, a
+partire dai questionari sottoposti ai comuni da parte del Ministero e dedica un paragrafo al tema degli
+sprechi, con l’esempio dei servizi aggiuntivi a pagamento nella telefonia mobile della PA, dal quale è
+emerso uno sperpero di oltre otto milioni di euro a partire dal 2012 ai primi mesi del 2017.*
 
 ------------
 
