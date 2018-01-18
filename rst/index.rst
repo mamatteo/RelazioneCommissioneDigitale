@@ -9,8 +9,6 @@ Composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti*, Segret
 *Comunicata alla Presidenza della Camera dei deputati il 26 ottobre 2017 ai sensi dell'articolo 2, comma 5, della deliberazione della Camera dei deputati del 14 giugno 2016*
 
 
-File
-:::::::::::::::::::::::::::::::::::
 ------------
 
 - `SCARICA LA RELAZIONE IN PDF <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
@@ -18,8 +16,6 @@ File
 
 ------------
 
-Relazione
-:::::::::::::::::::::::::::::::::::
 
 .. toctree::
    :maxdepth: 3
