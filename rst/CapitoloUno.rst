@@ -144,7 +144,7 @@ finalizzato a conseguire elevati livelli di occupazione, produttività e
 coesione sociale, sia strettamente legato alla sua crescita digitale.
 
 1.2.1 Le audizioni e i soprallughi
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le audizioni svoltesi nel corso delle sedute plenarie sono state
 finalizzate ad abbracciare l’intero arco dei temi posti ad oggetto
@@ -161,7 +161,7 @@ audizioni e dei relativi partecipanti può essere consultato al capitolo
    Commissione ha effettuato un solo sopralluogo, presso il centro di elaborazione dati di Sogei a Roma.
 
 1.2.2 Le acquisizioni di documenti
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La Commissione ha acquisito una grande mole di documentazione durante le
 audizioni e mediante richieste dirette a enti pubblici e privati, e, fin
@@ -188,7 +188,7 @@ dichiarati liberi sono stati pubblicati sul sito della Camera.
   completamente *paperless* nella storia dell’amministrazione della Camera.
 
 1.2.3 La relazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 La relazione, elaborata ai sensi dell’articolo 2, comma 5 della delibera
 istitutiva, è articolata in più parti:
 
