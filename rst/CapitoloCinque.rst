@@ -3,26 +3,25 @@ Cap 5 | Le best practice: dove esistono indicatori e misurazioni, la digitalizza
 ======================================================
 
 
-   ABSTRACT | *La digitalizzazione nella PA ottiene i migliori risultati in termini di risparmio, efficientamento e servizi ai cittadini, quando è 
-   soggetta a indicatori e misurazioni e dove la transizione verso la modalità digitale ha un profondo impatto sui processi, non 
-   limitandosi unicamente alla semplice dematerializzazione dei documenti cartacei. A questo riguardo la Commissione ha individuato, senza 
-   la pretesa che si tratti di un elenco esclusivo, alcune best practice. L’Agenzia delle dogane e dei monopoli è risultata essere un 
-   esempio molto virtuoso. Grazie all’introduzione dello sportello unico nel 2011, che ha consentito il pre-clearing, lo sdoganamento in 
-   mare o in volo, e del fascicolo elettronico (in seguito all’approvazione del CDU nel 2016) il 92,6 per cento delle merci viene 
-   sdoganato dai principali porti tra i 12 secondi e i 5 minuti (prima dell’introduzione del fascicolo elettronico, la percentuale era 
-   invece dell’84,3 per cento).*
-   *Un ulteriore esempio virtuoso è dato dalla Provincia autonoma di Trento: in particolare, la legge provinciale n. 16 del 27 luglio 2012 
-   ha introdotto il Sistema Informativo Elettronico Trentino (SINET), che gestisce il complesso dei dati e delle informazioni a supporto 
-   di tutta la PA del territorio e funge da intermediario tecnologico per quanto riguarda le piattaforme abilitanti nazionali.*
-   *L’INAIL ha invece elaborato uno strumento per l’attività di monitoraggio sulle forniture che, a partire dal 2013, utilizza un 
-   indicatore di vendor rating in grado di elaborare una loro classificazione. Tra gli organismi pagatori del sistema SIAN, il ruolo di 
-   AVEPA, l’Agenzia veneta per i pagamenti in agricoltura, che gestisce il 95 per cento delle risorse legate all’agricoltura su delega 
-   della Regione Veneto, i fondi FEAGA, FESR e il PSR (Programma di Sviluppo Rurale, va segnalato per competenze e funzionamento). In 
-   particolare, il management di AVEPA considera di fondamentale importanza la gestione del rapporto con il fornitore in ogni passo, anche 
-   dopo l’aggiudicazione della gara e dedica a questa funzione un dirigente ICT con relativo staff. Nell’ambito del sostegno al Piano 
-   triennale per l’Informatica nella Pubblica Amministrazione sviluppato da AgID, il Team per la trasformazione digitale ha messo a degli 
-   operatori delle diverse PPAA, di AgID e dello stesso Team, un set di strumenti che consente di condividere le esperienze migliori ma 
-   anche di avere chiarimenti immediati nel merito dei diversi aspetti del Piano triennale.*
+ABSTRACT | *La digitalizzazione nella PA ottiene i migliori risultati in termini di risparmio, efficientamento e servizi ai cittadini, quando è soggetta a indicatori e misurazioni e dove la transizione verso la modalità digitale ha un profondo impatto sui processi, non 
+limitandosi unicamente alla semplice dematerializzazione dei documenti cartacei. A questo riguardo la Commissione ha individuato, senza 
+la pretesa che si tratti di un elenco esclusivo, alcune best practice. L’Agenzia delle dogane e dei monopoli è risultata essere un 
+esempio molto virtuoso. Grazie all’introduzione dello sportello unico nel 2011, che ha consentito il pre-clearing, lo sdoganamento in 
+mare o in volo, e del fascicolo elettronico (in seguito all’approvazione del CDU nel 2016) il 92,6 per cento delle merci viene 
+sdoganato dai principali porti tra i 12 secondi e i 5 minuti (prima dell’introduzione del fascicolo elettronico, la percentuale era 
+invece dell’84,3 per cento).*
+*Un ulteriore esempio virtuoso è dato dalla Provincia autonoma di Trento: in particolare, la legge provinciale n. 16 del 27 luglio 2012 
+ha introdotto il Sistema Informativo Elettronico Trentino (SINET), che gestisce il complesso dei dati e delle informazioni a supporto 
+di tutta la PA del territorio e funge da intermediario tecnologico per quanto riguarda le piattaforme abilitanti nazionali.*
+*L’INAIL ha invece elaborato uno strumento per l’attività di monitoraggio sulle forniture che, a partire dal 2013, utilizza un 
+indicatore di vendor rating in grado di elaborare una loro classificazione. Tra gli organismi pagatori del sistema SIAN, il ruolo di 
+AVEPA, l’Agenzia veneta per i pagamenti in agricoltura, che gestisce il 95 per cento delle risorse legate all’agricoltura su delega 
+della Regione Veneto, i fondi FEAGA, FESR e il PSR (Programma di Sviluppo Rurale, va segnalato per competenze e funzionamento). In 
+particolare, il management di AVEPA considera di fondamentale importanza la gestione del rapporto con il fornitore in ogni passo, anche 
+dopo l’aggiudicazione della gara e dedica a questa funzione un dirigente ICT con relativo staff. Nell’ambito del sostegno al Piano 
+triennale per l’Informatica nella Pubblica Amministrazione sviluppato da AgID, il Team per la trasformazione digitale ha messo a degli 
+operatori delle diverse PPAA, di AgID e dello stesso Team, un set di strumenti che consente di condividere le esperienze migliori ma 
+anche di avere chiarimenti immediati nel merito dei diversi aspetti del Piano triennale.*
 
 
 **Nel corso dell’inchiesta condotta dalla Commissione è risultato evidente come la digitalizzazione nella pubblica amministrazione ottenga i maggiori risultati, in termini di risparmio, efficientamento e servizi ai cittadini, quando è soggetta a indicatori e misurazioni e, più in generale, dove la transizione verso la modalità digitale ha impattato fortemente il processo, non limitandosi unicamente alla semplice dematerializzazione dei documenti cartacei.** Durante le audizioni condotte dalla Commissione sono emersi diversi esempi virtuosi, *best practice* che meritano un approfondimento, affinché possano svolgere una funzione di esempio e di stimolo nei confronti di quei settori della pubblica amministrazione che ancora stentano verso la digitalizzazione.
