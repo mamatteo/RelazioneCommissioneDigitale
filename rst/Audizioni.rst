@@ -69,39 +69,39 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #. Alvaro Teresa, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli 
 - Audizione n. 24 – *22 marzo 2017* - (`Resoconto stenografico n. 20 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/22/leg.17.stencomm.data20170322.U1.com73.audiz2.audizione.0020.pdf>`_)
     #. Vincenzo Damato, direttore della direzione centrale organizzazione e sistemi informativi dell’INPS
-- Audizione n. 25 – *28 marzo 2017* - (Resoconto stenografico n. 21)
+- Audizione n. 25 – *28 marzo 2017* - (`Resoconto stenografico n. 21 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/28/leg.17.stencomm.data20170328.U1.com73.audiz2.audizione.0021.pdf>`_)
     #. Domenico Vulpiani, responsabile della transizione alla modalità operativa digitale del Ministero dell’interno
     #. Antonina Coduti, difensore civico digitale del Ministero dell’interno
-- Audizione n. 26 – *29 marzo 2017* - (Resoconto stenografico n. 22)
+- Audizione n. 26 – *29 marzo 2017* - (`Resoconto stenografico n. 22 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/29/leg.17.stencomm.data20170329.U1.com73.audiz2.audizione.0022.pdf>`_)
     #. Gianna Barbieri, direttore generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. Paolo De Santis, dirigente ufficio per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. Daniele Livon, direttore generale per la programmazione, il coordinamento e il finanziamento delle istituzioni della formazione superiore del Ministero dell’istruzione, dell’università e della ricerca
     #.  Rosario Riccio, dirigente ufficio servizi infrastrutturali di rete del Ministero dell’istruzione, dell’università e della ricerca
-- Audizione n. 27 – *4 aprile 2017* - (Resoconto stenografico n. 23)
+- Audizione n. 27 – *4 aprile 2017* - (`Resoconto stenografico n. 23 <http://www.camera.it/leg17/1058?idLegislatura=17&tipologia=audiz2&sottotipologia=audizione&anno=2017&mese=04&giorno=04&idCommissione=73&numero=0023&file=indice_stenografico>`_)
     #. Stefano Tomasini , responsabile della direzione centrale organizzazione digitale dell’INAIL
     #. Francesco Saverio Colasuonno, dirigente ufficio Demand e Processi digitali dell’INAIL
-- Audizione n. 28 – *5 aprile 2017* - (Resoconto stenografico n. 24)
+- Audizione n. 28 – *5 aprile 2017* - (`Resoconto stenografico n. 24 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/04/05/leg.17.stencomm.data20170405.U1.com73.audiz2.audizione.0024.pdf>`_)
     #. Paolo Aielli, amministratore delegato dell’Istituto Poligrafico e Zecca dello Stato
     #. Maurizio Quattrociocchi, responsabile della direzione sistemi informativi e soluzioni integrate dell’Istituto Poligrafico e Zecca dello Stato
-- Audizione n. 29 – *11 aprile 2017* - (Resoconto stenografico n. 25) (seguito audizione n. 23 del 21 marzo 2017)
+- Audizione n. 29 – *11 aprile 2017* - (`Resoconto stenografico n. 25 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/04/11/leg.17.stencomm.data20170411.U1.com73.audiz2.audizione.0025.pdf>`_) (seguito audizione n. 23 del 21 marzo 2017)
     #. Giuseppe Peleggi, direttore dell’Agenzia delle dogane e dei monopoli
     #. Teresa Alvaro, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli
-- Audizione n. 30 – *12 aprile 2017* - (Resoconto stenografico n. 26)
+- Audizione n. 30 – *12 aprile 2017* - (`Resoconto stenografico n. 26 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/04/12/leg.17.stencomm.data20170412.U1.com73.audiz2.audizione.0026.pdf>`_) 
     #. Simona Montesarchio, direttore generale per gli interventi in materia di edilizia scolastica, per la gestione dei fondi strutturali      
     per l’istruzione e per l’innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
     #. Lanciotti Valter, docente comandato presso l’ufficio VI Innovazione digitale del Ministero dell’Istruzione, dell’università e della 
     ricerca
-- Audizione n. 31 – *20 aprile 2017* - (Resoconto stenografico n. 27)
+- Audizione n. 31 – *20 aprile 2017* - (`Resoconto stenografico n. 27 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/04/20/leg.17.stencomm.data20170420.U1.com73.audiz2.audizione.0027.pdf>`_) 
     #. Mario Nobile, responsabile della direzione centrale per i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti
-- Audizione n. 32 – *26 aprile 2017* - (Resoconto stenografico n. 28)
+- Audizione n. 32 – *26 aprile 2017* - (`Resoconto stenografico n. 28 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/04/26/leg.17.stencomm.data20170426.U1.com73.audiz2.audizione.0028.pdf>`_) 
     #. Paolo Panontin, coordinatore della commissione speciale agenda digitale della Conferenza delle regioni e delle province autonome
     #. Luca Gastaldi, responsabile osservatorio agende digitali del Politecnico di Milano
     #. Dimitri Tartari, coordinatore tecnico della speciale agenda digitale della Conferenza delle regioni e delle province autonome
-- Audizione n. 33 – *4 maggio 2017* - (Resoconto stenografico n. 29)
+- Audizione n. 33 – *4 maggio 2017* - (`Resoconto stenografico n. 29 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/04/leg.17.stencomm.data20170504.U1.com73.audiz2.audizione.0029.pdf>`_) 
     #. Maurizio Girolamo Vitelli, responsabile della direzione centrale per la motorizzazione del Ministero delle infrastrutture e dei trasporti
     #. Alessandro Calchetti, direttore del CED del Ministero delle infrastrutture e dei trasporti
     #. Pasquale D’Anzi, direttore dell’ufficio di coordinamento del capo dipartimento trasporti del Ministero delle infrastrutture e dei trasporti
-- Audizione n. 34 – *10 maggio 2017* - (Resoconto stenografico n. 30) (seguito audizione n. 33 del 4 maggio 2017)
+- Audizione n. 34 – *10 maggio 2017* - (`Resoconto stenografico n. 30 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/10/leg.17.stencomm.data20170510.U1.com73.audiz2.audizione.0030.pdf>`_)  (seguito audizione n. 33 del 4 maggio 2017)
     #. Maurizio Girolamo Vitelli, responsabile della direzione centrale per la motorizzazione del Ministero delle infrastrutture e dei trasporti
     #. Pasquale D’Anzi, direttore dell’ufficio di coordinamento del capo dipartimento trasporti del Ministero delle infrastrutture e dei trasporti
 - Audizione n. 35 – *4 maggio 2017* - (Resoconto stenografico n. 31)
