@@ -25,5 +25,20 @@ Composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti*, Segret
    CapitoloQuattro.rst
    CapitoloCinque.rst
    CapitoloSei.rst
+   
+   
+   Allegati
+:::::::::::::::::::::::::::::::::::
+
+.. toctree::
+   :maxdepth: 3
+
    CapitoloSette.rst
+
+   Elenco audizioni
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+.. toctree::
+   :maxdepth: 3
+
    Audizioni.rst
