@@ -22,106 +22,107 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
 - Audizione n. 6 – 11 gennaio 2017 (`Resoconto stenografico n. 5 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/11/leg.17.stencomm.data20170111.U1.com73.audiz2.audizione.0005.pdf>`_)
     #.      Guido Rey, ex presidente dell’AIPA
 
-Audizione n. 7 – 11 gennaio 2017 (Resoconto stenografico n. 5)
-12.  Alberto Zuliani, ex presidente dell’AIPA
-Audizione n. 8 – 17 gennaio 2017 (Resoconto stenografico n. 6)
-13.  Carlo Batini, ex presidente dell’AIPA
-Audizione n. 9 – 17 gennaio 2017 (Resoconto stenografico n. 6)
-14.  Livio Zoffoli, ex presidente del CNIPA
-       Audizione n. 10 – 17 gennaio 2017 (Resoconto stenografico n. 6)
-15.  Fabio Pistella, ex presidente del CNIPA
-Audizione n. 11 – 24 gennaio 2017 (Resoconto stenografico n. 7)
-16.  Francesco Beltrame, ex presidente di DigitPA
-Audizione n. 12 – 24 gennaio 2017 (Resoconto stenografico n. 7)
-17.  Agostino Ragosa, ex direttore generale di AgID
-Audizione n. 13 – 26 gennaio 2017 (Resoconto stenografico n. 8)
-18.  Francesco Caio, ex commissario del Governo per l’attuazione dell’agenda digitale
-19.  Anna Pia Sassano, ex membro della struttura di missione per l’attuazione dell’agenda digitale
-Audizione n. 14 – 1° febbraio 2017 (seguito audizione n. 12 del 26 gennaio 2017) (Resoconto stenografico n. 9)
-20.  Agostino Ragosa, ex direttore generale di AgID
-Audizione n. 15 – 1° febbraio 2017 (Resoconto stenografico n. 10)
-21.  Alessandra Poggiani, ex direttore generale di AgID
-Audizione n. 16 – 7 febbraio 2017 (Resoconto stenografico n. 11)
-22.  Antonio Samaritani, direttore generale di AgID
-23.  Maria Pia Giovannini, responsabile area pubblica amministrazione di AgID
-24.  Francesco Tortorelli, dirigente responsabile area architetture, standard e infrastrutture di AgID
-
-Audizione n. 17 – 15 febbraio 2017 (Resoconto stenografico n. 12)
-25.  Diego Piacentini, commissario straordinario del Governo per l’attuazione dell’agenda digitale
-Audizione n. 18 – 21 febbraio 2017 (Resoconto stenografico n. 13)
-26.  Cristiano Cannarsa, presidente e amministratore delegato di Sogei
-Audizione n. 19 – 8 marzo 2017 (Resoconto stenografico n. 15)
-27.  Paride Gullini, presidente di ANUSCA
-28.  Romano Minardi, rappresentante del comune di Bagnacavallo
-29.  Patrizia Saggini, rappresentante del comune di Anzola dell’Emilia
-Audizione n. 20 – 14 marzo 2017 (Resoconto stenografico n. 16)
-30.  Paolo D’Attilio, direttore centrale per i servizi demografici del Ministero dell’interno
-31.  Antonio Natali, dirigente in posizione di staff dell’ufficio studi e legislazione del dipartimento per gli affari interni e territoriali del Ministero dell’interno
-32.  Raffaele Sarnataro, dirigente servizio VI della direzione centrale per i servizi demografici del Ministero dell’interno
-Audizione n. 21 – 15 marzo 2017 (Resoconto stenografico n. 17)
-33.  Antonio Colaianni, direttore centrale per le risorse finanziare e strumentali del Ministero dell’interno
-34.  Enza Maria Leone, viceprefetto
-Audizione n. 22 – 15 marzo 2017 (Resoconto stenografico n. 18)
-35.  Antonella Galdi, vicesegretaria generale dell’ANCI
-36.  Moira Benelli, ufficio servizi e tecnologie, agenda digitale e statistica ANCI
-37.  Paolo Boscolo, responsabile gestione infrastruttura ICT Comune di Prato
-38.  Benedetta Squittieri, assessore al comune di Prato
-Audizione n. 23 – 21 marzo 2017 (Resoconto stenografico n. 19)
-39.  Giuseppe Peleggi, direttore dell’Agenzia delle dogane e dei monopoli
-40.  Alvaro Teresa, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli 
-Audizione n. 24 – 22 marzo 2017 (Resoconto stenografico n. 20)
-41.  Vincenzo Damato, direttore della direzione centrale organizzazione e sistemi informativi dell’INPS
-Audizione n. 25 – 28 marzo 2017 (Resoconto stenografico n. 21)
-42.  Domenico Vulpiani, responsabile della transizione alla modalità operativa digitale del Ministero dell’interno
-43.  Antonina Coduti, difensore civico digitale del Ministero dell’interno
-Audizione n. 26 – 29 marzo 2017 (Resoconto stenografico n. 22)
-44.  Gianna Barbieri, direttore generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
-45.  Paolo De Santis, dirigente ufficio per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
-46.  Daniele Livon, direttore generale per la programmazione, il coordinamento e il finanziamento delle istituzioni della formazione superiore del Ministero dell’istruzione, dell’università e della ricerca
-47.  Rosario Riccio, dirigente ufficio servizi infrastrutturali di rete del Ministero dell’istruzione, dell’università e della ricerca
-Audizione n. 27 – 4 aprile 2017 (Resoconto stenografico n. 23)
-48.  Stefano Tomasini , responsabile della direzione centrale organizzazione digitale dell’INAIL
-49.  Francesco Saverio Colasuonno, dirigente ufficio Demand e Processi digitali dell’INAIL
-Audizione n. 28 – 5 aprile 2017 (Resoconto stenografico n. 24)
-50.  Paolo Aielli, amministratore delegato dell’Istituto Poligrafico e Zecca dello Stato
-51.  Maurizio Quattrociocchi, responsabile della direzione sistemi informativi e soluzioni integrate dell’Istituto Poligrafico e Zecca dello Stato
-Audizione n. 29 – 11 aprile 2017 (Resoconto stenografico n. 25) (seguito audizione n. 23 del 21 marzo 2017)
-52.  Giuseppe Peleggi, direttore dell’Agenzia delle dogane e dei monopoli
-53.  Teresa Alvaro, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli
-Audizione n. 30 – 12 aprile 2017 (Resoconto stenografico n. 26)
-54. Simona Montesarchio, direttore generale per gli interventi in materia di edilizia scolastica, per la gestione dei fondi strutturali per l’istruzione e per l’innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
-55.  Lanciotti Valter, docente comandato presso l’ufficio VI Innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
-Audizione n. 31 – 20 aprile 2017 (Resoconto stenografico n. 27)
-56.  Mario Nobile, responsabile della direzione centrale per i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti
- Audizione n. 32 – 26 aprile 2017 (Resoconto stenografico n. 28)
-57. Paolo Panontin, coordinatore della commissione speciale agenda digitale della Conferenza delle regioni e delle province autonome
-58.    Luca Gastaldi, responsabile osservatorio agende digitali del Politecnico di Milano
-59.  Dimitri Tartari, coordinatore tecnico della speciale agenda digitale della Conferenza delle regioni e delle province autonome
-Audizione n. 33 – 4 maggio 2017 (Resoconto stenografico n. 29)
-60.  Maurizio Girolamo Vitelli, responsabile della direzione centrale per la motorizzazione del Ministero delle infrastrutture e dei trasporti
-61.  Alessandro Calchetti, direttore del CED del Ministero delle infrastrutture e dei trasporti
-62.  Pasquale D’Anzi, direttore dell’ufficio di coordinamento del capo dipartimento trasporti del Ministero delle infrastrutture e dei trasporti
-Audizione n. 34 – 10 maggio 2017 (Resoconto stenografico n. 30) (seguito audizione n. 33 del 4 maggio 2017)
-63.  Maurizio Girolamo Vitelli, responsabile della direzione centrale per la motorizzazione del Ministero delle infrastrutture e dei trasporti
-64.  Pasquale D’Anzi, direttore dell’ufficio di coordinamento del capo dipartimento trasporti del Ministero delle infrastrutture e dei trasporti
-Audizione n. 35 – 4 maggio 2017 (Resoconto stenografico n. 31)
-65.  Giuseppe Cacopardi, responsabile della direzione generale degli affari generali, delle risorse umane e per i rapporti con le regioni e gli enti territoriali del Ministero delle politiche agricole, alimentari e forestali
-66.  Alessandro Ferraro, dirigente responsabile Agret II – SIAN, coordinamento ICT e informazione del Ministero delle politiche agricole, alimentari e forestali
-Audizione n. 36 – 16 maggio 2017 (Resoconto stenografico n. 32)
-67.  Gabriele Papa Pagliardini, direttore di Agea
-68.  Maurizio Salvi, dirigente di Agea
-69.  Renzo Lolli, dirigente di Agea
-Audizione n. 37 – 17 maggio 2017 (Resoconto stenografico n. 33)
-70.  Angelo Sticchi Damiani, presidente di ACI Informatica
-71.  Mauro Minenna, direttore generale di ACI Informatica Spa
-72.  Vincenzo Pensa, direttore direzione sistemi informativi ed innovazione ACI
-Audizione n. 38 – 23 maggio 2017 (Resoconto stenografico n. 34)
-73.  Concetta Lo Conte, direttore dell’area amministrazione di Agea
-Audizione n. 39 – 23 maggio 2017 (Resoconto stenografico n. 34)
-74.  Speranzina De Matteo, presidente di SIN
-Audizione n. 40 – 24 maggio 2017 (Resoconto stenografico n. 35)
-75.  Renato Di Donna, direttore progetti per la PA di Consip
-76.  Roberto Bettacchi, responsabile cliente Agea di Consip
+- Audizione n. 7 – 11 gennaio 2017 (Resoconto stenografico n. 5)
+    #.  Alberto Zuliani, ex presidente dell’AIPA
+- Audizione n. 8 – 17 gennaio 2017 (Resoconto stenografico n. 6)
+    #.  Carlo Batini, ex presidente dell’AIPA
+- Audizione n. 9 – 17 gennaio 2017 (Resoconto stenografico n. 6)
+    #.  Livio Zoffoli, ex presidente del CNIPA
+- Audizione n. 10 – 17 gennaio 2017 (Resoconto stenografico n. 6)
+    #. Fabio Pistella, ex presidente del CNIPA
+- Audizione n. 11 – 24 gennaio 2017 (Resoconto stenografico n. 7)
+    #. Francesco Beltrame, ex presidente di DigitPA
+- Audizione n. 12 – 24 gennaio 2017 (Resoconto stenografico n. 7)
+    #. Agostino Ragosa, ex direttore generale di AgID
+- Audizione n. 13 – 26 gennaio 2017 (Resoconto stenografico n. 8)
+    #. Francesco Caio, ex commissario del Governo per l’attuazione dell’agenda digitale
+    #. Anna Pia Sassano, ex membro della struttura di missione per l’attuazione dell’agenda digitale
+- Audizione n. 14 – 1° febbraio 2017 (seguito audizione n. 12 del 26 gennaio 2017) (Resoconto stenografico n. 9)
+    #. Agostino Ragosa, ex direttore generale di AgID
+- Audizione n. 15 – 1° febbraio 2017 (Resoconto stenografico n. 10)
+    #. Alessandra Poggiani, ex direttore generale di AgID
+- Audizione n. 16 – 7 febbraio 2017 (Resoconto stenografico n. 11)
+    #. Antonio Samaritani, direttore generale di AgID
+    #. Maria Pia Giovannini, responsabile area pubblica amministrazione di AgID
+    #. Francesco Tortorelli, dirigente responsabile area architetture, standard e infrastrutture di AgID
+- Audizione n. 17 – 15 febbraio 2017 (Resoconto stenografico n. 12)
+    #. Diego Piacentini, commissario straordinario del Governo per l’attuazione dell’agenda digitale
+- Audizione n. 18 – 21 febbraio 2017 (Resoconto stenografico n. 13)
+    #. Cristiano Cannarsa, presidente e amministratore delegato di Sogei
+- Audizione n. 19 – 8 marzo 2017 (Resoconto stenografico n. 15)
+    #. Paride Gullini, presidente di ANUSCA
+    #. Romano Minardi, rappresentante del comune di Bagnacavallo
+    #. Patrizia Saggini, rappresentante del comune di Anzola dell’Emilia
+- Audizione n. 20 – 14 marzo 2017 (Resoconto stenografico n. 16)
+    #. Paolo D’Attilio, direttore centrale per i servizi demografici del Ministero dell’interno
+    #. Antonio Natali, dirigente in posizione di staff dell’ufficio studi e legislazione del dipartimento per gli affari interni e territoriali del Ministero dell’interno
+    #. Raffaele Sarnataro, dirigente servizio VI della direzione centrale per i servizi demografici del Ministero dell’interno
+- Audizione n. 21 – 15 marzo 2017 (Resoconto stenografico n. 17)
+    #. Antonio Colaianni, direttore centrale per le risorse finanziare e strumentali del Ministero dell’interno
+    #. Enza Maria Leone, viceprefetto
+- Audizione n. 22 – 15 marzo 2017 (Resoconto stenografico n. 18)
+    #. Antonella Galdi, vicesegretaria generale dell’ANCI
+    #. Moira Benelli, ufficio servizi e tecnologie, agenda digitale e statistica ANCI
+    #. Paolo Boscolo, responsabile gestione infrastruttura ICT Comune di Prato
+    #. Benedetta Squittieri, assessore al comune di Prato
+- Audizione n. 23 – 21 marzo 2017 (Resoconto stenografico n. 19)
+    #. Giuseppe Peleggi, direttore dell’Agenzia delle dogane e dei monopoli
+    #. Alvaro Teresa, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli 
+- Audizione n. 24 – 22 marzo 2017 (Resoconto stenografico n. 20)
+    #. Vincenzo Damato, direttore della direzione centrale organizzazione e sistemi informativi dell’INPS
+- Audizione n. 25 – 28 marzo 2017 (Resoconto stenografico n. 21)
+    #. Domenico Vulpiani, responsabile della transizione alla modalità operativa digitale del Ministero dell’interno
+    #. Antonina Coduti, difensore civico digitale del Ministero dell’interno
+- Audizione n. 26 – 29 marzo 2017 (Resoconto stenografico n. 22)
+    #. Gianna Barbieri, direttore generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
+    #. Paolo De Santis, dirigente ufficio per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
+    #. Daniele Livon, direttore generale per la programmazione, il coordinamento e il finanziamento delle istituzioni della formazione superiore del Ministero dell’istruzione, dell’università e della ricerca
+    #.  Rosario Riccio, dirigente ufficio servizi infrastrutturali di rete del Ministero dell’istruzione, dell’università e della ricerca
+- Audizione n. 27 – 4 aprile 2017 (Resoconto stenografico n. 23)
+    #. Stefano Tomasini , responsabile della direzione centrale organizzazione digitale dell’INAIL
+    #. Francesco Saverio Colasuonno, dirigente ufficio Demand e Processi digitali dell’INAIL
+- Audizione n. 28 – 5 aprile 2017 (Resoconto stenografico n. 24)
+    #. Paolo Aielli, amministratore delegato dell’Istituto Poligrafico e Zecca dello Stato
+    #. Maurizio Quattrociocchi, responsabile della direzione sistemi informativi e soluzioni integrate dell’Istituto Poligrafico e Zecca dello Stato
+- Audizione n. 29 – 11 aprile 2017 (Resoconto stenografico n. 25) (seguito audizione n. 23 del 21 marzo 2017)
+    #. Giuseppe Peleggi, direttore dell’Agenzia delle dogane e dei monopoli
+    #. Teresa Alvaro, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli
+- Audizione n. 30 – 12 aprile 2017 (Resoconto stenografico n. 26)
+    #. Simona Montesarchio, direttore generale per gli interventi in materia di edilizia scolastica, per la gestione dei fondi strutturali per l’istruzione e per l’innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
+    -#. Lanciotti Valter, docente comandato presso l’ufficio VI Innovazione digitale del Ministero dell’Istruzione, dell’università e della ricerca
+- Audizione n. 31 – 20 aprile 2017 (Resoconto stenografico n. 27)
+    #. Mario Nobile, responsabile della direzione centrale per i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti
+- Audizione n. 32 – 26 aprile 2017 (Resoconto stenografico n. 28)
+    #. Paolo Panontin, coordinatore della commissione speciale agenda digitale della Conferenza delle regioni e delle province autonome
+    #. Luca Gastaldi, responsabile osservatorio agende digitali del Politecnico di Milano
+    #. Dimitri Tartari, coordinatore tecnico della speciale agenda digitale della Conferenza delle regioni e delle province autonome
+- Audizione n. 33 – 4 maggio 2017 (Resoconto stenografico n. 29)
+    #. Maurizio Girolamo Vitelli, responsabile della direzione centrale per la motorizzazione del Ministero delle infrastrutture e dei trasporti
+    #. Alessandro Calchetti, direttore del CED del Ministero delle infrastrutture e dei trasporti
+    #. Pasquale D’Anzi, direttore dell’ufficio di coordinamento del capo dipartimento trasporti del Ministero delle infrastrutture e dei trasporti
+- Audizione n. 34 – 10 maggio 2017 (Resoconto stenografico n. 30) (seguito audizione n. 33 del 4 maggio 2017)
+    #. Maurizio Girolamo Vitelli, responsabile della direzione centrale per la motorizzazione del Ministero delle infrastrutture e dei trasporti
+    #. Pasquale D’Anzi, direttore dell’ufficio di coordinamento del capo dipartimento trasporti del Ministero delle infrastrutture e dei trasporti
+- Audizione n. 35 – 4 maggio 2017 (Resoconto stenografico n. 31)
+    #. Giuseppe Cacopardi, responsabile della direzione generale degli affari generali, delle risorse umane e per i rapporti con le regioni e gli enti territoriali del Ministero delle politiche agricole, alimentari e forestali
+    #. Alessandro Ferraro, dirigente responsabile Agret II – SIAN, coordinamento ICT e informazione del Ministero delle politiche agricole, alimentari e forestali
+- Audizione n. 36 – 16 maggio 2017 (Resoconto stenografico n. 32)
+    #. Gabriele Papa Pagliardini, direttore di Agea
+    #. Maurizio Salvi, dirigente di Agea
+    #. Renzo Lolli, dirigente di Agea
+- Audizione n. 37 – 17 maggio 2017 (Resoconto stenografico n. 33)
+    #. Angelo Sticchi Damiani, presidente di ACI Informatica
+    #. Mauro Minenna, direttore generale di ACI Informatica Spa
+    #. Vincenzo Pensa, direttore direzione sistemi informativi ed innovazione ACI
+- Audizione n. 38 – 23 maggio 2017 (Resoconto stenografico n. 34)
+    #. Concetta Lo Conte, direttore dell’area amministrazione di Agea
+- Audizione n. 39 – 23 maggio 2017 (Resoconto stenografico n. 34)
+    #. Speranzina De Matteo, presidente di SIN
+- Audizione n. 40 – 24 maggio 2017 (Resoconto stenografico n. 35)
+    #. Renato Di Donna, direttore progetti per la PA di Consip
+    #. Roberto Bettacchi, responsabile cliente Agea di Consip
+    
+    
 Audizione n. 41 – 25 maggio 2017 (Resoconto stenografico n. 36)
 77.  Gabriele Papa Pagliardini, direttore di Agea
 78.  Felice Assenza, direttore generale delle politiche internazionali e dell’Unione europea del Ministero delle politiche agricole, alimentari e forestali
