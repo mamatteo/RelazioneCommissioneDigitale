@@ -565,7 +565,7 @@ La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di 
 |
 
 3.2.7 Analisi sui fornitori e sugli aggiudicatari
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In questa ultima sezione, le analisi condotte hanno riguardato i fornitori presenti nel database ANAC e gli aggiudicatari delle gare.
 
 |
