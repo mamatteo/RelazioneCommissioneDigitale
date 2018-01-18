@@ -21,54 +21,53 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #.      Gianluca Di Cicco, partner di DeLoitte Consulting
 - Audizione n. 6 – 11 gennaio 2017 (`Resoconto stenografico n. 5 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/11/leg.17.stencomm.data20170111.U1.com73.audiz2.audizione.0005.pdf>`_)
     #.      Guido Rey, ex presidente dell’AIPA
-
-- Audizione n. 7 – 11 gennaio 2017 (Resoconto stenografico n. 5)
+- Audizione n. 7 – 11 gennaio 2017 (`Resoconto stenografico n. 5 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/11/leg.17.stencomm.data20170111.U1.com73.audiz2.audizione.0005.pdf>`_)
     #.  Alberto Zuliani, ex presidente dell’AIPA
-- Audizione n. 8 – 17 gennaio 2017 (Resoconto stenografico n. 6)
+- Audizione n. 8 – 17 gennaio 2017 (`Resoconto stenografico n. 6 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/17/leg.17.stencomm.data20170117.U1.com73.audiz2.audizione.0006.pdf>`_)
     #.  Carlo Batini, ex presidente dell’AIPA
-- Audizione n. 9 – 17 gennaio 2017 (Resoconto stenografico n. 6)
+- Audizione n. 9 – 17 gennaio 2017 (`Resoconto stenografico n. 6 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/17/leg.17.stencomm.data20170117.U1.com73.audiz2.audizione.0006.pdf>`_)
     #.  Livio Zoffoli, ex presidente del CNIPA
-- Audizione n. 10 – 17 gennaio 2017 (Resoconto stenografico n. 6)
+- Audizione n. 10 – 17 gennaio 2017 (`Resoconto stenografico n. 6 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/17/leg.17.stencomm.data20170117.U1.com73.audiz2.audizione.0006.pdf>`_)
     #. Fabio Pistella, ex presidente del CNIPA
-- Audizione n. 11 – 24 gennaio 2017 (Resoconto stenografico n. 7)
+- Audizione n. 11 – 24 gennaio 2017 (`Resoconto stenografico n. 7 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/24/leg.17.stencomm.data20170124.U1.com73.audiz2.audizione.0007.pdf>`_)
     #. Francesco Beltrame, ex presidente di DigitPA
-- Audizione n. 12 – 24 gennaio 2017 (Resoconto stenografico n. 7)
+- Audizione n. 12 – 24 gennaio 2017 (`Resoconto stenografico n. 7 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/24/leg.17.stencomm.data20170124.U1.com73.audiz2.audizione.0007.pdf>`_)
     #. Agostino Ragosa, ex direttore generale di AgID
-- Audizione n. 13 – 26 gennaio 2017 (Resoconto stenografico n. 8)
+- Audizione n. 13 – 26 gennaio 2017 (`Resoconto stenografico n. 8 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/01/26/leg.17.stencomm.data20170126.U1.com73.audiz2.audizione.0008.pdf>`_)
     #. Francesco Caio, ex commissario del Governo per l’attuazione dell’agenda digitale
     #. Anna Pia Sassano, ex membro della struttura di missione per l’attuazione dell’agenda digitale
-- Audizione n. 14 – 1° febbraio 2017 (seguito audizione n. 12 del 26 gennaio 2017) (Resoconto stenografico n. 9)
+- Audizione n. 14 – 1° febbraio 2017 (seguito audizione n. 12 del 26 gennaio 2017) (`Resoconto stenografico n. 9 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/02/01/leg.17.stencomm.data20170201.A1.com73.audiz2.audizione.0009.pdf>`_)
     #. Agostino Ragosa, ex direttore generale di AgID
-- Audizione n. 15 – 1° febbraio 2017 (Resoconto stenografico n. 10)
+- Audizione n. 15 – 1° febbraio 2017 (`Resoconto stenografico n. 10 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/02/01/leg.17.stencomm.data20170201.P1.com73.audiz2.audizione.0010.pdf>`_)
     #. Alessandra Poggiani, ex direttore generale di AgID
-- Audizione n. 16 – 7 febbraio 2017 (Resoconto stenografico n. 11)
+- Audizione n. 16 – 7 febbraio 2017 (`Resoconto stenografico n. 11 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/02/07/leg.17.stencomm.data20170207.U1.com73.audiz2.audizione.0011.pdf>`_)
     #. Antonio Samaritani, direttore generale di AgID
     #. Maria Pia Giovannini, responsabile area pubblica amministrazione di AgID
     #. Francesco Tortorelli, dirigente responsabile area architetture, standard e infrastrutture di AgID
-- Audizione n. 17 – 15 febbraio 2017 (Resoconto stenografico n. 12)
+- Audizione n. 17 – 15 febbraio 2017 (`Resoconto stenografico n. 12 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/02/15/leg.17.stencomm.data20170215.U1.com73.audiz2.audizione.0012.pdf>`_)
     #. Diego Piacentini, commissario straordinario del Governo per l’attuazione dell’agenda digitale
-- Audizione n. 18 – 21 febbraio 2017 (Resoconto stenografico n. 13)
+- Audizione n. 18 – 21 febbraio 2017 (`Resoconto stenografico n. 13 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/02/21/leg.17.stencomm.data20170221.U1.com73.audiz2.audizione.0013.pdf>`_)
     #. Cristiano Cannarsa, presidente e amministratore delegato di Sogei
-- Audizione n. 19 – 8 marzo 2017 (Resoconto stenografico n. 15)
+- Audizione n. 19 – 8 marzo 2017 (`Resoconto stenografico n. 15 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/08/leg.17.stencomm.data20170308.U1.com73.audiz2.audizione.0015.pdf>`_)
     #. Paride Gullini, presidente di ANUSCA
     #. Romano Minardi, rappresentante del comune di Bagnacavallo
     #. Patrizia Saggini, rappresentante del comune di Anzola dell’Emilia
-- Audizione n. 20 – 14 marzo 2017 (Resoconto stenografico n. 16)
+- Audizione n. 20 – 14 marzo 2017 (`Resoconto stenografico n. 16 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/14/leg.17.stencomm.data20170314.U1.com73.audiz2.audizione.0016.pdf>`_)
     #. Paolo D’Attilio, direttore centrale per i servizi demografici del Ministero dell’interno
     #. Antonio Natali, dirigente in posizione di staff dell’ufficio studi e legislazione del dipartimento per gli affari interni e territoriali del Ministero dell’interno
     #. Raffaele Sarnataro, dirigente servizio VI della direzione centrale per i servizi demografici del Ministero dell’interno
-- Audizione n. 21 – 15 marzo 2017 (Resoconto stenografico n. 17)
+- Audizione n. 21 – 15 marzo 2017 (`Resoconto stenografico n. 17 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/15/leg.17.stencomm.data20170315.A1.com73.audiz2.audizione.0017.pdf>`_)
     #. Antonio Colaianni, direttore centrale per le risorse finanziare e strumentali del Ministero dell’interno
     #. Enza Maria Leone, viceprefetto
-- Audizione n. 22 – 15 marzo 2017 (Resoconto stenografico n. 18)
+- Audizione n. 22 – 15 marzo 2017 (`Resoconto stenografico n. 18 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/15/leg.17.stencomm.data20170315.P2.com73.audiz2.audizione.0018.pdf>`_)
     #. Antonella Galdi, vicesegretaria generale dell’ANCI
     #. Moira Benelli, ufficio servizi e tecnologie, agenda digitale e statistica ANCI
     #. Paolo Boscolo, responsabile gestione infrastruttura ICT Comune di Prato
     #. Benedetta Squittieri, assessore al comune di Prato
-- Audizione n. 23 – 21 marzo 2017 (Resoconto stenografico n. 19)
+- Audizione n. 23 – 21 marzo 2017 (`Resoconto stenografico n. 19 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/21/leg.17.stencomm.data20170321.U1.com73.audiz2.audizione.0019.pdf>`_)
     #. Giuseppe Peleggi, direttore dell’Agenzia delle dogane e dei monopoli
     #. Alvaro Teresa, direttore centrale tecnologie per l’innovazione dell’Agenzia delle dogane e dei monopoli 
-- Audizione n. 24 – 22 marzo 2017 (Resoconto stenografico n. 20)
+- Audizione n. 24 – 22 marzo 2017 (`Resoconto stenografico n. 20 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/22/leg.17.stencomm.data20170322.U1.com73.audiz2.audizione.0020.pdf>`_)
     #. Vincenzo Damato, direttore della direzione centrale organizzazione e sistemi informativi dell’INPS
 - Audizione n. 25 – 28 marzo 2017 (Resoconto stenografico n. 21)
     #. Domenico Vulpiani, responsabile della transizione alla modalità operativa digitale del Ministero dell’interno
