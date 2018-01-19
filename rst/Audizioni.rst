@@ -199,3 +199,37 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
 - Audizione n. 67 – *11 ottobre 2017* (`Resoconto stenografico n. 63 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/10/11/indice_stenografico.0063.html#>`_)
     #. **Diego Piacentini**, commissario straordinario del Governo per l’attuazione dell’agenda digitale
     #. **Simone Piunno**, chief technology officer del Team digitale
+    
+    
+    
+- Audizione n. 68 – *29 novembre 2017* (`Resoconto stenografico n. 67 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/29/indice_stenografico.0067.html#>`_)
+    #. **Mariano Corso**, responsabile scientifico dell'Osservatorio sull'Innovazione digitale in Sanità del Politecnico di Milano
+    #. **Chiara Sgarbossa**, direttrice dell'Osservatorio sull'Innovazione digitale in Sanità del Politecnico di Milano
+- Audizione n. 69 – *30 novembre 2017* (`Resoconto stenografico n. 68 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/30/indice_stenografico.0068.html#>`_)
+    #. **Antonino Ruggeri**, dirigente del settore controllo di gestione, monitoraggio dei costi per i livelli di assistenza delle ASR e dei sistemi informativi Regione Piemonte
+    #. **Gandolfo Miserendino**, professional ICT presso l'assessorato Politiche per la Salute della Regione Emilia-Romagna
+    #. **Paolo Alessandrini**, responsabile Rapporti con il Parlamento, Segreteria della Conferenza delle Regioni e delle Province autonome
+- Audizione n. 70 – *6 dicembre 2017* (`Resoconto stenografico n. 69 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/12/06/indice_stenografico.0069.html#>`_)
+    #. **Ernesto Maria Ruffini**, direttore dell'Agenzia delle entrate
+    #. **Franco Maggio**, direttore centrale catasto, cartografia e pubblicità immobiliare
+    #. **Giuseppe Buono**, direttore centrale tecnologie e innovazione
+    #. **Paolo Savini**, direttore centrale gestione tributi
+    #. **Sergio Mazzei**, capo ufficio comunicazione
+- Audizione n. 71 – *13 dicembre 2017* (`Resoconto stenografico n. 70 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/12/13/indice_stenografico.0070.html#>`_)
+    #. **Cristiano Cannarsa**, amministratore delegato di Consip
+    #. **Renato Di Donna**, direttore progetti per la PA
+    #. **Luca Mastrogregori**, direzione E-Procurement
+    #. **Stefano Tremolanti**, direttore Programma Razionalizzazione Acquisti PA
+    #. **Francesco Licci**, direttore Pianificazione Strategica e Supporto alle Operazioni
+- Audizione n. 72 – *19 dicembre 2017* (`Resoconto stenografico n. 71 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/12/19/indice_stenografico.0071.html#>`_)
+    #. **Simone Puksic**, presidente di Assinter Italia,
+    #. **Luca Rigoni**, direttore di Assinter Italia
+    #. **Silvia Barbieri**, responsabile Affari Regolatori e Relazioni Istituzionali.
+- Audizione n. 73 – *20 dicembre 2017* (Resoconto stenografico non ancora disponibile)
+    #. **Andrea Orlando**, Ministro della giustizia
+    #. **Pasquale Liccardo**, direttore Generale dei Sistemi Informativi Automatizzati
+    #. **Edoardo Buonvino**, magistrato addetto all'ufficio del Gabinetto del Ministro
+    #. **Laura Cremonini**, capo ufficio stampa
+    #. **Giulio Borsari**, direzione Generale dei Sistemi Informativi Automatizzati
+   
+ 
