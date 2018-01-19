@@ -534,26 +534,30 @@ Sulla sinistra della figura sono riportate le pubbliche amministrazioni, Lombard
 |
 | 
 
-Nella tabella che segue è riportata una parte più ampia della classifica, presentando le prime 60 *“relazioni di maggioranza”* in ordine decrescente.
+Nella tabella che segue (*3.2.6 a*) è riportata una parte più ampia della classifica, presentando le prime 60 *“relazioni di maggioranza”* in ordine decrescente.
 
 .. figure:: ../imgrel/tabella1.png
    :alt: Tabella 3.2.6 - a
    :align: center
+   
+   Tabella 3.2.6 a
       
 
-La tabella 3.5 risponde alla domanda su quale siano le pubbliche amministrazioni che impiegano più tempo ad aggiudicare le gare che bandiscono. Nella tabella sono riportate in ordine decrescente le prime trenta amministrazioni, ordinate per il tempo medio, calcolato in giorni, di aggiudicazione di una gara.
+La tabella *3.2.6 b* risponde alla domanda su quale siano le pubbliche amministrazioni che impiegano più tempo ad aggiudicare le gare che bandiscono. Nella tabella sono riportate in ordine decrescente le prime trenta amministrazioni, ordinate per il tempo medio, calcolato in giorni, di aggiudicazione di una gara.
 
 .. figure:: ../imgrel/tabella2.png
    :alt: Tabella 3.2.6 - b
    :align: center
-      
+   
+    Tabella 3.2.6 b     
 
-La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di una gara per i ministeri presenti all’interno del dataset, i cui risultati sono riportati nella tabella seguente e da cui si può dedurre, ancora una volta chi, probabilmente, commette più errori nella comunicazione dei dati ad ANAC.
+La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di una gara per i ministeri presenti all’interno del dataset, i cui risultati sono riportati nella tabella seguente (*3.2.6 c*) e da cui si può dedurre, ancora una volta chi, probabilmente, commette più errori nella comunicazione dei dati ad ANAC.
 
 .. figure:: ../imgrel/tabella3.png
    :alt: Tabella 3.2.6 - c
    :align: center
-      
+   
+    Tabella 3.2.6 c    
 
 3.2.7 Analisi sui fornitori e sugli aggiudicatari
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
