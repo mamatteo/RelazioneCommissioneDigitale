@@ -73,7 +73,7 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #. **Domenico Vulpiani**, responsabile della transizione alla modalità operativa digitale del Ministero dell’interno
     #. **Antonina Coduti**, difensore civico digitale del Ministero dell’interno
 - Audizione n. 26 – *29 marzo 2017* - (`Resoconto stenografico n. 22 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/29/leg.17.stencomm.data20170329.U1.com73.audiz2.audizione.0022.pdf>`_)
-    #. **Gianna Barbieri, direttore generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
+    #. **Gianna Barbieri**, direttore generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. **Paolo De Santis**, dirigente ufficio per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. **Daniele Livon**, direttore generale per la programmazione, il coordinamento e il finanziamento delle istituzioni della formazione superiore del Ministero dell’istruzione, dell’università e della ricerca
     #. **Rosario Riccio**, dirigente ufficio servizi infrastrutturali di rete del Ministero dell’istruzione, dell’università e della ricerca
