@@ -73,7 +73,7 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #. **Domenico Vulpiani**, responsabile della transizione alla modalità operativa digitale del Ministero dell’interno
     #. **Antonina Coduti**, difensore civico digitale del Ministero dell’interno
 - Audizione n. 26 – *29 marzo 2017* - (`Resoconto stenografico n. 22 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/03/29/leg.17.stencomm.data20170329.U1.com73.audiz2.audizione.0022.pdf>`_)
-    #. **Gianna Barbieri, direttore generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
+    #. **Gianna Barbieri**, direttore generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. **Paolo De Santis**, dirigente ufficio per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. **Daniele Livon**, direttore generale per la programmazione, il coordinamento e il finanziamento delle istituzioni della formazione superiore del Ministero dell’istruzione, dell’università e della ricerca
     #. **Rosario Riccio**, dirigente ufficio servizi infrastrutturali di rete del Ministero dell’istruzione, dell’università e della ricerca
@@ -169,8 +169,8 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #. **Antonello Pellegrino**, responsabile della direzione generale degli affari generali e della società dell’informazione della Regione Sardegna
 - Audizione n. 57 – *2 agosto 2017* (`Resoconto stenografico n. 52 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/02/leg.17.stencomm.data20170802.A1.com73.audiz2.audizione.0052.pdf>`_ | `Video <http://webtv.camera.it/archivio?id=11721&position=0>`_)
     #. **Gabriella Serratrice**, responsabile del settore sistemi informativi, segretariato generale della Regione Piemonte
-- Audizione n. 58 – *2 agosto 2017* (`Resoconto stenografico n. 53 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/02/leg.17.stencomm.data20170802.A1.com73.audiz2.audizione.0052.pdf>`_)
-    #. **Laura Castellani**, responsabile del settore infrastrutture e tecnologie per lo sviluppo della società dell'informazione, direzione organizzazione e sistemi informativi della Regione Toscana (`Video <http://webtv.camera.it/archivio?id=11727&position=0>`_)
+- Audizione n. 58 – *2 agosto 2017* (`Resoconto stenografico n. 53 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/02/leg.17.stencomm.data20170802.A1.com73.audiz2.audizione.0052.pdf>`_ | `Video <http://webtv.camera.it/archivio?id=11727&position=0>`_)
+    #. **Laura Castellani**, responsabile del settore infrastrutture e tecnologie per lo sviluppo della società dell'informazione, direzione organizzazione e sistemi informativi della Regione Toscana
     #. **Fernanda Faini**, responsabile per la Regione Toscana della posizione organizzativa assistenza giuridica e normativa in materia di amministrazione digitale 
 - Audizione n. 59 – *3 agosto 2017* (`Resoconto stenografico n. 54 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/08/03/indice_stenografico.0054.html#>`_)
     #. **Mariella Lo Bello**, vicepresidente della Regione Sicilia (`Video <http://webtv.camera.it/archivio?id=11729&position=0ù>`_)
