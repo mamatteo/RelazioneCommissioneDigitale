@@ -536,33 +536,24 @@ Sulla sinistra della figura sono riportate le pubbliche amministrazioni, Lombard
 
 Nella tabella che segue è riportata una parte più ampia della classifica, presentando le prime 60 *“relazioni di maggioranza”* in ordine decrescente.
 
-|
-
-.. figure:: /tree/master/imgrel/tabella1.png
+.. figure:: ../imgrel/tabella1.png
    :alt: Tabella 3.2.6 - a
    :align: center
       
-|
 
 La tabella 3.5 risponde alla domanda su quale siano le pubbliche amministrazioni che impiegano più tempo ad aggiudicare le gare che bandiscono. Nella tabella sono riportate in ordine decrescente le prime trenta amministrazioni, ordinate per il tempo medio, calcolato in giorni, di aggiudicazione di una gara.
 
-|
-
-.. figure:: /tree/master/imgrel/tabella2.png
+.. figure:: ../imgrel/tabella2.png
    :alt: Tabella 3.2.6 - b
    :align: center
       
-|
 
 La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di una gara per i ministeri presenti all’interno del dataset, i cui risultati sono riportati nella tabella seguente e da cui si può dedurre, ancora una volta chi, probabilmente, commette più errori nella comunicazione dei dati ad ANAC.
 
-|
-
-.. figure:: /tree/master/imgrel/tabella3.png
+.. figure:: ../imgrel/tabella3.png
    :alt: Tabella 3.2.6 - c
    :align: center
       
-|
 
 3.2.7 Analisi sui fornitori e sugli aggiudicatari
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
