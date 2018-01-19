@@ -139,7 +139,7 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #. **Mariano Laghezza**, responsabile dei servizi resi a favore di Agea, di SIN
     #. **Antonio Tozzi**, direttore generale di SIN
     #. **Anna Veneziani**, direttore esecutivo di SIN
-Audizione n. 47 – *28 giugno 2017* (`Resoconto stenografico n. 42 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/28/leg.17.stencomm.data20170628.U1.com73.audiz2.audizione.0042.pdf>`_)
+- Audizione n. 47 – *28 giugno 2017* (`Resoconto stenografico n. 42 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/28/leg.17.stencomm.data20170628.U1.com73.audiz2.audizione.0042.pdf>`_)
     #.  **Enza Maria Leone**, responsabile del sistema informatico del dipartimento per le libertà civili e l’immigrazione del Ministero dell’interno
 - Audizione n. 48 – *29 giugno 2017* (`Resoconto stenografico n. 43 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/29/leg.17.stencomm.data20170629.U1.com73.audiz2.audizione.0043.pdf>`_)
     #. **Cristiana Pretto**, responsabile del servizio di supporto alla direzione generale e ICT della Provincia autonoma di Trento
@@ -165,37 +165,37 @@ Audizione n. 47 – *28 giugno 2017* (`Resoconto stenografico n. 42 <http://docu
     #. **Gianna Barbieri**, responsabile della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. **Paolo De Santis**, dirigente ufficio III della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
     #. **Rosario Riccio**, dirigente ufficio IV della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
-- Audizione n. 56 – *1° agosto 2017* (Resoconto stenografico n. 51)
+- Audizione n. 56 – *1° agosto 2017* (`Resoconto stenografico n. 51 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/01/leg.17.stencomm.data20170801.U1.com73.audiz2.audizione.0051.pdf>`_)
     #. **Antonello Pellegrino**, responsabile della direzione generale degli affari generali e della società dell’informazione della Regione Sardegna
-- Audizione n. 57 – *2 agosto 2017* (Resoconto stenografico n. 52)
+- Audizione n. 57 – *2 agosto 2017* (`Resoconto stenografico n. 52 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/02/leg.17.stencomm.data20170802.A1.com73.audiz2.audizione.0052.pdf>`_)
     #. **Gabriella Serratrice**, responsabile del settore sistemi informativi, segretariato generale della Regione Piemonte
-- Audizione n. 58 – *2 agosto 2017* (Resoconto stenografico n. 53)
+- Audizione n. 58 – *2 agosto 2017* (`Resoconto stenografico n. 53 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/02/leg.17.stencomm.data20170802.A1.com73.audiz2.audizione.0052.pdf>`_)
     #. **Laura Castellani**, responsabile del settore infrastrutture e tecnologie per lo sviluppo della società dell'informazione, direzione organizzazione e sistemi informativi della Regione Toscana
     #. **Fernanda Faini**, responsabile per la Regione Toscana della posizione organizzativa assistenza giuridica e normativa in materia di amministrazione digitale
-- Audizione n. 59 – *3 agosto 2017* (Resoconto stenografico n. 54)
+- Audizione n. 59 – *3 agosto 2017* (`Resoconto stenografico n. 54 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/08/03/indice_stenografico.0054.html#>`_)
     #. **Mariella Lo Bello**, vicepresidente della Regione Sicilia
-- Audizione n. 60 – *7 settembre 2017* (Resoconto stenografico n. 55)
+- Audizione n. 60 – *7 settembre 2017* (`Resoconto stenografico n. 55 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/07/indice_stenografico.0055.html#>`_)
     #. **Giorgio Rapari**, presidente di Assintel
     #. **Maurizio Pio**, environment & government affairs di Assintel
     #. **Emanuele Spampinato**, vicepresidente di Assintel
-- Audizione n. 61 – *7 settembre 2017* (Resoconto stenografico n. 56)
+- Audizione n. 61 – *7 settembre 2017* (`Resoconto stenografico n. 56 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/13/indice_stenografico.0056.html#>`_)
     #. **Antonio Maria Tambato**, responsabile della divisione V sistemi informativi e trasformazione digitale. Formazione della direzione generale per le risorse, l’organizzazione e il bilancio del Ministero dello sviluppo economico
-- Audizione n. 62 – *14 settembre 2017* (Resoconto stenografico n. 57)
+- Audizione n. 62 – *14 settembre 2017* (`Resoconto stenografico n. 57 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/14/indice_stenografico.0057.html#>`_)
     #. **Pasquale Liccardo**, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
-- Audizione n. 63 – *19 settembre 2017* (Resoconto stenografico n. 58) (seguito dell’audizione n. 62 del 14 settembre 2017)
+- Audizione n. 63 – *19 settembre 2017* (`Resoconto stenografico n. 58 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/19/indice_stenografico.0058.html#>`_) (seguito dell’audizione n. 62 del 14 settembre 2017)
     #. **Pasquale Liccardo**, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
-- Audizione n. 64 – *21 settembre 2017* (Resoconto stenografico n. 59)
+- Audizione n. 64 – *21 settembre 2017* (`Resoconto stenografico n. 59 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/21/indice_stenografico.0059.html#>`_)
     #. **Gandolfo Miserendino**, professional ICT presso l’assessorato politiche per la salute della Regione Emilia-Romagna
     #. **Antonino Ruggeri**, dirigente del settore controllo di gestione, monitoraggio dei costi per i livelli di assistenza delle ASR e dei sistemi informativi della Regione Piemonte
-- Audizione n. 65 – *27 settembre 2017* (Resoconto stenografico n. 60)
+- Audizione n. 65 – *27 settembre 2017* (`Resoconto stenografico n. 60 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/27/indice_stenografico.0060.html#>`_)
     #. **Roberto Basso**, presidente di Consip
     #. **Cristiano Cannarsa**, amministratore delegato di Consip
     #. **Renato Di Donna**, direttore progetti per la PA di Consip
     #. **Martina Beneventi**, direttore legale di Consip
-- Audizione n. 66 – *10 ottobre 2017* (Resoconto stenografico n. 61)
-    #. **Alessandra Camporota**, responsabile della transizione alla modalità digitale     del Ministero dell'interno
+- Audizione n. 66 – *10 ottobre 2017* (`Resoconto stenografico n. 62 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/10/10/indice_stenografico.0062.html#>`_)
+    #. **Alessandra Camporota**, responsabile della transizione alla modalità digitale del Ministero dell'interno
     #. **Carlo Bui**, presidente del Comitato per l'innovazione del settore ICT della Pubblica Sicurezza, Ufficio del Vice Capo della Polizia, Dipartimento della Pubblica Sicurezza
     #. **Maria Cavaliere**, dirigente Ufficio per i servizi informatici, Direzione centrale per le risorse logistiche e strumentali, Dipartimento dei Vigili del Fuoco, del soccorso pubblico e della difesa civile
-- Audizione n. 67 – *11 ottobre 2017* (Resoconto stenografico n. 63)
+- Audizione n. 67 – *11 ottobre 2017* (`Resoconto stenografico n. 63 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/10/11/indice_stenografico.0063.html#>`_)
     #. **Diego Piacentini**, commissario straordinario del Governo per l’attuazione dell’agenda digitale
     #. **Simone Piunno**, chief technology officer del Team digitale
