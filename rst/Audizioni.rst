@@ -170,10 +170,10 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
 - Audizione n. 57 – *2 agosto 2017* (`Resoconto stenografico n. 52 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/02/leg.17.stencomm.data20170802.A1.com73.audiz2.audizione.0052.pdf>`_)
     #. **Gabriella Serratrice**, responsabile del settore sistemi informativi, segretariato generale della Regione Piemonte
 - Audizione n. 58 – *2 agosto 2017* (`Resoconto stenografico n. 53 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/08/02/leg.17.stencomm.data20170802.A1.com73.audiz2.audizione.0052.pdf>`_ | `Video <http://webtv.camera.it/archivio?id=11721&position=0>`_)
-    #. **Laura Castellani**, responsabile del settore infrastrutture e tecnologie per lo sviluppo della società dell'informazione, direzione organizzazione e sistemi informativi della Regione Toscana (`Video <http://webtv.camera.it/archivio?id=11727&position=0>`)
+    #. **Laura Castellani**, responsabile del settore infrastrutture e tecnologie per lo sviluppo della società dell'informazione, direzione organizzazione e sistemi informativi della Regione Toscana (`Video <http://webtv.camera.it/archivio?id=11727&position=0>`_)
     #. **Fernanda Faini**, responsabile per la Regione Toscana della posizione organizzativa assistenza giuridica e normativa in materia di amministrazione digitale 
 - Audizione n. 59 – *3 agosto 2017* (`Resoconto stenografico n. 54 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/08/03/indice_stenografico.0054.html#>`_)
-    #. **Mariella Lo Bello**, vicepresidente della Regione Sicilia (`Video <http://webtv.camera.it/archivio?id=11729&position=0ù>`)
+    #. **Mariella Lo Bello**, vicepresidente della Regione Sicilia (`Video <http://webtv.camera.it/archivio?id=11729&position=0ù>`_)
 - Audizione n. 60 – *7 settembre 2017* (`Resoconto stenografico n. 55 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/07/indice_stenografico.0055.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11749&position=0>`_)
     #. **Giorgio Rapari**, presidente di Assintel
     #. **Maurizio Pio**, environment & government affairs di Assintel
@@ -202,8 +202,7 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
 - Audizione n. 68 – *29 novembre 2017* (`Resoconto stenografico n. 67 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/29/indice_stenografico.0067.html#>`_ | `Video <http://webtv.camera.it/archivio?id=12293&position=0>`_)
     #. **Mariano Corso**, responsabile scientifico dell'Osservatorio sull'Innovazione digitale in Sanità del Politecnico di Milano
     #. **Chiara Sgarbossa**, direttrice dell'Osservatorio sull'Innovazione digitale in Sanità del Politecnico di Milano
-- Audizione n. 69 – *30 novembre 2017* (`Resoconto stenografico n. 68 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/30/indice_stenografico.0068.html#>`_    
-| `Video <http://webtv.camera.it/archivio?id=12302&position=0>`_)
+- Audizione n. 69 – *30 novembre 2017* (`Resoconto stenografico n. 68 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/30/indice_stenografico.0068.html#>`_ | `Video <http://webtv.camera.it/archivio?id=12302&position=0>`_)
     #. **Antonino Ruggeri**, dirigente del settore controllo di gestione, monitoraggio dei costi per i livelli di assistenza delle ASR e dei sistemi informativi Regione Piemonte
     #. **Gandolfo Miserendino**, professional ICT presso l'assessorato Politiche per la Salute della Regione Emilia-Romagna
     #. **Paolo Alessandrini**, responsabile Rapporti con il Parlamento, Segreteria della Conferenza delle Regioni e delle Province autonome
