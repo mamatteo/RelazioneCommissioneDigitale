@@ -174,45 +174,46 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
     #. **Fernanda Faini**, responsabile per la Regione Toscana della posizione organizzativa assistenza giuridica e normativa in materia di amministrazione digitale 
 - Audizione n. 59 – *3 agosto 2017* (`Resoconto stenografico n. 54 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/08/03/indice_stenografico.0054.html#>`_)
     #. **Mariella Lo Bello**, vicepresidente della Regione Sicilia (`Video <http://webtv.camera.it/archivio?id=11729&position=0ù>`)
-- Audizione n. 60 – *7 settembre 2017* (`Resoconto stenografico n. 55 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/07/indice_stenografico.0055.html#>`_| `Video <http://webtv.camera.it/archivio?id=11749&position=0>`_)
+- Audizione n. 60 – *7 settembre 2017* (`Resoconto stenografico n. 55 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/07/indice_stenografico.0055.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11749&position=0>`_)
     #. **Giorgio Rapari**, presidente di Assintel
     #. **Maurizio Pio**, environment & government affairs di Assintel
     #. **Emanuele Spampinato**, vicepresidente di Assintel
-- Audizione n. 61 – *7 settembre 2017* (`Resoconto stenografico n. 56 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/13/indice_stenografico.0056.html#>`_| `Video <http://webtv.camera.it/evento/11769>`_)
+- Audizione n. 61 – *7 settembre 2017* (`Resoconto stenografico n. 56 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/13/indice_stenografico.0056.html#>`_ | `Video <http://webtv.camera.it/evento/11769>`_)
     #. **Antonio Maria Tambato**, responsabile della divisione V sistemi informativi e trasformazione digitale. Formazione della direzione generale per le risorse, l’organizzazione e il bilancio del Ministero dello sviluppo economico
-- Audizione n. 62 – *14 settembre 2017* (`Resoconto stenografico n. 57 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/14/indice_stenografico.0057.html#>`_| `Video <http://webtv.camera.it/archivio?id=11779&position=0>`_)
+- Audizione n. 62 – *14 settembre 2017* (`Resoconto stenografico n. 57 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/14/indice_stenografico.0057.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11779&position=0>`_)
     #. **Pasquale Liccardo**, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
-- Audizione n. 63 – *19 settembre 2017* (`Resoconto stenografico n. 58 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/19/indice_stenografico.0058.html#>`_| `Video <http://webtv.camera.it/archivio?id=11799&position=0>`_) (seguito dell’audizione n. 62 del 14 settembre 2017)
+- Audizione n. 63 – *19 settembre 2017* (`Resoconto stenografico n. 58 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/19/indice_stenografico.0058.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11799&position=0>`_) (seguito dell’audizione n. 62 del 14 settembre 2017)
     #. **Pasquale Liccardo**, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
-- Audizione n. 64 – *21 settembre 2017* (`Resoconto stenografico n. 59 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/21/indice_stenografico.0059.html#>`_| `Video <http://webtv.camera.it/archivio?id=11813&position=0>`_)
+- Audizione n. 64 – *21 settembre 2017* (`Resoconto stenografico n. 59 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/21/indice_stenografico.0059.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11813&position=0>`_)
     #. **Gandolfo Miserendino**, professional ICT presso l’assessorato politiche per la salute della Regione Emilia-Romagna
     #. **Antonino Ruggeri**, dirigente del settore controllo di gestione, monitoraggio dei costi per i livelli di assistenza delle ASR e dei sistemi informativi della Regione Piemonte
-- Audizione n. 65 – *27 settembre 2017* (`Resoconto stenografico n. 60 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/27/indice_stenografico.0060.html#>`_| `Video <http://webtv.camera.it/archivio?id=11845&position=0>`_)
+- Audizione n. 65 – *27 settembre 2017* (`Resoconto stenografico n. 60 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/09/27/indice_stenografico.0060.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11845&position=0>`_)
     #. **Roberto Basso**, presidente di Consip
     #. **Cristiano Cannarsa**, amministratore delegato di Consip
     #. **Renato Di Donna**, direttore progetti per la PA di Consip
     #. **Martina Beneventi**, direttore legale di Consip
-- Audizione n. 66 – *10 ottobre 2017* (`Resoconto stenografico n. 62 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/10/10/indice_stenografico.0062.html#>`_| `Video <http://webtv.camera.it/archivio?id=11923&position=0>`_)
+- Audizione n. 66 – *10 ottobre 2017* (`Resoconto stenografico n. 62 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/10/10/indice_stenografico.0062.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11923&position=0>`_)
     #. **Alessandra Camporota**, responsabile della transizione alla modalità digitale del Ministero dell'interno
     #. **Carlo Bui**, presidente del Comitato per l'innovazione del settore ICT della Pubblica Sicurezza, Ufficio del Vice Capo della Polizia, Dipartimento della Pubblica Sicurezza
     #. **Maria Cavaliere**, dirigente Ufficio per i servizi informatici, Direzione centrale per le risorse logistiche e strumentali, Dipartimento dei Vigili del Fuoco, del soccorso pubblico e della difesa civile
-- Audizione n. 67 – *11 ottobre 2017* (`Resoconto stenografico n. 63 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/10/11/indice_stenografico.0063.html#>`_| `Video <http://webtv.camera.it/archivio?id=11932&position=0>`_)
+- Audizione n. 67 – *11 ottobre 2017* (`Resoconto stenografico n. 63 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/10/11/indice_stenografico.0063.html#>`_ | `Video <http://webtv.camera.it/archivio?id=11932&position=0>`_)
     #. **Diego Piacentini**, commissario straordinario del Governo per l’attuazione dell’agenda digitale
     #. **Simone Piunno**, chief technology officer del Team digitale
-- Audizione n. 68 – *29 novembre 2017* (`Resoconto stenografico n. 67 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/29/indice_stenografico.0067.html#>`_| `Video <http://webtv.camera.it/archivio?id=12293&position=0>`_)
+- Audizione n. 68 – *29 novembre 2017* (`Resoconto stenografico n. 67 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/29/indice_stenografico.0067.html#>`_ | `Video <http://webtv.camera.it/archivio?id=12293&position=0>`_)
     #. **Mariano Corso**, responsabile scientifico dell'Osservatorio sull'Innovazione digitale in Sanità del Politecnico di Milano
     #. **Chiara Sgarbossa**, direttrice dell'Osservatorio sull'Innovazione digitale in Sanità del Politecnico di Milano
-- Audizione n. 69 – *30 novembre 2017* (`Resoconto stenografico n. 68 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/30/indice_stenografico.0068.html#>`_| `Video <http://webtv.camera.it/archivio?id=12302&position=0>`_)
+- Audizione n. 69 – *30 novembre 2017* (`Resoconto stenografico n. 68 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/11/30/indice_stenografico.0068.html#>`_    
+| `Video <http://webtv.camera.it/archivio?id=12302&position=0>`_)
     #. **Antonino Ruggeri**, dirigente del settore controllo di gestione, monitoraggio dei costi per i livelli di assistenza delle ASR e dei sistemi informativi Regione Piemonte
     #. **Gandolfo Miserendino**, professional ICT presso l'assessorato Politiche per la Salute della Regione Emilia-Romagna
     #. **Paolo Alessandrini**, responsabile Rapporti con il Parlamento, Segreteria della Conferenza delle Regioni e delle Province autonome
-- Audizione n. 70 – *6 dicembre 2017* (`Resoconto stenografico n. 69 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/12/06/indice_stenografico.0069.html#>`_| `Video <http://webtv.camera.it/archivio?id=12338&position=0>`_)
+- Audizione n. 70 – *6 dicembre 2017* (`Resoconto stenografico n. 69 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/12/06/indice_stenografico.0069.html#>`_ | `Video <http://webtv.camera.it/archivio?id=12338&position=0>`_)
     #. **Ernesto Maria Ruffini**, direttore dell'Agenzia delle entrate
     #. **Franco Maggio**, direttore centrale catasto, cartografia e pubblicità immobiliare
     #. **Giuseppe Buono**, direttore centrale tecnologie e innovazione
     #. **Paolo Savini**, direttore centrale gestione tributi
     #. **Sergio Mazzei**, capo ufficio comunicazione
-- Audizione n. 71 – *13 dicembre 2017* (`Resoconto stenografico n. 70 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/12/13/indice_stenografico.0070.html#>`_| `Video <http://webtv.camera.it/archivio?id=12382&position=0>`_)
+- Audizione n. 71 – *13 dicembre 2017* (`Resoconto stenografico n. 70 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/12/13/indice_stenografico.0070.html#>`_ | `Video <http://webtv.camera.it/archivio?id=12382&position=0>`_)
     #. **Cristiano Cannarsa**, amministratore delegato di Consip
     #. **Renato Di Donna**, direttore progetti per la PA
     #. **Luca Mastrogregori**, direzione E-Procurement
