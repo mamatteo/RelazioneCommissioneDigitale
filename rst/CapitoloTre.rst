@@ -538,7 +538,7 @@ Nella tabella che segue è riportata una parte più ampia della classifica, pres
 
 |
 
-.. figure:: imgrel/tabella1.png
+.. figure:: /tree/master/imgrel/tabella1.png
    :alt: Tabella 3.2.6 - a
    :align: center
       
@@ -548,7 +548,7 @@ La tabella 3.5 risponde alla domanda su quale siano le pubbliche amministrazioni
 
 |
 
-.. figure:: imgrel/tabella2.png
+.. figure:: /tree/master/imgrel/tabella2.png
    :alt: Tabella 3.2.6 - b
    :align: center
       
@@ -558,7 +558,7 @@ La stessa interrogazione è stata posta per il tempo medio di aggiudicazione di 
 
 |
 
-.. figure:: imgrel/tabella3.png
+.. figure:: /tree/master/imgrel/tabella3.png
    :alt: Tabella 3.2.6 - c
    :align: center
       
