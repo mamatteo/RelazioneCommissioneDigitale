@@ -103,101 +103,99 @@ Il lavoro della commissione d’inchiesta si è espletato attraverso 67 audizion
 - Audizione n. 34 – *10 maggio 2017* - (`Resoconto stenografico n. 30 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/10/leg.17.stencomm.data20170510.U1.com73.audiz2.audizione.0030.pdf>`_)  (seguito audizione n. 33 del 4 maggio 2017)
     #. **Maurizio Girolamo Vitelli**, responsabile della direzione centrale per la motorizzazione del Ministero delle infrastrutture e dei trasporti
     #. **Pasquale D’Anzi**, direttore dell’ufficio di coordinamento del capo dipartimento trasporti del Ministero delle infrastrutture e dei trasporti
-- Audizione n. 35 – *4 maggio 2017* - (Resoconto stenografico n. 31)
+- Audizione n. 35 – *4 maggio 2017* - (`Resoconto stenografico n. 31 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/11/leg.17.stencomm.data20170511.U1.com73.audiz2.audizione.0031.pdf>`_)
     #. **Giuseppe Cacopardi**, responsabile della direzione generale degli affari generali, delle risorse umane e per i rapporti con le regioni e gli enti territoriali del Ministero delle politiche agricole, alimentari e forestali
     #. **Alessandro Ferraro**, dirigente responsabile Agret II – SIAN, coordinamento ICT e informazione del Ministero delle politiche agricole, alimentari e forestali
-- Audizione n. 36 – *16 maggio 2017* - (Resoconto stenografico n. 32)
+- Audizione n. 36 – *16 maggio 2017* - (`Resoconto stenografico n. 32 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/16/leg.17.stencomm.data20170516.U1.com73.audiz2.audizione.0032.pdf>`_)
     #. **Gabriele Papa Pagliardini**, direttore di Agea
     #. **Maurizio Salvi**, dirigente di Agea
     #. **Renzo Lolli**, dirigente di Agea
-- Audizione n. 37 – *17 maggio 2017* - (Resoconto stenografico n. 33)
+- Audizione n. 37 – *17 maggio 2017* - (`Resoconto stenografico n. 33 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/17/leg.17.stencomm.data20170517.U1.com73.audiz2.audizione.0033.pdf>`_)
     #. **Angelo Sticchi Damiani**, presidente di ACI Informatica
     #. **Mauro Minenna**, direttore generale di ACI Informatica Spa
     #. **Vincenzo Pensa**, direttore direzione sistemi informativi ed innovazione ACI
-- Audizione n. 38 – *23 maggio 2017* - (Resoconto stenografico n. 34)
+- Audizione n. 38 – *23 maggio 2017* - (`Resoconto stenografico n. 34 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/23/leg.17.stencomm.data20170523.U1.com73.audiz2.audizione.0034.pdf>`_)
     #. **Concetta Lo Conte**, direttore dell’area amministrazione di Agea
-- Audizione n. 39 – *23 maggio 2017* - (Resoconto stenografico n. 34)
+- Audizione n. 39 – *23 maggio 2017* - (`Resoconto stenografico n. 34 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/23/leg.17.stencomm.data20170523.U1.com73.audiz2.audizione.0034.pdf>`_)
     #. **Speranzina De Matteo**, presidente di SIN
-- Audizione n. 40 – *24 maggio 2017* - (Resoconto stenografico n. 35)
+- Audizione n. 40 – *24 maggio 2017* - (`Resoconto stenografico n. 35 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/24/leg.17.stencomm.data20170524.U1.com73.audiz2.audizione.0035.pdf>`_)
     #. **Renato Di Donna**, direttore progetti per la PA di Consip
     #. **Roberto Bettacchi**, responsabile cliente Agea di Consip
-    
-    
-Audizione n. 41 – 25 maggio 2017 (Resoconto stenografico n. 36)
-77.  Gabriele Papa Pagliardini, direttore di Agea
-78.  Felice Assenza, direttore generale delle politiche internazionali e dell’Unione europea del Ministero delle politiche agricole, alimentari e forestali
-79.  Domenico Mancusi, ex dirigente dell’ufficio SIAN, coordinamento ICT e informazione del Ministero delle politiche agricole, alimentari e forestali
-Audizione n. 42 – 30 maggio 2017 (Resoconto stenografico n. 37)
-80.  Fabrizio Stella, direttore dell’Agenzia veneta per i pagamenti in agricoltura (AVEPA)
-Audizione n. 43 – 31 maggio 2017 (Resoconto stenografico n. 38) (seguito dell’audizione n. 40 del 24 maggio 2017)
-81.  Renato Di Donna, direttore progetti per la PA di Consip
-82.  Roberto Bettacchi, responsabile cliente Agea di Consip
-Audizione n. 44 – 7 giugno 2017 (Resoconto stenografico n. 39)
-83.  Francesco Vincenzo Sofia, responsabile del Sistema Integrato di Gestione e Controllo (SIGC) e Sistemi informativi e tecnologici di Agea
-Audizione n. 45 – 8 giugno 2017 (Resoconto stenografico n. 40)
-84. Silvia Lorenzini, direttore dell’Agenzia regionale per le erogazioni in agricoltura Emilia-Romagna (Agrea)
-Audizione n. 46 – 22 giugno 2017 (Resoconto stenografico n. 41) (seguito dell’audizione n. 39 del 23 maggio 2017)
-85.  Speranzina De Matteo, presidente di SIN
-86.  Mariano Laghezza, responsabile dei servizi resi a favore di Agea, di SIN
-87.  Antonio Tozzi, direttore generale di SIN
-88.  Anna Veneziani, direttore esecutivo di SIN
-Audizione n. 47 – 28 giugno 2017 (Resoconto stenografico n. 42)
-89.  Enza Maria Leone, responsabile del sistema informatico del dipartimento per le libertà civili e l’immigrazione del Ministero dell’interno
-Audizione n. 48 – 29 giugno 2017 (Resoconto stenografico n. 43)
-90.  Cristiana Pretto, responsabile del servizio di supporto alla direzione generale e ICT della Provincia autonoma di Trento
-Audizione n. 49 – 12 luglio 2017 (Resoconto stenografico n. 44)
-91.  Antonio Samaritani, direttore generale di AgID
-92.  Anna Picot, responsabile del servizio coordinamento Accordi Programma Quadro (APQ)
-Audizione n. 50 – 18 luglio 2017 (Resoconto stenografico n. 45)
-93.  Speranzina De Matteo, presidente del consiglio di amministrazione di SIN
-94.  Antonio Amati, consigliere di SIN
-Audizione n. 51 – 19 luglio 2017 (Resoconto stenografico n. 46)
-95. Massimo Casciello, responsabile della direzione generale della digitalizzazione, del sistema informativo sanitario e della statistica del Ministero della salute
-96.  Claudia Biffoli, dirigente ufficio 4° Sistema informativo del Ministero della salute
-97. Lidia Di Minco, dirigente ufficio 3°  Sistema informativo sanitario nazionale del Ministero della salute
-Audizione n. 52 – 20 luglio 2017 (Resoconto stenografico n. 47)
-98.  Nicola Marco Fabozzi, responsabile della divisione III Servizi e materiali informatici, direzione  generale degli affari generali e del personale, del Ministero dell’Ambiente e della tutela del territorio e del mare
- Audizione n. 53 – 25 luglio 2017 (Resoconto stenografico n. 48)
-99.  Antonio Oddati, direttore generale per l’Università, Ricerca e Innovazione della Regione Campania
-100.   Vito Merola, vicario del direttore generale per l’Università, Ricerca e Innovazione della Regione Campania
-Audizione n. 54 – 26 luglio 2017 (Resoconto stenografico n. 49)
-101. Marina Giuseppone, responsabile della direzione generale organizzazione del Ministero dei beni e delle attività culturali e del turismo
-102.  Alessandra Franzone, dirigente del servizio I affari generali, innovazione e trasparenza amministrativa del Ministero dei beni e delle attività culturali e del turismo
-Audizione n. 55 – 27 luglio 2017 (Resoconto stenografico n. 50)
-103. Gianna Barbieri, responsabile della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
-104. Paolo De Santis, dirigente ufficio III della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
-105. Rosario Riccio, dirigente ufficio IV della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
-Audizione n. 56 – 1° agosto 2017 (Resoconto stenografico n. 51)
-106.  Antonello Pellegrino, responsabile della direzione generale degli affari generali e della società dell’informazione della Regione Sardegna
-      Audizione n. 57 – 2 agosto 2017 (Resoconto stenografico n. 52)
-107.  Gabriella Serratrice, responsabile del settore sistemi informativi, segretariato generale della Regione Piemonte
-Audizione n. 58 – 2 agosto 2017 (Resoconto stenografico n. 53)
-108. Laura Castellani, responsabile del settore infrastrutture e tecnologie per lo sviluppo della società dell'informazione, direzione organizzazione e sistemi informativi della Regione Toscana
-109. Fernanda Faini, responsabile per la Regione Toscana della posizione organizzativa assistenza giuridica e normativa in materia di amministrazione digitale
-Audizione n. 59 – 3 agosto 2017 (Resoconto stenografico n. 54)
-110.   Mariella Lo Bello, vicepresidente della Regione Sicilia
-Audizione n. 60 – 7 settembre 2017 (Resoconto stenografico n. 55)
-111.   Giorgio Rapari, presidente di Assintel
-112.   Maurizio Pio, environment & government affairs di Assintel
-113.   Emanuele Spampinato, vicepresidente di Assintel
-Audizione n. 61 – 7 settembre 2017 (Resoconto stenografico n. 56)
-114. Antonio Maria Tambato, responsabile della divisione V sistemi informativi e trasformazione digitale. Formazione della direzione generale per le risorse, l’organizzazione e il bilancio del Ministero dello sviluppo economico
-Audizione n. 62 – 14 settembre 2017 (Resoconto stenografico n. 57)
-115. Pasquale Liccardo, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
-Audizione n. 63 – 19 settembre 2017 (Resoconto stenografico n. 58) (seguito dell’audizione n. 62 del 14 settembre 2017)
-116. Pasquale Liccardo, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
-Audizione n. 64 – 21 settembre 2017 (Resoconto stenografico n. 59)
-117. Gandolfo Miserendino, professional ICT presso l’assessorato politiche per la salute della Regione Emilia-Romagna
-118. Antonino Ruggeri, dirigente del settore controllo di gestione, monitoraggio dei costi per i livelli di assistenza delle ASR e dei sistemi informativi della Regione Piemonte
-Audizione n. 65 – 27 settembre 2017 (Resoconto stenografico n. 60)
-119.   Roberto Basso, presidente di Consip
-120.   Cristiano Cannarsa, amministratore delegato di Consip
-121.   Renato Di Donna, direttore progetti per la PA di Consip
-122.   Martina Beneventi, direttore legale di Consip
-Audizione n. 66 – 10 ottobre 2017 (Resoconto stenografico n. 61)
-123. Alessandra Camporota, responsabile della transizione alla modalità digitale     del Ministero dell'interno
-124. Carlo Bui, presidente del Comitato per l'innovazione del settore ICT della Pubblica Sicurezza, Ufficio del Vice Capo della Polizia, Dipartimento della Pubblica Sicurezza
-125. Maria Cavaliere, dirigente Ufficio per i servizi informatici, Direzione centrale per le risorse logistiche e strumentali, Dipartimento dei Vigili del Fuoco, del soccorso pubblico e della difesa civile
-Audizione n. 67 – 11 ottobre 2017 (Resoconto stenografico n. 63)
-126. Diego Piacentini, commissario straordinario del Governo per l’attuazione dell’agenda digitale
-127.  Simone Piunno, chief technology officer del Team digitale
+- Audizione n. 41 – *25 maggio 2017* (`Resoconto stenografico n. 36 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/25/leg.17.stencomm.data20170525.A1.com73.audiz2.audizione.0036.pdf>`_)
+    #. **Gabriele Papa Pagliardini**, direttore di Agea
+    #. **Felice Assenza**, direttore generale delle politiche internazionali e dell’Unione europea del Ministero delle politiche agricole, alimentari e forestali
+    #. **Domenico Mancusi**, ex dirigente dell’ufficio SIAN, coordinamento ICT e informazione del Ministero delle politiche agricole, alimentari e forestali
+- Audizione n. 42 – *30 maggio 2017* (`Resoconto stenografico n. 37 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/30/leg.17.stencomm.data20170530.U1.com73.audiz2.audizione.0037.pdf>`_)
+    #. **Fabrizio Stella**, direttore dell’Agenzia veneta per i pagamenti in agricoltura (AVEPA)
+- Audizione n. 43 – *31 maggio 2017* (`Resoconto stenografico n. 38 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/05/31/leg.17.stencomm.data20170531.U1.com73.audiz2.audizione.0038.pdf>`_) (seguito dell’audizione n. 40 del 24 maggio 2017)
+    #. **Renato Di Donna**, direttore progetti per la PA di Consip
+    #. **Roberto Bettacchi**, responsabile cliente Agea di Consip
+- Audizione n. 44 – *7 giugno 2017* (`Resoconto stenografico n. 39 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/07/leg.17.stencomm.data20170607.U1.com73.audiz2.audizione.0039.pdf>`_)
+    #. **Francesco Vincenzo Sofia**, responsabile del Sistema Integrato di Gestione e Controllo (SIGC) e Sistemi informativi e tecnologici di Agea
+- Audizione n. 45 – *8 giugno 2017* (`Resoconto stenografico n. 40 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/08/leg.17.stencomm.data20170608.U1.com73.audiz2.audizione.0040.pdf>`_)
+    #. **Silvia Lorenzini**, direttore dell’Agenzia regionale per le erogazioni in agricoltura Emilia-Romagna (Agrea)
+- Audizione n. 46 – *22 giugno 2017* (`Resoconto stenografico n. 41 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/22/leg.17.stencomm.data20170622.U1.com73.audiz2.audizione.0041.pdf>`_) (seguito dell’audizione n. 39 del 23 maggio 2017)
+    #. **Speranzina De Matteo**, presidente di SIN
+    #. **Mariano Laghezza**, responsabile dei servizi resi a favore di Agea, di SIN
+    #. **Antonio Tozzi**, direttore generale di SIN
+    #. **Anna Veneziani**, direttore esecutivo di SIN
+Audizione n. 47 – *28 giugno 2017* (`Resoconto stenografico n. 42 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/28/leg.17.stencomm.data20170628.U1.com73.audiz2.audizione.0042.pdf>`_)
+    #.  **Enza Maria Leone**, responsabile del sistema informatico del dipartimento per le libertà civili e l’immigrazione del Ministero dell’interno
+- Audizione n. 48 – *29 giugno 2017* (`Resoconto stenografico n. 43 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/06/29/leg.17.stencomm.data20170629.U1.com73.audiz2.audizione.0043.pdf>`_)
+    #. **Cristiana Pretto**, responsabile del servizio di supporto alla direzione generale e ICT della Provincia autonoma di Trento
+- Audizione n. 49 – *12 luglio 2017* (`Resoconto stenografico n. 44 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/07/12/leg.17.stencomm.data20170712.U1.com73.audiz2.audizione.0044.pdf>`_)
+    #.  **Antonio Samaritani**, direttore generale di AgID
+    #.  **Anna Picot**, responsabile del servizio coordinamento Accordi Programma Quadro (APQ)
+- Audizione n. 50 – *18 luglio 2017* (`Resoconto stenografico n. 45 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/07/18/leg.17.stencomm.data20170718.U1.com73.audiz2.audizione.0045.pdf>`_)
+    #.  **Speranzina De Matteo**, presidente del consiglio di amministrazione di SIN
+    #.  **Antonio Amati**, consigliere di SIN
+- Audizione n. 51 – *19 luglio 2017* (`Resoconto stenografico n. 46 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/07/19/leg.17.stencomm.data20170719.U1.com73.audiz2.audizione.0046.pdf>`_)
+    #.  **Massimo Casciello**, responsabile della direzione generale della digitalizzazione, del sistema informativo sanitario e della statistica del Ministero della salute
+    #.  **Claudia Biffoli**, dirigente ufficio 4° Sistema informativo del Ministero della salute
+    #.  **Lidia Di Minco**, dirigente ufficio 3°  Sistema informativo sanitario nazionale del Ministero della salute
+- Audizione n. 52 – *20 luglio 2017* (`Resoconto stenografico n. 47 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/07/20/leg.17.stencomm.data20170720.U1.com73.audiz2.audizione.0047.pdf>`_)
+    #.  **Nicola Marco Fabozzi**, responsabile della divisione III Servizi e materiali informatici, direzione  generale degli affari generali e del personale, del Ministero dell’Ambiente e della tutela del territorio e del mare
+- Audizione n. 53 – *25 luglio 2017* (`Resoconto stenografico n. 48 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/07/25/leg.17.stencomm.data20170725.U1.com73.audiz2.audizione.0048.pdf>`_)
+    #.  **Antonio Oddati**, direttore generale per l’Università, Ricerca e Innovazione della Regione Campania
+    #.  **Vito Merola**, vicario del direttore generale per l’Università, Ricerca e Innovazione della Regione Campania
+- Audizione n. 54 – *26 luglio 2017* (`Resoconto stenografico n. 49 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/07/26/leg.17.stencomm.data20170726.U1.com73.audiz2.audizione.0049.pdf>`_)
+    #. **Marina Giuseppone**, responsabile della direzione generale organizzazione del Ministero dei beni e delle attività culturali e del turismo
+    #.  **Alessandra Franzone**, dirigente del servizio I affari generali, innovazione e trasparenza amministrativa del Ministero dei beni e delle attività culturali e del turismo
+- Audizione n. 55 – *27 luglio 2017* (`Resoconto stenografico n. 50 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/pdf/73/audiz2/audizione/2017/07/27/leg.17.stencomm.data20170727.U1.com73.audiz2.audizione.0050.pdf>`_)
+    #. **Gianna Barbieri**, responsabile della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
+    #. **Paolo De Santis**, dirigente ufficio III della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
+    #. **Rosario Riccio**, dirigente ufficio IV della direzione generale per i contratti, gli acquisti e per i sistemi informativi e la statistica del Ministero dell’istruzione, dell’università e della ricerca
+- Audizione n. 56 – *1° agosto 2017* (Resoconto stenografico n. 51)
+    #. **Antonello Pellegrino**, responsabile della direzione generale degli affari generali e della società dell’informazione della Regione Sardegna
+- Audizione n. 57 – *2 agosto 2017* (Resoconto stenografico n. 52)
+    #. **Gabriella Serratrice**, responsabile del settore sistemi informativi, segretariato generale della Regione Piemonte
+- Audizione n. 58 – *2 agosto 2017* (Resoconto stenografico n. 53)
+    #. **Laura Castellani**, responsabile del settore infrastrutture e tecnologie per lo sviluppo della società dell'informazione, direzione organizzazione e sistemi informativi della Regione Toscana
+    #. **Fernanda Faini**, responsabile per la Regione Toscana della posizione organizzativa assistenza giuridica e normativa in materia di amministrazione digitale
+- Audizione n. 59 – *3 agosto 2017* (Resoconto stenografico n. 54)
+    #. **Mariella Lo Bello**, vicepresidente della Regione Sicilia
+- Audizione n. 60 – *7 settembre 2017* (Resoconto stenografico n. 55)
+    #. **Giorgio Rapari**, presidente di Assintel
+    #. **Maurizio Pio**, environment & government affairs di Assintel
+    #. **Emanuele Spampinato**, vicepresidente di Assintel
+- Audizione n. 61 – *7 settembre 2017* (Resoconto stenografico n. 56)
+    #. **Antonio Maria Tambato**, responsabile della divisione V sistemi informativi e trasformazione digitale. Formazione della direzione generale per le risorse, l’organizzazione e il bilancio del Ministero dello sviluppo economico
+- Audizione n. 62 – *14 settembre 2017* (Resoconto stenografico n. 57)
+    #. **Pasquale Liccardo**, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
+- Audizione n. 63 – *19 settembre 2017* (Resoconto stenografico n. 58) (seguito dell’audizione n. 62 del 14 settembre 2017)
+    #. **Pasquale Liccardo**, direttore generale dei sistemi informativi automatizzati del Ministero della giustizia
+- Audizione n. 64 – *21 settembre 2017* (Resoconto stenografico n. 59)
+    #. **Gandolfo Miserendino**, professional ICT presso l’assessorato politiche per la salute della Regione Emilia-Romagna
+    #. **Antonino Ruggeri**, dirigente del settore controllo di gestione, monitoraggio dei costi per i livelli di assistenza delle ASR e dei sistemi informativi della Regione Piemonte
+- Audizione n. 65 – *27 settembre 2017* (Resoconto stenografico n. 60)
+    #. **Roberto Basso**, presidente di Consip
+    #. **Cristiano Cannarsa**, amministratore delegato di Consip
+    #. **Renato Di Donna**, direttore progetti per la PA di Consip
+    #. **Martina Beneventi**, direttore legale di Consip
+- Audizione n. 66 – *10 ottobre 2017* (Resoconto stenografico n. 61)
+    #. **Alessandra Camporota**, responsabile della transizione alla modalità digitale     del Ministero dell'interno
+    #. **Carlo Bui**, presidente del Comitato per l'innovazione del settore ICT della Pubblica Sicurezza, Ufficio del Vice Capo della Polizia, Dipartimento della Pubblica Sicurezza
+    #. **Maria Cavaliere**, dirigente Ufficio per i servizi informatici, Direzione centrale per le risorse logistiche e strumentali, Dipartimento dei Vigili del Fuoco, del soccorso pubblico e della difesa civile
+- Audizione n. 67 – *11 ottobre 2017* (Resoconto stenografico n. 63)
+    #. **Diego Piacentini**, commissario straordinario del Governo per l’attuazione dell’agenda digitale
+    #. **Simone Piunno**, chief technology officer del Team digitale
